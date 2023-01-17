@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.binh.englishapp">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_hacknao"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_hacknao_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EnglishApp">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ForgotPassActivity"/>
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".HocTu"/>
+        <activity android:name=".TruyenChem"/>
+        <activity android:name=".LuyenTap"/>
+        <activity android:name=".U1_HocTu"/>
+        <activity android:name=".U2_HocTu"/>
+        <activity android:name=".U3_HocTu"/>
+        <activity android:name=".U4_HocTu"/>
+        <activity android:name=".U5_HocTu"/>
+        <activity android:name=".U6_HocTu"/>
+        <activity android:name=".U7_HocTu"/>
+        <activity android:name=".U8_HocTu"/>
+        <activity android:name=".U9_HocTu"/>
+        <activity android:name=".U10_HocTu"/>
+        <activity android:name=".U11_HocTu"/>
+        <activity android:name=".U12_HocTu"/>
+        <activity android:name=".U13_HocTu"/>
+        <activity android:name=".U14_HocTu"/>
+        <activity android:name=".U15_HocTu"/>
+        <activity android:name=".U16_HocTu"/>
+        <activity android:name=".U17_HocTu"/>
+        <activity android:name=".U18_HocTu"/>
+        <activity android:name=".U19_HocTu"/>
+        <activity android:name=".U20_HocTu"/>
+        <activity android:name=".U21_HocTu"/>
+        <activity android:name=".U22_HocTu"/>
+        <activity android:name=".U23_HocTu"/>
+        <activity android:name=".U24_HocTu"/>
+        <activity android:name=".U25_HocTu"/>
+        <activity android:name=".U1_TruyenChem"/>
+        <activity android:name=".U2_TruyenChem"/>
+        <activity android:name=".U3_TruyenChem"/>
+        <activity android:name=".U4_TruyenChem"/>
+        <activity android:name=".U5_TruyenChem"/>
+        <activity android:name=".U6_TruyenChem"/>
+        <activity android:name=".U7_TruyenChem"/>
+        <activity android:name=".U8_TruyenChem"/>
+        <activity android:name=".U9_TruyenChem"/>
+        <activity android:name=".U10_TruyenChem"/>
+        <activity android:name=".U11_TruyenChem"/>
+        <activity android:name=".U12_TruyenChem"/>
+        <activity android:name=".U13_TruyenChem"/>
+        <activity android:name=".U14_TruyenChem"/>
+        <activity android:name=".U15_TruyenChem"/>
+        <activity android:name=".U16_TruyenChem"/>
+        <activity android:name=".U17_TruyenChem"/>
+        <activity android:name=".U18_TruyenChem"/>
+        <activity android:name=".U19_TruyenChem"/>
+        <activity android:name=".U20_TruyenChem"/>
+        <activity android:name=".U21_TruyenChem"/>
+        <activity android:name=".U22_TruyenChem"/>
+        <activity android:name=".U23_TruyenChem"/>
+        <activity android:name=".U24_TruyenChem"/>
+        <activity android:name=".U25_TruyenChem"/>
+        <activity android:name=".U1_LuyenTap"/>
+        <activity android:name=".U2_LuyenTap"/>
+        <activity android:name=".U3_LuyenTap"/>
+        <activity android:name=".U4_LuyenTap"/>
+        <activity android:name=".U5_LuyenTap"/>
+        <activity android:name=".U6_LuyenTap"/>
+        <activity android:name=".U7_LuyenTap"/>
+        <activity android:name=".U8_LuyenTap"/>
+        <activity android:name=".U9_LuyenTap"/>
+        <activity android:name=".U10_LuyenTap"/>
+        <activity android:name=".U11_LuyenTap"/>
+        <activity android:name=".U12_LuyenTap"/>
+        <activity android:name=".U13_LuyenTap"/>
+        <activity android:name=".U14_LuyenTap"/>
+        <activity android:name=".U15_LuyenTap"/>
+        <activity android:name=".U16_LuyenTap"/>
+        <activity android:name=".U17_LuyenTap"/>
+        <activity android:name=".U18_LuyenTap"/>
+        <activity android:name=".U19_LuyenTap"/>
+        <activity android:name=".U20_LuyenTap"/>
+        <activity android:name=".U21_LuyenTap"/>
+        <activity android:name=".U22_LuyenTap"/>
+        <activity android:name=".U23_LuyenTap"/>
+        <activity android:name=".U24_LuyenTap"/>
+        <activity android:name=".U25_LuyenTap"/>
+        <activity android:name=".activity_hoctu"/>
+        <activity android:name=".activity_ketqua"/>
+        <activity android:name=".HuongDan"/>
+    </application>
+
+</manifest>

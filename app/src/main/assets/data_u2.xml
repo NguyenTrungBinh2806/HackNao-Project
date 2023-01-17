@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Kindergarten</TuVung>
+        <PhienAm>/ˈkɪndəɡɑːtn/</PhienAm>
+        <Nghia>Mẫu giáo</Nghia>
+        <YNghia>Bố "KIÊN ĐỢI GÀ TẦN" nấu xong sẽ chở con đến trường mẫu giáo.</YNghia>
+        <TiengAnh>a school or class to prepare children aged five for school</TiengAnh>
+        <Eg>Kindergarten is where kids learn to behave in class.</Eg>
+        <Dich>Trường mẫu giáo là nơi trẻ em học cách cư xử trong lớp.</Dich>
+        <Srcimg>kindergarten</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Primary</TuVung>
+        <PhienAm>/ˈpraɪməri/</PhienAm>
+        <Nghia>Tiểu học</Nghia>
+        <YNghia>"Bé lẠI MƠ ĐI" học tiểu học sau kỳ nghỉ Tết dài lịch sử.</YNghia>
+        <TiengAnh>connected with the education of children between the ages of about five and eleven</TiengAnh>
+        <Eg>In primary school, students learn basic maths.</Eg>
+        <Dich>Ở trường tiểu học, học sinh học các phép toán cơ bản.</Dich>
+        <Srcimg>primary</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Secondary</TuVung>
+        <PhienAm>/ˈsekəndri/</PhienAm>
+        <Nghia>Trung học cơ sở</Nghia>
+        <YNghia>Sau tiểu học, bé "SẼ CÒN Đợi ĐI" học trung học cơ sở nữa.</YNghia>
+        <TiengAnh>connected with teaching children of 11–18 years</TiengAnh>
+        <Eg>I meet my wife when I was in secondary school.</Eg>
+        <Dich>Tôi gặp vợ tôi khi tôi còn học cấp hai.</Dich>
+        <Srcimg>secondary</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Mathematics</TuVung>
+        <PhienAm>/ˌmæθəˈmætɪks/</PhienAm>
+        <Nghia>Toán học</Nghia>
+        <YNghia>"MÁ THU MÉM THÍCH" học toán học nhưng vì ba nên quyết học văn.</YNghia>
+        <TiengAnh>the science of numbers and shapes. Branches of mathematics include arithmetic, algebra, geometry and trigonometry.</TiengAnh>
+        <Eg>Mathematics was my best subject in school.</Eg>
+        <Dich>Toán học là môn học tốt nhất của tôi ở trường.</Dich>
+        <Srcimg>mathematics</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Engineering</TuVung>
+        <PhienAm>/ˌendʒɪˈnɪərɪŋ/</PhienAm>
+        <Nghia>Ngành kỹ sư</Nghia>
+        <YNghia>"ANh RỂ NY RINH" về nhà bằng tốt nghiệp nghành kỹ sư.</YNghia>
+        <TiengAnh>the activity of applying scientific knowledge to the design, building and control of machines</TiengAnh>
+        <Eg>People is engineering typically have to be good at maths</Eg>
+        <Dich>Dân kỹ thuật thường phải giỏi toán</Dich>
+        <Srcimg>engineering</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Subject</TuVung>
+        <PhienAm>/ˈsʌbdʒɪkt/</PhienAm>
+        <Nghia>Môn học</Nghia>
+        <YNghia>"Vy SẮP CHỆCH" hướng sang học các môn học xã hội rồi.</YNghia>
+        <TiengAnh>a thing or person that is being discussed, described or dealt with</TiengAnh>
+        <Eg>What's your favorite subject at school?</Eg>
+        <Dich>Môn học yêu thích của bạn ở trường là gì?</Dich>
+        <Srcimg>subject</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Science</TuVung>
+        <PhienAm>/ˈsaɪəns/</PhienAm>
+        <Nghia>Khoa học</Nghia>
+        <YNghia>Nghiên cứu khoa học mà "SAI ẤM" ầm.</YNghia>
+        <TiengAnh>knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, </TiengAnh>
+        <Eg>Science is very useful in daily life.</Eg>
+        <Dich>Khoa học rất hữu ích trong cuộc sống hàng ngày</Dich>
+        <Srcimg>science</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Popular</TuVung>
+        <PhienAm>/ˈpɒpjələ(r)/</PhienAm>
+        <Nghia>Thịnh hành</Nghia>
+        <YNghia>"BỐ BIỂU LỜ" mấy ngành thường đi, thi ngành thịnh hành thôi.</YNghia>
+        <TiengAnh>liked or enjoyed by a large number of people</TiengAnh>
+        <Eg>Football is a very popular sport in Vietnam.</Eg>
+        <Dich>Bóng đá là một môn thể thao rất phổ biến ở Việt Nam.</Dich>
+        <Srcimg>popular</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Absent</TuVung>
+        <PhienAm>/ˈæbsənt/</PhienAm>
+        <Nghia>Vắng mặt</Nghia>
+        <YNghia>Đức được ba mẹ "ÉP SƯỜN" hai bên đến lớp để không vắng mặt buổi học nào.</YNghia>
+        <TiengAnh>not in a place because of illness, etc.</TiengAnh>
+        <Eg>If you are late, the teacher will mark you as absent.</Eg>
+        <Dich>Nếu bạn đến muộn, giáo viên sẽ đánh giá bạn vắng mặt.</Dich>
+        <Srcimg>absent</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Art</TuVung>
+        <PhienAm>/ɑːt/</PhienAm>
+        <Nghia>Nghệ thuật</Nghia>
+        <YNghia>Tự nhiên đã lấn ÁT nghệ thuật trong những năm gần đây.</YNghia>
+        <TiengAnh>the use of the imagination to express ideas or feelings, particularly in painting, drawing or sculpture</TiengAnh>
+        <Eg>Painting is my favorite type of art.</Eg>
+        <Dich>Hội họa là loại hình nghệ thuật yêu thích của tôi.</Dich>
+        <Srcimg>art</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Attend</TuVung>
+        <PhienAm>/əˈtend/</PhienAm>
+        <Nghia>Tham dự</Nghia>
+        <YNghia>sỢ TÊN tớ có trong danh sách người được mời tham dự lắm.</YNghia>
+        <TiengAnh>to be present at an event</TiengAnh>
+        <Eg>She only chooses to attend the classes that she likes.</Eg>
+        <Dich>Cô ấy chỉ chọn tham gia những lớp học mà cô ấy thích.</Dich>
+        <Srcimg>attend</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Term</TuVung>
+        <PhienAm>/tɜːm/</PhienAm>
+        <Nghia>Học kỳ</Nghia>
+        <YNghia>Sinh viên mỹ thuật tập vẽ trái THƠM cả học kỳ.</YNghia>
+        <TiengAnh>a word or phrase used as the name of something, especially one connected with a particular type of language</TiengAnh>
+        <Eg>I will spend a term studying abroad!</Eg>
+        <Dich>Tôi sẽ dành một kỳ học ở nước ngoài!</Dich>
+        <Srcimg>term</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Grade</TuVung>
+        <PhienAm>/ɡreɪd/</PhienAm>
+        <Nghia>Điểm số</Nghia>
+        <YNghia>Bức vẽ "Gà RÂY đường lên bánh" được điểm số cao.</YNghia>
+        <TiengAnh>a mark given in an exam or for a piece of school work</TiengAnh>
+        <Eg>I studied all night to get a good grade on this test.</Eg>
+        <Dich>Tôi đã học cả đêm để đạt điểm cao trong bài kiểm tra này.</Dich>
+        <Srcimg>grade</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Continue</TuVung>
+        <PhienAm>/kənˈtɪnjuː/</PhienAm>
+        <Nghia>Tiếp tục</Nghia>
+        <YNghia>Muối chỉ CÒN TÍ, NIÊU cơm này vẫn phải tiếp tục nấu.</YNghia>
+        <TiengAnh>to keep existing or happening without stopping</TiengAnh>
+        <Eg>Click "OK" if you want to continue.</Eg>
+        <Dich>Nhấp vào "OK" nếu bạn muốn tiếp tục.</Dich>
+        <Srcimg>continue1</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Announce</TuVung>
+        <PhienAm>/əˈnaʊns/</PhienAm>
+        <Nghia>Thông báo</Nghia>
+        <YNghia>Đau Ở NÃO sợ lắm, nên thông báo sớm để mọi người phòng ngừa.</YNghia>
+        <TiengAnh>to tell people something officially, especially about a decision, plans</TiengAnh>
+        <Eg>They are going to announce their wedding at the party.</Eg>
+        <Dich>Họ sẽ thông báo về đám cưới của họ trong bữa tiệc. </Dich>
+        <Srcimg>announce</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Nervous</TuVung>
+        <PhienAm>/ˈnɜːvəs/</PhienAm>
+        <Nghia>Lo lắng</Nghia>
+        <YNghia>Cái NƠ VỢT xa khỏi mặt nước khiến mọi người hoảng sợ, lo lắng.</YNghia>
+        <TiengAnh> anxious about something or afraid of something</TiengAnh>
+        <Eg>I alway feel nervous before a test.</Eg>
+        <Dich>Tôi luôn cảm thấy lo lắng trước một bài kiểm tra.</Dich>
+        <Srcimg>nervous</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Revise</TuVung>
+        <PhienAm>/rɪˈvaɪz/</PhienAm>
+        <Nghia>Ôn tập</Nghia>
+        <YNghia>Muốn nhớ điều GÌ, VAI trò chính là phải chăm ôn tập,</YNghia>
+        <TiengAnh>to change your opinions or plans, for example because of something you have learned</TiengAnh>
+        <Eg>You need to revises thoroughly if you want to pass your test.</Eg>
+        <Dich>Bạn cần ôn tập kỹ lưỡng nếu muốn vượt qua bài kiểm tra của mình.</Dich>
+        <Srcimg>revise</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Assignment</TuVung>
+        <PhienAm>/əˈsaɪnmənt/</PhienAm>
+        <Nghia>Bài tập</Nghia>
+        <YNghia>May đây chỉ bài tập, nhỠ SAI MÌNH vẫn còn sửa được.</YNghia>
+        <TiengAnh> a task or piece of work that somebody is given to do, usually as part of their job or studies</TiengAnh>
+        <Eg>I usually complete my assignment at the last minute.</Eg>
+        <Dich>Tôi thường hoàn thành bài tập của mình vào phút cuối. </Dich>
+        <Srcimg>assignment</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Enroll</TuVung>
+        <PhienAm>/ɪnˈrəʊl/</PhienAm>
+        <Nghia>Nhập học</Nghia>
+        <YNghia>Sinh viên mới nhập học phải IN RÂU lên mặt.</YNghia>
+        <TiengAnh>to arrange for yourself or for somebody else to officially join a course, school, etc.</TiengAnh>
+        <Eg>The fee to enroll here is rather high.</Eg>
+        <Dich>Phí ghi danh ở đây là khá cao.</Dich>
+        <Srcimg>enroll</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Succeed</TuVung>
+        <PhienAm>/səkˈsiːd/</PhienAm>
+        <Nghia>Thành công</Nghia>
+        <YNghia>Ngốc SỢ XÍT thành công nhanh hơn mình.</YNghia>
+        <TiengAnh>to achieve something that you have been trying to do or get; to have the result or effect that was intended</TiengAnh>
+        <Eg>You need to work hard if you wish to succeed in life.</Eg>
+        <Dich>Bạn cần phải làm việc chăm chỉ nếu bạn muốn thành công trong cuộc sống</Dich>
+        <Srcimg>succeed</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Uniform</TuVung>
+        <PhienAm>/ˈjuːnɪfɔːm/</PhienAm>
+        <Nghia>Đông phục</Nghia>
+        <YNghia>Em IU NÌ, PHÒNG mình có đồnh phục mới đấy.</YNghia>
+        <TiengAnh>the special set of clothes worn by all members of an organization or a group at work, or by children at school</TiengAnh>
+        <Eg>Did you wear a uniform while in secondary school?</Eg>
+        <Dich>Bạn đã mặc đồng phục khi còn học cấp hai?</Dich>
+        <Srcimg>uniform</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Memorize</TuVung>
+        <PhienAm>/ˈmeməraɪz/</PhienAm>
+        <Nghia>Học thuộc</Nghia>
+        <YNghia>MÁ MƠ RẢI sách khắp nhà, học thuộc mãi không hết.</YNghia>
+        <TiengAnh>memorize something to learn something carefully so that you can remember it exactly </TiengAnh>
+        <Eg>Using pictures and sounds will help you memorise new words.</Eg>
+        <Dich>Sử dụng hình ảnh và âm thanh sẽ giúp bạn ghi nhớ từ mới.</Dich>
+        <Srcimg>memorize</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Curriculum</TuVung>
+        <PhienAm>/kəˈrɪkjələm/</PhienAm>
+        <Nghia>Chương trình giảng dạy</Nghia>
+        <YNghia>KA-RÍCH CỨ LÀM chương trình giảng dạy tiếng Tàu sang tiếng Hàn.</YNghia>
+        <TiengAnh>the subjects that are included in a course of study or taught in a school, college, etc.</TiengAnh>
+        <Eg>The curriculum is desinged to teach students life skills.</Eg>
+        <Dich>Chương trình học được biên soạn nhằm hướng dẫn học sinh các kỹ năng sống.</Dich>
+        <Srcimg>curriculum</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>School life</ChuDe>
+        <TuVung>Dropout</TuVung>
+        <PhienAm>/ˈdrɒpaʊt/</PhienAm>
+        <Nghia>Người bỏ học</Nghia>
+        <YNghia>Drop + out = Rời Ra = người Rời xa Ra khỏi trường = người bỏ học.</YNghia>
+        <TiengAnh>a person who leaves school or college before they have finished their studies</TiengAnh>
+        <Eg>He's a high school dropout, but he still became a billionaire.</Eg>
+        <Dich>Anh ấy là một học sinh trung học đã bỏ học, nhưng anh ấy vẫn trở thành một tỷ phú.</Dich>
+        <Srcimg>dropout</Srcimg>
+    </Item>
+
+</Word>
+

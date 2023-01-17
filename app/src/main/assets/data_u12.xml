@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Route</TuVung>
+        <PhienAm>/ruːt/</PhienAm>
+        <Nghia>tuyến đường </Nghia>
+        <YNghia>Tuyến đường Hà Nội- Hải Phòng RÚT ngắn còn 50km. </YNghia>
+        <TiengAnh>a way that you follow to get from one place to another</TiengAnh>
+        <Eg>Whats the fastest route from hanoi to Saigon </Eg>
+        <Dich>Tuyến đường nhanh nhất từ Hà Nội đến Sài Gòn là gì</Dich>
+        <Srcimg>route</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Mausoleum </TuVung>
+        <PhienAm>/ˌmɔːzəˈliːəm/</PhienAm>
+        <Nghia>Lăng tẩm </Nghia>
+        <YNghia>Lăng tẩm ẩm mốc làm quạt MO DƠ, LY ẦM ĩ đòi bắt đền </YNghia>
+        <TiengAnh>a special building made to hold the dead body of an important person or the dead bodies of a family</TiengAnh>
+        <Eg>Last summer, my school went to visit the HCM Mausoleum </Eg>
+        <Dich>Hè năm ngoái trường mình đi thăm Lăng Bác. </Dich>
+        <Srcimg>mausoleum</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>History </TuVung>
+        <PhienAm>/ˈhɪstri/</PhienAm>
+        <Nghia>lịch sử </Nghia>
+        <YNghia>Chỉ cần lấy mũi để HÍT, TỚ RIm cá ngon nhất lịch sử </YNghia>
+        <TiengAnh>all the events that happened in the past</TiengAnh>
+        <Eg>Can you tell me about the history of your country? </Eg>
+        <Dich>Bạn có thể cho tôi biết về lịch sử của đất nước bạn? </Dich>
+        <Srcimg>history</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Hidden</TuVung>
+        <PhienAm>/ˈhɪdn/</PhienAm>
+        <Nghia>bị ẩn  </Nghia>
+        <YNghia>quả thị bị ẩn giấu đã lâu, chỉ nên HÍT, ĐỪNG ăn </YNghia>
+        <TiengAnh>something that is hidden is kept or located in a place where it cannot be seen</TiengAnh>
+        <Eg>The best food is often hidden in small side streets and alleys </Eg>
+        <Dich>Thức ăn ngon nhất thường được giấu trong các con đường nhỏ và ngõ nhỏ </Dich>
+        <Srcimg>hidden</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Guide </TuVung>
+        <PhienAm>/ɡaɪd/</PhienAm>
+        <Nghia>hướng dẫn viên </Nghia>
+        <YNghia>Anh hướng dẫn viên mải nhìn bản đồ nen ngã vào bụi GAI </YNghia>
+        <TiengAnh>a person who shows other people the way to a place, especially somebody employed to show tourists around interesting places</TiengAnh>
+        <Eg>Our guide showed us around the old quarter </Eg>
+        <Dich>Hướng dẫn của chúng tôi đã chỉ cho chúng tôi xung quanh khu phố cổ </Dich>
+        <Srcimg>guide</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Church </TuVung>
+        <PhienAm>/tʃɜːrtʃ/</PhienAm>
+        <Nghia>nhà thờ </Nghia>
+        <YNghia>Cuộc nói chuyện diễn ra trong lúc họ ngồi CHỜ TRong nhà thờ </YNghia>
+        <TiengAnh>a building where Christians go to attend services, pray, etc.</TiengAnh>
+        <Eg>They decided to visit a church on Christmas. </Eg>
+        <Dich>Họ quyết định đến thăm một nhà thờ vào dịp Giáng sinh. </Dich>
+        <Srcimg>church</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Temple</TuVung>
+        <PhienAm>/ˈtempl/</PhienAm>
+        <Nghia>đền </Nghia>
+        <YNghia>Muốn cắt tóc TÉM PỜ rở như Thu thì ra đằng sau đền có quán cắt tóc </YNghia>
+        <TiengAnh>a building used for religious worship, especially in religions other than Christianity</TiengAnh>
+        <Eg>There is a temple at the top of a mountain in BAVI</Eg>
+        <Dich>Có một ngôi chùa trên đỉnh núi ở BAVI</Dich>
+        <Srcimg>temple</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Pagoda</TuVung>
+        <PhienAm>/pəˈɡəʊdə/</PhienAm>
+        <Nghia>chùa </Nghia>
+        <YNghia>Đi thăm chừa, Mai quên magn bánh BƠ GẤU, ĐỜ đẫn vì đói. </YNghia>
+        <TiengAnh>in South or East Asia in the form of a tall tower with several levels, each of which has its own roof that extends beyond the walls</TiengAnh>
+        <Eg>They often go to the pagoda on the fisrt day of the month </Eg>
+        <Dich>Họ thường đi lễ chùa vào ngày đầu tháng. </Dich>
+        <Srcimg>pagoda</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>War</TuVung>
+        <PhienAm>/wɔːr/</PhienAm>
+        <Nghia>chiến tranh </Nghia>
+        <YNghia>WOA, rét rồi mà vẫn còn chiến tranh lạnh với ng yêu à? </YNghia>
+        <TiengAnh>a situation in which two or more countries or groups of people fight against each other over a period of time</TiengAnh>
+        <Eg>The VN war ended a long time ago </Eg>
+        <Dich>Chiến tranh VN đã kết thúc lâu lắm rồi</Dich>
+        <Srcimg>war</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Touristy</TuVung>
+        <PhienAm>/ˈtʊrɪsti/</PhienAm>
+        <Nghia>đông du khách </Nghia>
+        <YNghia>Khản giọng mà không ăn THUA GÌ TÍ lạc nhau vì quá đông du khách </YNghia>
+        <TiengAnh>attracting or designed to attract a lot of tourists</TiengAnh>
+        <Eg>I know BuiVien is very Touristy place, but it's still fun </Eg>
+        <Dich>Tôi biết BuiVien là một nơi rất đông khách du lịch, nhưng nó vẫn rất vui </Dich>
+        <Srcimg>touristy</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Lover</TuVung>
+        <PhienAm>/ˈlʌvər/</PhienAm>
+        <Nghia>tình nhân </Nghia>
+        <YNghia>Tình nhân duy nhất của tuấn là cái LAP VÀ cái điện thoại </YNghia>
+        <TiengAnh>a partner in a sexual relationship outside marriage</TiengAnh>
+        <Eg>He found out that she had another lover</Eg>
+        <Dich>Anh phát hiện ra cô có người yêu khác </Dich>
+        <Srcimg>lover</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Lovely </TuVung>
+        <PhienAm>/ˈlʌvli/</PhienAm>
+        <Nghia>đáng yêu </Nghia>
+        <YNghia>Mai lấm LÁP Với LY đáng yêu là đôi bạn thân </YNghia>
+        <TiengAnh>beautiful; attractive</TiengAnh>
+        <Eg>The weather of hanoi in early December is very lovely</Eg>
+        <Dich>Thời tiết Hà Nội đầu tháng mười hai thật dễ thương</Dich>
+        <Srcimg>lovely</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Try</TuVung>
+        <PhienAm>/traɪ/</PhienAm>
+        <Nghia>thử </Nghia>
+        <YNghia>Tuấn thử vuốt tóc xuống xem có đẹp TRAI hơn không </YNghia>
+        <TiengAnh>to make an attempt or effort to do or get something</TiengAnh>
+        <Eg>You should try the local food when you travel </Eg>
+        <Dich>Bạn nên thử các món ăn địa phương khi bạn đi du lịch </Dich>
+        <Srcimg>try1</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Recommend</TuVung>
+        <PhienAm>/ˌrekəˈmend/</PhienAm>
+        <Nghia>đề xuất </Nghia>
+        <YNghia>Tuấn đề xuất làm mọi người im RE CƠ, MEN lắm ý! </YNghia>
+        <TiengAnh>to tell somebody that something is good or useful, or that somebody would be suitable for a particular job, etc.</TiengAnh>
+        <Eg>I Recommend you try pho in Hanoi </Eg>
+        <Dich>Tôi khuyên bạn nên thử phở ở Hà Nội</Dich>
+        <Srcimg>recommend</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Taste</TuVung>
+        <PhienAm>/teɪst/</PhienAm>
+        <Nghia>nếm thử </Nghia>
+        <YNghia>TẾT sẽ là dịp để mai nếm thử mọi món ăn </YNghia>
+        <TiengAnh>the particular quality that different foods and drinks have that allows you to recognize them when you put them in your mouth</TiengAnh>
+        <Eg>Can I taste your caphe sua da? </Eg>
+        <Dich>Tôi có thể nếm cà phê của bạn sua da? </Dich>
+        <Srcimg>taste</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Local</TuVung>
+        <PhienAm>/ˈləʊkl/</PhienAm>
+        <Nghia>địa phương </Nghia>
+        <YNghia>Phá LẤU CỒ Việt là thương hiệu thuộc địa phương nổi tiếng </YNghia>
+        <TiengAnh>belonging to or connected with the particular place or area that you are talking about or with the place where you live</TiengAnh>
+        <Eg>It's best to ask a local person about Where to eat </Eg>
+        <Dich>Tốt nhất bạn nên hỏi một người địa phương về Địa điểm ăn uống</Dich>
+        <Srcimg>local</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Option</TuVung>
+        <PhienAm>/ˈɑːpʃn/</PhienAm>
+        <Nghia>lựa chọn </Nghia>
+        <YNghia>Giữa cua ÓP SẦN và cua chắc gạch sự lựa chọn của bạn là gì?</YNghia>
+        <TiengAnh>something that you can choose to have or do; the freedom to choose what you do</TiengAnh>
+        <Eg>You have two Options: eat your food or go to bed hungry</Eg>
+        <Dich>Bạn có hai lựa chọn: ăn thức ăn của bạn hoặc đi ngủ khi đói </Dich>
+        <Srcimg>option</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Sightseeing </TuVung>
+        <PhienAm>/ˈsaɪtsiːɪŋ/</PhienAm>
+        <Nghia>ngắm cảnh </Nghia>
+        <YNghia>Sight+ seeing= cảnh + ngắm= ngắm cảnh.</YNghia>
+        <TiengAnh>the activity of visiting interesting buildings and places as a tourist</TiengAnh>
+        <Eg>I'm excited to go Sightseeing tomorrow </Eg>
+        <Dich>Tôi rất vui được đi Tham quan vào ngày mai </Dich>
+        <Srcimg>sightseeing</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Market</TuVung>
+        <PhienAm>/ˈmɑːrkɪt/</PhienAm>
+        <Nghia>chợ</Nghia>
+        <YNghia>Uống phải li nước MÁ KỊT đen vì để lâu ở chợ, đau bụng quá!.</YNghia>
+        <TiengAnh>an occasion when people buy and sell goods; the open area or building where they meet to do this</TiengAnh>
+        <Eg>The hanoi flower market is most beautiful before tet </Eg>
+        <Dich>Chợ hoa hà nội đẹp nhất trước tết </Dich>
+        <Srcimg>market</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Resort</TuVung>
+        <PhienAm>/rɪˈzɔːrt/</PhienAm>
+        <Nghia>khu nghỉ dưỡng </Nghia>
+        <YNghia>Nước ở khu nghỉ dưỡng chảy rì RÌ, GIỌT ra giọt vào.</YNghia>
+        <TiengAnh>a place where a lot of people go on holiday</TiengAnh>
+        <Eg>There's an amazing six star resort in Danang </Eg>
+        <Dich>Có một resort 6 sao tuyệt vời ở Đà Nẵng</Dich>
+        <Srcimg>resort</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Campsite</TuVung>
+        <PhienAm>/ˈkæmpsaɪt/</PhienAm>
+        <Nghia>khu cắm trại </Nghia>
+        <YNghia>Camp + site= trại+ điểm=khu cắm trại.</YNghia>
+        <TiengAnh>a place where people on holiday can put up their tents, park their caravan, etc</TiengAnh>
+        <Eg>We stayed at a Campsite during the fisrt night of the trip </Eg>
+        <Dich>Chúng tôi ở lại một khu cắm trại trong đêm đầu tiên của chuyến đi</Dich>
+        <Srcimg>campsite</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Homestay </TuVung>
+        <PhienAm>/ˈhəʊmsteɪ/</PhienAm>
+        <Nghia>dịch vụ nghỉ tại nhà dân </Nghia>
+        <YNghia>Home + stay= nhà + ở = ở tạm nhà dân = dịch vụ nghỉ tại nhà dân.</YNghia>
+        <TiengAnh>an arrangement that provides accommodation for students or tourists in the home of a family in exchange for payment</TiengAnh>
+        <Eg>For accommodantion, you can choose Homestays or regular hotels </Eg>
+        <Dich>Về chỗ ở, bạn có thể chọn Nhà dân hoặc khách sạn thông thường </Dich>
+        <Srcimg>homestay</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Leisure </TuVung>
+        <PhienAm>/ˈliːʒər/</PhienAm>
+        <Nghia>thời gian rảnh </Nghia>
+        <YNghia>Tuấn LÉ GIỜ sao rồi, có còn thời gian rảnh không?.</YNghia>
+        <TiengAnh>time when you are not working or studying; free time</TiengAnh>
+        <Eg>Balancing work and Leisure is vital for a happy life</Eg>
+        <Dich>Cân bằng giữa công việc và thời gian giải trí là điều cần thiết để có một cuộc sống hạnh phúc </Dich>
+        <Srcimg>leisure</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Travel and Tourist 2</ChuDe>
+        <TuVung>Hike </TuVung>
+        <PhienAm>/haɪk/</PhienAm>
+        <Nghia>đi bộ đường dài </Nghia>
+        <YNghia>HAI Con vịt mệt mỏi vì đi bộ đường dài.</YNghia>
+        <TiengAnh>a long walk in the country</TiengAnh>
+        <Eg>It was very refreshing to hike through the National Park </Eg>
+        <Dich>Thật là sảng khoái khi đi bộ qua Vườn quốc gia</Dich>
+        <Srcimg>hike</Srcimg>
+    </Item>
+
+</Word>
+

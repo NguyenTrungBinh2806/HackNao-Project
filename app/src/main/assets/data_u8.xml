@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Pricey</TuVung>
+		<PhienAm>/ˈpraɪsi/</PhienAm>
+		<Nghia>Đắt đỏ</Nghia>
+		<YNghia>Muốn làm đại lộ danh vọng phải RẢI XI măng đắt đỏ.</YNghia>
+		<TiengAnh>Muốn làm đại lộ danh vọng phải rải xi măng đắt đỏ.</TiengAnh>
+		<Eg>Living in Hanoi is quite pricey compared to orther cities.</Eg>
+		<Dich>Cuộc sống ở Hà Nội khá đắt đỏ so với các thành phố khác.</Dich>
+		<Srcimg>pricey</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Rubbish</TuVung>
+		<PhienAm>/ˈrʌbɪʃ/</PhienAm>
+		<Nghia>Rác</Nghia>
+		<YNghia>Bọn trẻ răm RẮP BỊT Xô rác lại theo lời cô.</YNghia>
+		<TiengAnh>The children sprayed the trash can at her words.</TiengAnh>
+		<Eg>After the concert, there was rubbish everywhere.</Eg>
+		<Dich>Sau buổi hòa nhạc, rác ở khắp nơi</Dich>
+		<Srcimg>rubbish</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Throw</TuVung>
+		<PhienAm>/θrəʊ/</PhienAm>
+		<Nghia>Ném</Nghia>
+		<YNghia>Bố cạo nhẵn THín RÂU rồi ném dao cạo vào chậu rửa.</YNghia>
+		<TiengAnh>Dad shaved his beard and threw the razor into the sink.</TiengAnh>
+		<Eg>Can you throw me that water bottle?</Eg>
+		<Dich>Bạn có thể ném cho tôi chai nước đó được không?</Dich>
+		<Srcimg>throw1</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Facility</TuVung>
+		<PhienAm>/fəˈsɪləti/</PhienAm>
+		<Nghia>Cơ sở</Nghia>
+		<YNghia>Quán PHỞ SỈ LỪA TỈ đồng để xây dựng cơ sở kinh doanh.</YNghia>
+		<TiengAnh>Pho Si restaurant cheated billions of dong to build a business.</TiengAnh>
+		<Eg>We have a great new facility to practice martial arts in.</Eg>
+		<Dich>Chúng tôi có một cơ sở mới tuyệt vời để luyện tập võ thuật.</Dich>
+		<Srcimg>facility</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Population</TuVung>
+		<PhienAm>/ˌpɒpjuˈleɪʃn/</PhienAm>
+		<Nghia>Dân số</Nghia>
+		<YNghia>BỐ BI LẤY BỤC giảng để giảng về dân số cho Bi.</YNghia>
+		<TiengAnh>Bi's father took the podium to teach Bi about population.</TiengAnh>
+		<Eg>The population of Vietnam is over 95 million.</Eg>
+		<Dich>Dân số Việt Nam hơn 95 triệu người.</Dich>
+		<Srcimg>popular</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Lack</TuVung>
+		<PhienAm>/læk/</PhienAm>
+		<Nghia>Thiếu</Nghia>
+		<YNghia>Con gà quay mua về bị thiếu mất lá LÁCH.</YNghia>
+		<TiengAnh>The roasted chicken bought back was missing a spleen.</TiengAnh>
+		<Eg>I currently lack the skills needed to do this job.</Eg>
+		<Dich>Tôi hiện thiếu các kỹ năng cần thiết để làm công việc này.</Dich>
+		<Srcimg>lack</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Build</TuVung>
+		<PhienAm>/bɪld/</PhienAm>
+		<Nghia>Xây</Nghia>
+		<YNghia>Má BỈU ĐỪNG xây biệt thự, xây hẳn lâu đài đi.</YNghia>
+		<TiengAnh>Don't build a mansion, build a castle.</TiengAnh>
+		<Eg>If I become the Prime Minister, I will build a giant Pikalong statue.</Eg>
+		<Dich>Nếu tôi trở thành Thủ tướng, tôi sẽ xây một bức tượng Pikalong khổng lồ</Dich>
+		<Srcimg>build</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Selfish</TuVung>
+		<PhienAm>/ˈselfɪʃ/</PhienAm>
+		<Nghia>Ích kỷ</Nghia>
+		<YNghia>Vì gói xôi XÉO PHẾT Sốt này mà bị gọi là ích kỷ cũng cam lòng.</YNghia>
+		<TiengAnh>Because of this package of sticky rice with sauce, being called selfish is also willing.</TiengAnh>
+		<Eg>My neibours are so selfish, they play loud music early very morning.</Eg>
+		<Dich>Hàng xóm của tôi rất ích kỷ, họ mở nhạc lớn vào sáng sớm.</Dich>
+		<Srcimg>selfish</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Room</TuVung>
+		<PhienAm>/ruːm/</PhienAm>
+		<Nghia>Chổ trống</Nghia>
+		<YNghia>Để bình rượu RUM vào chổ trống trên kệ kia.</YNghia>
+		<TiengAnh>Put the bottle of rum in the empty space on the other shelf.</TiengAnh>
+		<Eg>Is there enough room for a closet in your bedroom?</Eg>
+		<Dich>Có đủ chỗ cho tủ quần áo trong phòng ngủ của bạn không?</Dich>
+		<Srcimg>room</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Unhealthy</TuVung>
+		<PhienAm>/ʌnˈhelθi/</PhienAm>
+		<Nghia>Không tốt cho sức khỏe</Nghia>
+		<YNghia>Rau mà ĂN HÉO THÌ không tốt cho sức khỏe.</YNghia>
+		<TiengAnh>Vegetables that are eaten wilted are not good for health.</TiengAnh>
+		<Eg>The air quality in big cities is often unhealthy.</Eg>
+		<Dich>Chất lượng không khí ở các thành phố lớn thường không tốt cho sức khỏe</Dich>
+		<Srcimg>unhealthy</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Pollution</TuVung>
+		<PhienAm>/pəˈluːʃn/</PhienAm>
+		<Nghia>Ô nhiễm</Nghia>
+		<YNghia>Rác thải, ô nhiễm tràn BỜ LÚT SÂN nhà ông Sáu.</YNghia>
+		<TiengAnh>Garbage and pollution overflowed the yard of Mr. Sau's house.</TiengAnh>
+		<Eg>Pollution often leads to cancer and damages the environment.</Eg>
+		<Dich>Ô nhiễm thường dẫn đến ung thư và hủy hoại môi trường.</Dich>
+		<Srcimg>pollution</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Crime</TuVung>
+		<PhienAm>/kraɪm/</PhienAm>
+		<Nghia>Tội</Nghia>
+		<YNghia>Con RẠM biển bị đối xử tội vì kẹp người ta chảy máu.</YNghia>
+		<TiengAnh>The sea buckthorn was punished for forcing people to bleed.</TiengAnh>
+		<Eg>He committed a crime 5 years ago.</Eg>
+		<Dich>Anh ta đã phạm tội 5 năm trước.</Dich>
+		<Srcimg>crime</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Daily</TuVung>
+		<PhienAm>/ˈdeɪli/</PhienAm>
+		<Nghia>Hàng ngày</Nghia>
+		<YNghia>Bác chỉ thích hàng ngày được đọc báo với cà phê ĐẦY LY là đủ rồi.</YNghia>
+		<TiengAnh>I just like to read the newspaper with a full cup of coffee every day is enough.</TiengAnh>
+		<Eg>I study English daily.</Eg>
+		<Dich>Tôi học tiếng Anh hàng ngày.</Dich>
+		<Srcimg>daily</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Pickpocket</TuVung>
+		<PhienAm>/ˈpɪkpɒkɪt/</PhienAm>
+		<Nghia>Kẻ móc túi</Nghia>
+		<YNghia>Pick + Pocket = Nhặt + Túi = Nhặt đồ giá trị trong túi người khác = Kẻ móc túi.</YNghia>
+		<TiengAnh>Pick + Pocket = Pick up + Bag = Pick up valuables in someone else's pocket = Pickpocket.</TiengAnh>
+		<Eg>I saw someone lose their phone to a pickpocket.</Eg>
+		<Dich>Tôi thấy ai đó đánh mất điện thoại của họ cho một kẻ móc túi. </Dich>
+		<Srcimg>pickpocket</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Security</TuVung>
+		<PhienAm>/sɪˈkjʊərəti/</PhienAm>
+		<Nghia>An ninh</Nghia>
+		<YNghia>Được vệ SĨ CỨU, GIỜ THÌ an ninh của vua đã được đảm bảo.</YNghia>
+		<TiengAnh>Saved by the bodyguard, now the king's security is guaranteed.</TiengAnh>
+		<Eg>I'm going to set up a security system for my house.</Eg>
+		<Dich>Tôi sẽ thiết lập một hệ thống an ninh cho ngôi nhà của mình.</Dich>
+		<Srcimg>security</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Bridge</TuVung>
+		<PhienAm>/braɪd/</PhienAm>
+		<Nghia>Cây cầu</Nghia>
+		<YNghia>Cô BÉ RÍT Dữ dộ vì sợ cây cầu đang chao đảo.</YNghia>
+		<TiengAnh>The girl hissed furiously for fear that the bridge was wobbling.</TiengAnh>
+		<Eg>Long Bien bridge is a very famous structure in Hanoi.</Eg>
+		<Dich>Cô dâu Long Biên là một công trình kiến trúc rất nổi tiếng ở Hà Nội.</Dich>
+		<Srcimg>bridge</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Demand</TuVung>
+		<PhienAm>/dɪˈmɑːnd/</PhienAm>
+		<Nghia>Nhu cầu</Nghia>
+		<YNghia>Mai mở dịch vụ ĐI MẮNG thuê đáp ứng nhu cầu thị trường.</YNghia>
+		<TiengAnh>Mai opens a rental service to meet market demand.</TiengAnh>
+		<Eg>The demand for public transport has been rising steadily</Eg>
+		<Dich>Nhu cầu về phương tiện công cộng đang tăng đều đặn</Dich>
+		<Srcimg>demand</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Poor</TuVung>
+		<PhienAm>/pɔː(r)/</PhienAm>
+		<Nghia>Nghèo</Nghia>
+		<YNghia>Kẻ giàu người nghèo đều muốn phân BUA với ông trời.</YNghia>
+		<TiengAnh>The rich and the poor all want to argue with God.</TiengAnh>
+		<Eg>Most people thinh they are poor, although they have houses and cars.</Eg>
+		<Dich>Hầu hết mọi người đều nghĩ rằng họ nghèo, mặc dù họ có nhà và xe hơi.</Dich>
+		<Srcimg>poor</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Affordable</TuVung>
+		<PhienAm>/əˈfɔːdəbl/</PhienAm>
+		<Nghia>Vừa túi tiền</Nghia>
+		<YNghia>Ơ! PHÓ ĐUỔI BÒ cho vừ túi tiền à.</YNghia>
+		<TiengAnh>HEY! Deputy chasing cows for pocket money ah.</TiengAnh>
+		<Eg>Com binh dan is an affordable lunch in Vietnam.</Eg>
+		<Dich>Cơm bình dân là bữa trưa hợp túi tiền ở Việt Nam.</Dich>
+		<Srcimg>affordable</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Scam</TuVung>
+		<PhienAm>/skæm/</PhienAm>
+		<Nghia>Vụ lừa tiền</Nghia>
+		<YNghia>Tự thấy mình thật Sự KÉM khi xử mấy vụ lừa tiền.</YNghia>
+		<TiengAnh>I feel like I'm really bad at dealing with money scams.</TiengAnh>
+		<Eg>Don't trust what he says, I think it's a scam!</Eg>
+		<Dich>Đừng tin những gì anh ấy nói, tôi nghĩ đó là một trò lừa đảo!</Dich>
+		<Srcimg>scam</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Overpopulated</TuVung>
+		<PhienAm>/ˌəʊvəˈpɒpjuleɪtɪd/</PhienAm>
+		<Nghia>Quá tải dân số</Nghia>
+		<YNghia>Over + Populated = Quá + Có người ở = Quá tải dân số.</YNghia>
+		<TiengAnh>Over + Populated = Over + Inhabited = Overpopulated.</TiengAnh>
+		<Eg>The cities Hanoi and Saigon are both currently overpopulated.</Eg>
+		<Dich>Cả hai thành phố Hà Nội và Sài Gòn hiện đang có quá nhiều dân số.</Dich>
+		<Srcimg>populated</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Beggar</TuVung>
+		<PhienAm>/ˈbeɡə(r)/</PhienAm>
+		<Nghia>Người ăn xin</Nghia>
+		<YNghia>Cậu BÉ GỠ dây chuyền tặng người ăn xin già.</YNghia>
+		<TiengAnh>The boy took off a necklace to give to an old beggar.</TiengAnh>
+		<Eg>The beggar came to me when I stopped at the red light.</Eg>
+		<Dich>Người ăn xin đến gặp tôi khi tôi dừng lại ở đèn đỏ.</Dich>
+		<Srcimg>beggar</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Accommodation</TuVung>
+		<PhienAm>/əˌkɒməˈdeɪʃn/</PhienAm>
+		<Nghia>Chổ ở</Nghia>
+		<YNghia>Ở CĂN MỘ ĐẤY TỪNG là chổ ở của mấy chú chó hoang.</YNghia>
+		<TiengAnh>That grave used to be the home of stray dogs.</TiengAnh>
+		<Eg>In this trip, we will provide you with free food and accommodation.</Eg>
+		<Dich>Trong chuyến đi này, chúng tôi sẽ cung cấp thức ăn và chỗ ở miễn phí cho bạn.</Dich>
+		<Srcimg>accom</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>In the city 2</ChuDe>
+		<TuVung>Vehicle</TuVung>
+		<PhienAm>/ˈviːəkl/</PhienAm>
+		<Nghia>Phương tiện giao thông</Nghia>
+		<YNghia>VY Ở CỔ Ngự, nơi có rất nhiều phường tiện giao thông.</YNghia>
+		<TiengAnh>Vy is in Co Ngu, where there are many traffic wards.</TiengAnh>
+		<Eg>What kinds of vehicle do you usually use to get around?</Eg>
+		<Dich>Bạn thường sử dụng loại phương tiện nào để di chuyển?</Dich>
+		<Srcimg>vehicle</Srcimg>
+	</Item>
+
+</Word>
+

@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Special</TuVung>
+		<PhienAm>/ˈspeʃl/</PhienAm>
+		<Nghia>Đặc biệt</Nghia>
+		<YNghia>SỢ BÉ XỒ ra đường, mẹ phải đặc biệt chú ý.</YNghia>
+		<TiengAnh>not ordinary or usual, different from what is normal</TiengAnh>
+		<Eg>Chung cakes is a special food which is eaten during Tet.</Eg>
+		<Dich>Bánh chưng là một loại thực phẩm đặc biệt được dùng để ăn trong ngày Tết.</Dich>
+		<Srcimg>special</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Call</TuVung>
+		<PhienAm>/kɔːl/</PhienAm>
+		<Nghia>Gọi</Nghia>
+		<YNghia>CÔ Là ai, cháu không gọi cô, cô đi ra đi.</YNghia>
+		<TiengAnh>to give somebody/something a particular name;</TiengAnh>
+		<Eg>My mum calls me her "little sun".</Eg>
+		<Dich>Mẹ tôi gọi tôi là "mặt trời nhỏ"</Dich>
+		<Srcimg>call</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Nickname</TuVung>
+		<PhienAm>/ˈnɪkneɪm/</PhienAm>
+		<Nghia>Biệt danh</Nghia>
+		<YNghia>Biệt danh của anh ấy là NICK "NÊM nếm như thần".</YNghia>
+		<TiengAnh>an informal, often humorous, name for a person that is connected with their real name,</TiengAnh>
+		<Eg>He got nickname from his habit of never talking a nap.</Eg>
+		<Dich>Anh ấy có biệt danh từ thói quen không bao giờ nói chuyện chợp mắt.</Dich>
+		<Srcimg>nickname</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Meaning</TuVung>
+		<PhienAm>/ˈmiːnɪŋ/</PhienAm>
+		<Nghia>Ý nghĩa</Nghia>
+		<YNghia>Này, MY NỊNH bợ không làm cho cuộc sống ý nghĩa hơn đâu.</YNghia>
+		<TiengAnh>the thing or idea that a sound, word, sign, etc. represents</TiengAnh>
+		<Eg>Does your name have any meaning?</Eg>
+		<Dich>Tên của bạn có ý nghĩa gì không?</Dich>
+		<Srcimg>meaning</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Know</TuVung>
+		<PhienAm>/nəʊ/</PhienAm>
+		<Nghia>Biết</Nghia>
+		<YNghia>Em không biết bài hát "Làn da NÂU" đâu.</YNghia>
+		<TiengAnh>o have information in your mind as a result of experience or because you have learned or been told it</TiengAnh>
+		<Eg>Do you know the answers to the test?</Eg>
+		<Dich>Bạn có biết câu trả lời cho bài kiểm tra không?</Dich>
+		<Srcimg>know</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Surname</TuVung>
+		<PhienAm>/ˈsɜːneɪm/</PhienAm>
+		<Nghia>Họ</Nghia>
+		<YNghia>Đầu bếp họ "Quách SỢ NÊM" nếm sai sẽ làm khách giận.</YNghia>
+		<TiengAnh>a name shared by all the members of a family</TiengAnh>
+		<Eg>Smith is the most common surname in Great Britain.</Eg>
+		<Dich>Smith là họ phổ biến nhất ở Vương quốc Anh.</Dich>
+		<Srcimg>surname</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Hometown</TuVung>
+		<PhienAm>/ˈhəʊmtaʊn/</PhienAm>
+		<Nghia>Quê hương</Nghia>
+		<YNghia>HOME + TOWN = Nhà + thị trấn = thị trấn gọi là nhà = QUÊ.</YNghia>
+		<TiengAnh>the place where you were born or lived as a child</TiengAnh>
+		<Eg>He cried when he visited his hometown again after many years.</Eg>
+		<Dich>Anh đã khóc khi về thăm lại quê hương sau nhiều năm</Dich>
+		<Srcimg>hometown</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Tell</TuVung>
+		<PhienAm>/tel/</PhienAm>
+		<Nghia>Kể(cho ai)</Nghia>
+		<YNghia>"THEO" như Thu kể thì Đức ăn mặc rất sành điệu.</YNghia>
+		<TiengAnh>to give information to somebody by speaking or writing</TiengAnh>
+		<Eg>Can you tell me your name, please?</Eg>
+		<Dich>Bạn có thể cho tôi biết tên của bạn, làm ơn?</Dich>
+		<Srcimg>tell</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Favourite</TuVung>
+		<PhienAm>/ˈfeɪvərɪt/</PhienAm>
+		<Nghia>Yêu thích</Nghia>
+		<YNghia>Mẹ "PHẢI VỜ RÍT" lên vì bé cứ đòi đồ chơi yêu thích.</YNghia>
+		<TiengAnh>to show that you like something that somebody has put on a social media site</TiengAnh>
+		<Eg>My favourite Vietnamese food is 'bún đậu mắm tôm', so I eat it every day.</Eg>
+		<Dich>My favourite Vietnamese food is 'bún đậu mắm tôm', so I eat it every day</Dich>
+		<Srcimg>favourite</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Spell</TuVung>
+		<PhienAm>/spel/</PhienAm>
+		<Nghia>Đánh vần</Nghia>
+		<YNghia>Muốn trả lời "Ăn gà rán SỢ BÉO lắm" mà không biết đánh vần.</YNghia>
+		<TiengAnh> to say or write the letters of a word in the correct order</TiengAnh>
+		<Eg>My computer corrects me when i don't spell something right.</Eg>
+		<Dich>Máy tính của tôi sửa lỗi cho tôi khi tôi không viết đúng chính tả.</Dich>
+		<Srcimg>spell</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Live</TuVung>
+		<PhienAm>/lɪv/</PhienAm>
+		<Nghia>Sống</Nghia>
+		<YNghia>"LÍ Vy" hỡi, sao nàng có nhà không ở lại chuyến vào tim ta sống.</YNghia>
+		<TiengAnh>to have your home in a particular place</TiengAnh>
+		<Eg>What is it like to live in the UK.</Eg>
+		<Dich>Sống ở Vương quốc Anh là như thế nào.</Dich>
+		<Srcimg>live</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Distance</TuVung>
+		<PhienAm>/ˈdɪstəns/</PhienAm>
+		<Nghia>Khoảng cách</Nghia>
+		<YNghia>"ĐI TẬN" chân trời, cũng không xa bằng khoảng cách giữa hai ta.</YNghia>
+		<TiengAnh>the amount of space between two places or things</TiengAnh>
+		<Eg>I will love you no matter the distance.</Eg>
+		<Dich>Tôi sẽ yêu bạn bất kể khoảng cách.</Dich>
+		<Srcimg>distance</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Crowded</TuVung>
+		<PhienAm>/ˈkraʊdɪd/</PhienAm>
+		<Nghia>Đông đúc</Nghia>
+		<YNghia>Đàn mèo đông đúc quá nên "CÔ RAO ĐỨT" mấy con đi.</YNghia>
+		<TiengAnh> having a lot of people or too many people</TiengAnh>
+		<Eg>Hanoi streets in rush hour are usually very crowded.</Eg>
+		<Dich>Đường phố Hà Nội vào giờ cao điểm thường rất đông đúc</Dich>
+		<Srcimg>crowded</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Peaceful</TuVung>
+		<PhienAm>/ˈpiːsfl/</PhienAm>
+		<Nghia>Bình yên</Nghia>
+		<YNghia>"PI SỢ PHUN" thuốc sâu là xấu, nên từ bỏ cho lòng bình yên.</YNghia>
+		<TiengAnh>not involving a war, violence or argument</TiengAnh>
+		<Eg>Dalat is a very peaceful city.</Eg>
+		<Dich>Đà Lạt là một thành phố rất yên bình.</Dich>
+		<Srcimg>peaceful</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Beautiful</TuVung>
+		<PhienAm>/ˈbjuːtɪfl/</PhienAm>
+		<Nghia>Xinh đẹp</Nghia>
+		<YNghia>Mẹ "BỈU TÍ PHUN" nước hoa cho chị hai xinh đẹp còn tìm anh rể.</YNghia>
+		<TiengAnh>having beauty; giving pleasure to the senses or to the mind</TiengAnh>
+		<Eg>The landscape in Ha Giang is beautiful.</Eg>
+		<Dich>Phong cảnh ở hà giang đẹp</Dich>
+		<Srcimg>beautiful</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Centre</TuVung>
+		<PhienAm>/ˈsentə(r)/</PhienAm>
+		<Nghia>Trung tâm</Nghia>
+		<YNghia>Đừng để "XEN TỜ" đơn vào đây, nộp lên trung tâm đấy.</YNghia>
+		<TiengAnh>the middle point or part of something</TiengAnh>
+		<Eg>My doughnut has a hole in its centre.</Eg>
+		<Dich>Bánh rán của tôi có một lỗ ở giữa.</Dich>
+		<Srcimg>centre</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>North</TuVung>
+		<PhienAm>/nɔːθ/</PhienAm>
+		<Nghia>Phía Bắc</Nghia>
+		<YNghia>"NÓ" thẳng thừng từ chối đến phía Bắc.</YNghia>
+		<TiengAnh>the direction that is on your left when you watch the sun rise; </TiengAnh>
+		<Eg>In the North of Vietnam you should visit Hanoi, Ha Long Bay, and Sapa.</Eg>
+		<Dich>Ở miền Bắc Việt Nam, bạn nên đến thăm Hà Nội, Vịnh Hạ Long và Sa Pa</Dich>
+		<Srcimg>north</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Address</TuVung>
+		<PhienAm>/əˈdres/</PhienAm>
+		<Nghia>Địa chỉ</Nghia>
+		<YNghia>"Ơ ĐỜI, RÉT!" là địa chỉ cà phê 0 độ yêu thích của giới trẻ.</YNghia>
+		<TiengAnh>details of where somebody lives or works and where letters, etc. can be sent</TiengAnh>
+		<Eg>To sign up for the delivery service, please fill in your address.</Eg>
+		<Dich>Để đăng ký dịch vụ giao hàng, vui lòng điền vào địa chỉ của bạn.</Dich>
+		<Srcimg>address</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Town</TuVung>
+		<PhienAm>/taʊn/</PhienAm>
+		<Nghia>Thị trấn</Nghia>
+		<YNghia>Quê Mai là thị trấn nhỏ bên dòng sông "THAO".</YNghia>
+		<TiengAnh>a place with many houses, shops,</TiengAnh>
+		<Eg>Those old ladies like to talk about everyone in town.</Eg>
+		<Dich>Những bà già đó thích nói về mọi người trong thị trấn</Dich>
+		<Srcimg>town</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Describe</TuVung>
+		<PhienAm>/dɪˈskraɪb/</PhienAm>
+		<Nghia>Miêu tả</Nghia>
+		<YNghia>"ĐI CẢ HAI BỜ" rồi mà không miêu tả được nó à?</YNghia>
+		<TiengAnh> to say what somebody/something is like</TiengAnh>
+		<Eg>Can you describe your dream job for me?</Eg>
+		<Dich>Bạn có thể mô tả công việc mơ ước của bạn cho tôi không?</Dich>
+		<Srcimg>describe</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Common</TuVung>
+		<PhienAm>/ˈkɒmən/</PhienAm>
+		<Nghia>Phổ biến</Nghia>
+		<YNghia>Cách thử lòng phổ biến, là nhờ bóc hộ quả "CAM, ÂN" tình tới đâu.</YNghia>
+		<TiengAnh>happening often; existing in large numbers or in many places</TiengAnh>
+		<Eg>Football is the most common sport in Vietnam.</Eg>
+		<Dich>Bóng đá là môn thể thao phổ biến nhất ở Việt Nam.</Dich>
+		<Srcimg>common</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>South</TuVung>
+		<PhienAm>/saʊθ/</PhienAm>
+		<Nghia>Phía Nam</Nghia>
+		<YNghia>"Dù SAO THÌ" anh cũng ngại vào phía Nam lắm.</YNghia>
+		<TiengAnh>he direction that is on your right when you watch the sun rise; </TiengAnh>
+		<Eg>South Korea is famous for K-pop music.</Eg>
+		<Dich>Hàn Quốc nổi tiếng với nhạc K-pop</Dich>
+		<Srcimg>south</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Contact</TuVung>
+		<PhienAm>/ˈkɒntækt/</PhienAm>
+		<Nghia>Liên lạc</Nghia>
+		<YNghia>Chú "CÔNG TÁCH" đàn từ bé nhưng vẫn giữ liên lạc với đàn.</YNghia>
+		<TiengAnh> the act of communicating with somebody, especially regularly</TiengAnh>
+		<Eg>I keep in contact with my family via Facebook.</Eg>
+		<Dich>Tôi giữ liên lạc với gia đình qua Facebook.</Dich>
+		<Srcimg>contact</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>Personal information</ChuDe>
+		<TuVung>Sign</TuVung>
+		<PhienAm>/saɪn/</PhienAm>
+		<Nghia>Ký</Nghia>
+		<YNghia>Không "SAI", tờ A4 đã được ký rồi.</YNghia>
+		<TiengAnh>an event, an action, a fact</TiengAnh>
+		<Eg>Please sign here to confirm I have delivered your item to you.</Eg>
+		<Dich> Vui lòng ký vào đây để xác nhận tôi đã giao hàng cho bạn.</Dich>
+		<Srcimg>sign</Srcimg>
+	</Item>
+
+</Word>
+

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Flavour</TuVung>
+        <PhienAm>/ˈfleɪvər/</PhienAm>
+        <Nghia>vị</Nghia>
+        <YNghia>Đức PHải LẤY VỢ thích vị dâu như mình mới chịu</YNghia>
+        <TiengAnh>how food or drink tastes</TiengAnh>
+        <Eg>Which ice cream Flavour do you like</Eg>
+        <Dich>Bạn thích hương vị kem nào</Dich>
+        <Srcimg>flavour</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Cooking</TuVung>
+        <PhienAm>/ˈkʊkɪŋ/</PhienAm>
+        <Nghia>nấu ăn</Nghia>
+        <YNghia>CÚC KINH hoàng vì việc nấu ăn ngày tết</YNghia>
+        <TiengAnh>the process of preparing food by heating it</TiengAnh>
+        <Eg>Cooking is a great way for a couple to spend time together</Eg>
+        <Dich>Nấu ăn là một cách tuyệt vời để một cặp vợ chồng dành thời gian cho nhau</Dich>
+        <Srcimg>cooking</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Recipe</TuVung>
+        <PhienAm>/ˈresəpi/</PhienAm>
+        <Nghia>công thức nấu ăn</Nghia>
+        <YNghia>Đất nước giá RÉT XI-BI-a cần công thức nấu ăn</YNghia>
+        <TiengAnh>a set of instructions that tells you how to cook something and the ingredients (= items of food) you need for it</TiengAnh>
+        <Eg>My grandmother never needs a recipe when cooking</Eg>
+        <Dich>Bà tôi không bao giờ cần một công thức khi nấu ăn</Dich>
+        <Srcimg>recipe</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Seasoning</TuVung>
+        <PhienAm>/ˈsiːzənɪŋ/</PhienAm>
+        <Nghia>gia vị</Nghia>
+        <YNghia>SI DỪNG NINH xương lại rồi thêm gia vị vào nồi</YNghia>
+        <TiengAnh>a substance used to add taste to food, especially salt and pepper</TiengAnh>
+        <Eg>Indians use alot of Seasoning in their curry</Eg>
+        <Dich>Người Ấn Độ sử dụng rất nhiều Gia vị trong món cà ri của họ</Dich>
+        <Srcimg>seasoning</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>terrible</TuVung>
+        <PhienAm>/ˈterəbl/</PhienAm>
+        <Nghia>tệ</Nghia>
+        <YNghia>Điều tệ là bánh cuốn có hàn THE,GIỜ BỒ tính sao?</YNghia>
+        <TiengAnh>very unpleasant; making you feel very unhappy, upset or frightened</TiengAnh>
+        <Eg>My first love was a terrible experience</Eg>
+        <Dich>Mối tình đầu của tôi là một trải nghiệm khủng khiếp</Dich>
+        <Srcimg>terrible</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>secret</TuVung>
+        <PhienAm>/ˈsiːkrət/</PhienAm>
+        <Nghia>bí mật</Nghia>
+        <YNghia>Điều bí mật là Đức sân SI, Cứ RÍT còi nữa đêm</YNghia>
+        <TiengAnh>known about by only a few people; kept hidden from others</TiengAnh>
+        <Eg>she told me a secret about her boyfriend</Eg>
+        <Dich>cô ấy đã nói với tôi một bí mật về bạn trai của cô ấy</Dich>
+        <Srcimg>secret</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Plain</TuVung>
+        <PhienAm>/pleɪn/</PhienAm>
+        <Nghia>Nhạt</Nghia>
+        <YNghia>Muốn bớt nhạt thi Phải LÊN định hướng trau dồi bản thân</YNghia>
+        <TiengAnh>not decorated or complicated;</TiengAnh>
+        <Eg>The food in pagodas is quite plain, as they don't use much salt</Eg>
+        <Dich>Đồ ăn ở chùa khá đơn giản, không dùng nhiều muối.</Dich>
+        <Srcimg>plain</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>strong</TuVung>
+        <PhienAm>/strɔːŋ/</PhienAm>
+        <Nghia>nồng</Nghia>
+        <YNghia>Đức choáng bì mùi rượu nồng nên đọc nhầm "xoong" Sang "TROONG"</YNghia>
+        <TiengAnh>having physical power</TiengAnh>
+        <Eg>the smell of my dad's homemade rice wine is very strong</Eg>
+        <Dich>mùi rượu gạo tự nấu của bố tôi rất nồng</Dich>
+        <Srcimg>strong</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Cuisine</TuVung>
+        <PhienAm>/kwɪˈziːn/</PhienAm>
+        <Nghia>nền ẩm thực</Nghia>
+        <YNghia>Bánh QUY ZIN đứng đầu nền ẩm thực</YNghia>
+        <TiengAnh>a style of cooking</TiengAnh>
+        <Eg>Bun Cha and Pho are famous dishes of Vietnamese Cuisine</Eg>
+        <Dich>Bún chả và phở là những món ăn nổi tiếng của Ẩm thực Việt Nam</Dich>
+        <Srcimg>cuisine</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Takeaway</TuVung>
+        <PhienAm>/ˈteɪkəweɪ/</PhienAm>
+        <Nghia>đồ ăn mang đi</Nghia>
+        <YNghia>take + away= lấy + đi xa=đồ ăn mang đi</YNghia>
+        <TiengAnh></TiengAnh>
+        <Eg>The restaurant was too crowded, so we ordered takeaway and ate at home</Eg>
+        <Dich>Nhà hàng quá đông nên chúng tôi gọi món mang đi và ăn ở nhà</Dich>
+        <Srcimg>takeaway</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Raw</TuVung>
+        <PhienAm>/rɔː/</PhienAm>
+        <Nghia>sống</Nghia>
+        <YNghia>Thu ăn thịt sống nên ốm nằm co RO</YNghia>
+        <TiengAnh>not cooked</TiengAnh>
+        <Eg>In Japan, seafood is often served raw</Eg>
+        <Dich>Ở Nhật Bản, hải sản thường được phục vụ sống</Dich>
+        <Srcimg>raw</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Fresh</TuVung>
+        <PhienAm>/freʃ/</PhienAm>
+        <Nghia>tươi</Nghia>
+        <YNghia>Tuấn lờ PHỜ, RÉT run trong quầy thịt tưới sống</YNghia>
+        <TiengAnh>recently produced or picked and not frozen, dried or preserved in tins or cans</TiengAnh>
+        <Eg>My parents like to send me fresh vegetables from the countryside</Eg>
+        <Dich>Bố mẹ tôi thích gửi cho tôi rau sạch từ quê</Dich>
+        <Srcimg>fresh</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Leftovers</TuVung>
+        <PhienAm>/ˈleftəʊvər/</PhienAm>
+        <Nghia>đồ ăn thừa</Nghia>
+        <YNghia>Left+ Over=  bị bỏ lại+ đã qua= đồ ăn thừa</YNghia>
+        <TiengAnh>food that has not been eaten at the end of a meal</TiengAnh>
+        <Eg>Leftovers can be fried with rice for another meal the next day</Eg>
+        <Dich>Thức ăn thừa có thể xào với cơm cho bữa khác vào ngày hôm sau</Dich>
+        <Srcimg>leftovers</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Delicious</TuVung>
+        <PhienAm>/dɪˈlɪʃəs/</PhienAm>
+        <Nghia>ngon</Nghia>
+        <YNghia>Phải vứt bát ĐI, LÝ SỢT gu gồ tìm bát mới ăn cho ngon miệng</YNghia>
+        <TiengAnh>having a very pleasant taste or smell</TiengAnh>
+        <Eg>My mother cooks the most Delicious food in the world</Eg>
+        <Dich>Mẹ tôi nấu những món ăn ngon nhất trên thế giới</Dich>
+        <Srcimg>delicious</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Hunger</TuVung>
+        <PhienAm>/ˈhʌŋɡər/</PhienAm>
+        <Nghia>đói</Nghia>
+        <YNghia>Vì mùi tỏi HĂNG, GIRL hết luôn cơn đói</YNghia>
+        <TiengAnh>the state of not having enough food to eat, especially when this causes illness or death</TiengAnh>
+        <Eg>Hunger can be a very distracting thing in class</Eg>
+        <Dich>Đói có thể là một điều rất mất tập trung trong lớp</Dich>
+        <Srcimg>hunger</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>chopstick</TuVung>
+        <PhienAm>/ˈtʃɑːpstɪk/</PhienAm>
+        <Nghia>đũa</Nghia>
+        <YNghia>Đôi đũa hình CHÓP TÍCH hợp với dao nĩa thật tiện lợi</YNghia>
+        <TiengAnh>either of a pair of thin sticks that are used for eating with, especially in East Asian countries</TiengAnh>
+        <Eg>Some Westerners don't know how to use chopsticks</Eg>
+        <Dich>Một số người phương Tây không biết dùng đũa</Dich>
+        <Srcimg>chopstick</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>seafood</TuVung>
+        <PhienAm>/ˈsiːfuːd/</PhienAm>
+        <Nghia>hải sản</Nghia>
+        <YNghia>sea+ food= biển + thức ăn= hải sản</YNghia>
+        <TiengAnh>fish and sea creatures that can be eaten, especially shellfish</TiengAnh>
+        <Eg>I love seafood, especially crabs</Eg>
+        <Dich>Tôi thích hải sản, đặc biệt là cua</Dich>
+        <Srcimg>seafood</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Frozen</TuVung>
+        <PhienAm>/ˈfrəʊzn/</PhienAm>
+        <Nghia>đông lạnh</Nghia>
+        <YNghia>cá chép khi bị đông lạnh, Phần RÂU DẦN teo đi.</YNghia>
+        <TiengAnh>kept at a very low temperature in order to preserve it</TiengAnh>
+        <Eg>Frozen food tastes very different from fresh ones</Eg>
+        <Dich>Thực phẩm đông lạnh có vị rất khác so với thực phẩm tươi sống</Dich>
+        <Srcimg>frozen</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Chef</TuVung>
+        <PhienAm>/ʃef/</PhienAm>
+        <Nghia>đầu bếp</Nghia>
+        <YNghia>trời ơi tin được không, SẾP tôi là đầu bếp đó!.</YNghia>
+        <TiengAnh>a person whose job is to cook, especially the most senior person in a restaurant, hotel, etc.</TiengAnh>
+        <Eg>The chef puts her soul into the food she makes</Eg>
+        <Dich>Người đầu bếp gửi gắm tâm hồn vào món ăn cô ấy làm</Dich>
+        <Srcimg>chef</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Undercooked</TuVung>
+        <PhienAm>/ˌʌndərˈkʊk/</PhienAm>
+        <Nghia>chưa nấu kĩ</Nghia>
+        <YNghia>Under + cooked= dưới + nấu = chưa nấu kĩ .</YNghia>
+        <TiengAnh>undercook something to not cook something for long enough, with the result that it is not ready to eat</TiengAnh>
+        <Eg>Be careful when eating Undercooked chicken</Eg>
+        <Dich>Hãy cẩn thận khi ăn thịt gà chưa nấu chín</Dich>
+        <Srcimg>undercooked</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Add</TuVung>
+        <PhienAm>/æd/</PhienAm>
+        <Nghia>thêm</Nghia>
+        <YNghia>Áp dụng thêm hệ thức Vi-ÉT là giải được bài.</YNghia>
+        <TiengAnh>to put something together with something else so as to increase the size, number, amount, etc.</TiengAnh>
+        <Eg>Could you add some satl, plz?</Eg>
+        <Dich>Bạn có thể thêm chút muối được không?</Dich>
+        <Srcimg>add</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Tasty</TuVung>
+        <PhienAm>/ˈteɪsti/</PhienAm>
+        <Nghia>ngon</Nghia>
+        <YNghia>Vì miệng sưng đỏ TẤY, Ti ăn keị không thấy ngon.</YNghia>
+        <TiengAnh>having a strong and pleasant taste when it is eaten</TiengAnh>
+        <Eg>i find anything with cheese to be tasty</Eg>
+        <Dich>tôi thấy bất cứ thứ gì với pho mát đều ngon</Dich>
+        <Srcimg>tasty</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Roast</TuVung>
+        <PhienAm>/rəʊst/</PhienAm>
+        <Nghia>nướng bỏ lò</Nghia>
+        <YNghia>Thực đơn giảm cân của mai là món cà RỐT nướng bỏ lò.</YNghia>
+        <TiengAnh>roast (something) to cook food, especially meat, without liquid in an oven or over a fire; to be cooked in this way</TiengAnh>
+        <Eg>In movies, they always roast a whole turkey for Thanksgiving</Eg>
+        <Dich>Trong phim, họ luôn nướng cả một con gà tây cho Lễ Tạ ơn</Dich>
+        <Srcimg>roast</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Food and Drink 3</ChuDe>
+        <TuVung>Lemon</TuVung>
+        <PhienAm>/ˈlemən/</PhienAm>
+        <Nghia>chanh</Nghia>
+        <YNghia>Mai LÉ MỪNg sinh nhật Thu 1 quả chanh vàng.</YNghia>
+        <TiengAnh>a yellow citrus fruit with juice that has a bitter, sharp taste.</TiengAnh>
+        <Eg>Lemon is a great source of vitamin C</Eg>
+        <Dich>Chanh là một nguồn cung cấp vitamin C tuyệt vời</Dich>
+        <Srcimg>lemon</Srcimg>
+    </Item>
+
+</Word>
+

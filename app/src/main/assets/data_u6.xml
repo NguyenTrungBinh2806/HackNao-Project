@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Rich</TuVung>
+		<PhienAm>/rɪtʃ/</PhienAm>
+		<Nghia>Giàu</Nghia>
+		<YNghia>Chớ tưởng mình giàu mà bảo đồ người khác là cũ RÍCH.</YNghia>
+		<TiengAnh>having a lot of money or property</TiengAnh>
+		<Eg>Many people want to be rich, but don't want to work.</Eg>
+		<Dich>Nhiều người muốn giàu có nhưng không muốn làm việc.</Dich>
+		<Srcimg>rich</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Cheap</TuVung>
+		<PhienAm>/tʃiːp/</PhienAm>
+		<Nghia>Rẻ</Nghia>
+		<YNghia>Gói chíp CHÍP tuy rẻ tiền nhưng tình bạn là vô giá.</YNghia>
+		<TiengAnh>costing little money or less money than you expected</TiengAnh>
+		<Eg>My new flat in the suburb is quite cheap.</Eg>
+		<Dich>Căn hộ mới của tôi ở vùng ngoại ô khá rẻ.</Dich>
+		<Srcimg>cheap</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Price</TuVung>
+		<PhienAm>/praɪs/</PhienAm>
+		<Nghia>Giá tiền</Nghia>
+		<YNghia>Hắn chuẩn bị RẢI sẵn đinh ra đường, kèm bảng giá tiền và lốp.</YNghia>
+		<TiengAnh>the amount of money that you have to pay for something</TiengAnh>
+		<Eg>what's the price of this phone?</Eg>
+		<Dich>giá của chiếc điện thoại này là bao nhiêu?</Dich>
+		<Srcimg>price</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Rent</TuVung>
+		<PhienAm>/rent/</PhienAm>
+		<Nghia>Tiền thuê nhà</Nghia>
+		<YNghia>Cái váy REN này bằng tiền thuê nhà một tháng của Vy.</YNghia>
+		<TiengAnh>an amount of money that you regularly pay so that you can use a house, room, etc.</TiengAnh>
+		<Eg>I pay rent for my flat on the third day of each month.</Eg>
+		<Dich>Tôi trả tiền thuê căn hộ của mình vào ngày thứ ba hàng tháng.</Dich>
+		<Srcimg>rent</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Expensive</TuVung>
+		<PhienAm>/ɪkˈspensɪv/</PhienAm>
+		<Nghia>Đắt</Nghia>
+		<YNghia>Con dao vô đỊCH BÉN XỊN bán với giá siêu đắt.</YNghia>
+		<TiengAnh>costing a lot of money</TiengAnh>
+		<Eg>Cars are usually quite expensive in Vietnam.</Eg>
+		<Dich>Xe hơi thường khá đắt ở Việt Nam.</Dich>
+		<Srcimg>expensive</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Manage</TuVung>
+		<PhienAm>/meɪndʒ/</PhienAm>
+		<Nghia>Quản lý</Nghia>
+		<YNghia>MÁ NÍCH đầy tiền trong túi, thích quản lý chi tiêu trong gia đình.</YNghia>
+		<TiengAnh> manage (something) to control or be in charge of a business, a team, an organization, land, etc.</TiengAnh>
+		<Eg>As a student, I need to learn how to manage my time.</Eg>
+		<Dich>Là một sinh viên, tôi cần học cách quản lý thời gian của mình.</Dich>
+		<Srcimg>manage</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Spend</TuVung>
+		<PhienAm>/spend/</PhienAm>
+		<Nghia>Tiêu tiền</Nghia>
+		<YNghia>Bị cắt trợ vốn, Vy SỢ PHEN này phải tiêu tiền tiết kiệm.</YNghia>
+		<TiengAnh> to give money to pay for goods, services, etc.</TiengAnh>
+		<Eg>I always track how much I spend day to day.</Eg>
+		<Dich>Tôi luôn theo dõi số tiền tôi chi tiêu hàng ngày.</Dich>
+		<Srcimg>spend</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Save</TuVung>
+		<PhienAm>/seɪv/</PhienAm>
+		<Nghia>Tiết kiệm</Nghia>
+		<YNghia>Tuấn quyết tâm tiết kiệm tiền XÂY vườn nông trại.</YNghia>
+		<TiengAnh>to keep somebody/something safe from death, harm, loss,</TiengAnh>
+		<Eg>I want to save money to study abroad.</Eg>
+		<Dich>Tôi muốn tiết kiệm tiền để đi du học.</Dich>
+		<Srcimg>save</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Wasteful</TuVung>
+		<PhienAm>/ˈweɪstfl/</PhienAm>
+		<Nghia>Phí phạm</Nghia>
+		<YNghia>Lũ trẻ QUÉT, PHUN sơn lung tung phí phạm.</YNghia>
+		<TiengAnh>Wasteful</TiengAnh>
+		<Eg>How wasteful; they ordered five dishes and only ate one!</Eg>
+		<Dich>Thật lãng phí; họ gọi năm món và chỉ ăn một món!</Dich>
+		<Srcimg>wasteful</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Borrow</TuVung>
+		<PhienAm>/ˈbɒrəʊ/</PhienAm>
+		<Nghia>Mượn</Nghia>
+		<YNghia>Bố mượn dao cạo để cạo BỎ RÂU đi.</YNghia>
+		<TiengAnh>to take and use something that belongs to somebody else, and return it to them at a later time</TiengAnh>
+		<Eg>Mum, can I borrow you some money?</Eg>
+		<Dich>Mẹ ơi, cho con mượn tiền được không?</Dich>
+		<Srcimg>borrow</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Fee</TuVung>
+		<PhienAm>/fiː/</PhienAm>
+		<Nghia>Lệ phí</Nghia>
+		<YNghia>Muốn PHI xe qua đây phải nộp lệ phí.</YNghia>
+		<TiengAnh>an amount of money that you pay for professional advice or services</TiengAnh>
+		<Eg>The monthly fee of the gym is quite resonable.</Eg>
+		<Dich>Phí hàng tháng của phòng tập thể dục khá hợp lý</Dich>
+		<Srcimg>fee</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Owe</TuVung>
+		<PhienAm>/əʊ/</PhienAm>
+		<Nghia>Nợ</Nghia>
+		<YNghia>Nợ tiền nhiều quá chả biết làm gì ngoài lo ÂU.</YNghia>
+		<TiengAnh>to have to pay somebody for something that you have already </TiengAnh>
+		<Eg>I sill owe them the money I borrowed for my studies.</Eg>
+		<Dich>Tôi nợ họ số tiền tôi đã vay để học.</Dich>
+		<Srcimg>owe</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Broke</TuVung>
+		<PhienAm>/brəʊk/</PhienAm>
+		<Nghia>Cháy túi</Nghia>
+		<YNghia>Bố RÓC mía cho Bi ăn trưa vì nhà đang cháy túi.</YNghia>
+		<TiengAnh>having no money</TiengAnh>
+		<Eg>Even though I was broke, my friends still invited me for coffee.</Eg>
+		<Dich>Mặc dù tôi đã tan vỡ, bạn bè của tôi vẫn mời tôi đi uống cà phê.</Dich>
+		<Srcimg>broke</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Cost</TuVung>
+		<PhienAm>/kɒst/</PhienAm>
+		<Nghia>Chi phí</Nghia>
+		<YNghia>Mua dây CÓT đồng hồ thì chi phí là bao nhiêu?</YNghia>
+		<TiengAnh> the amount of money that you need in order to buy, make or do something</TiengAnh>
+		<Eg>Would her salary be enough to cover the cost of living?</Eg>
+		<Dich>Liệu tiền lương của cô ấy có đủ trang trải chi phí sinh hoạt không?</Dich>
+		<Srcimg>cost</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Lend</TuVung>
+		<PhienAm>/lend/</PhienAm>
+		<Nghia>Cho vay</Nghia>
+		<YNghia>Mai hỏi Tuấn cho vay tiền mua LEN tập đan khăn.</YNghia>
+		<TiengAnh>to give something to somebody or allow them to use something that belongs to you, which they have to return to you later</TiengAnh>
+		<Eg>I will lend you some money, but you have to pay it back.</Eg>
+		<Dich>Tôi sẽ cho bạn vay một số tiền, nhưng bạn phải trả lại.</Dich>
+		<Srcimg>lend</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Note</TuVung>
+		<PhienAm>/nəʊt/</PhienAm>
+		<Nghia>Tờ tiền</Nghia>
+		<YNghia>Thu tiêu NỐT tờ tiền cuối cùng mua vé xem biểu diễn.</YNghia>
+		<TiengAnh> a short piece of writing to help you remember something</TiengAnh>
+		<Eg>Notes in Vietnam are made of paper or polymer.</Eg>
+		<Dich>Ghi chú ở Việt Nam được làm bằng giấy hoặc polyme.</Dich>
+		<Srcimg>note</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Expense</TuVung>
+		<PhienAm>/ɪkˈspens/</PhienAm>
+		<Nghia>Khoản chi tiêu</Nghia>
+		<YNghia>Mẹ thấy khoản chi tiêu có ÍCH BÈN Xuất tiền thẳng tay.</YNghia>
+		<TiengAnh>the money that you spend on something</TiengAnh>
+		<Eg>Food is my biggest expense each month.</Eg>
+		<Dich>Thực phẩm là khoản chi lớn nhất của tôi mỗi tháng</Dich>
+		<Srcimg>expense</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Due</TuVung>
+		<PhienAm>/djuː/</PhienAm>
+		<Nghia>Đến hạn</Nghia>
+		<YNghia>Mẹ ĐỊU ngô đi bán để trả tiền bà đến hạn.</YNghia>
+		<TiengAnh>due to somebody/something caused by somebody/something; because of</TiengAnh>
+		<Eg>This assignment is due in two weeks.</Eg>
+		<Dich>Nhiệm vụ này sẽ đến hạn sau hai tuần.</Dich>
+		<Srcimg>due</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Bill</TuVung>
+		<PhienAm>/bɪl/</PhienAm>
+		<Nghia>Hóa đơn</Nghia>
+		<YNghia>Hóa đơn ghi 10 nghìn mà BỊ Lố lên 100 nghìn.</YNghia>
+		<TiengAnh> a document that shows how much you owe somebody for goods or services</TiengAnh>
+		<Eg>She looked sadly at the unpaid bills on the table.</Eg>
+		<Dich>Cô buồn bã nhìn những hóa đơn chưa thanh toán trên bàn.</Dich>
+		<Srcimg>bill</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Reasonable</TuVung>
+		<PhienAm>/ˈriːznəbl/</PhienAm>
+		<Nghia>Phải chăng</Nghia>
+		<YNghia>Mẹ rủ RI "DẦN NỢ BỐ ít tiền hơn vì mua được đồ giá phải chăng".</YNghia>
+		<TiengAnh> fair, practical, and sensible</TiengAnh>
+		<Eg>I love Vietnam. The price is reasonable and the food is amazing.</Eg>
+		<Dich>Tôi yêu Việt Nam. Giá cả hợp lý và thức ăn tuyệt vời.</Dich>
+		<Srcimg>reasonable</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Luxury</TuVung>
+		<PhienAm>/ˈlʌkʃəri/</PhienAm>
+		<Nghia>Điều xa hoa</Nghia>
+		<YNghia>Mua đồng hồ quả LẮC "XƠ RI", trúng quà là điều xa hoa.</YNghia>
+		<TiengAnh>the fact of enjoying special and expensive things, particularly food and drink, clothes and places</TiengAnh>
+		<Eg>Having food to eat and a bed to sleep in are both luxuries.</Eg>
+		<Dich>Có thức ăn để ăn và một chiếc giường để ngủ đều là những thứ xa xỉ</Dich>
+		<Srcimg>luxury</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Generous</TuVung>
+		<PhienAm>/ˈdʒenərəs/</PhienAm>
+		<Nghia>Hào phóng</Nghia>
+		<YNghia>Thấy hạt DẺ NÓ RỚT, Mai hào phóng mua đền cho em.</YNghia>
+		<TiengAnh>giving or willing to give freely; given freely</TiengAnh>
+		<Eg>My granddad gave me a car for my birthday; he's so generous.</Eg>
+		<Dich>Ông của tôi đã tặng cho tôi một chiếc xe hơi vào ngày sinh nhật của tôi; anh ấy rất hào phóng.</Dich>
+		<Srcimg>generous</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Raise</TuVung>
+		<PhienAm>/reɪz/</PhienAm>
+		<Nghia>Tăng</Nghia>
+		<YNghia>Má la RẦY GIận dữ vì tiền điện tháng này bị tăng.</YNghia>
+		<TiengAnh>to lift or move something to a higher level</TiengAnh>
+		<Eg>You should raise the asking price for your painting.</Eg>
+		<Dich>Bạn nên tăng giá yêu cầu cho bức tranh của mìn</Dich>
+		<Srcimg>raise</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>Money and Spending</ChuDe>
+		<TuVung>Decrease</TuVung>
+		<PhienAm>/dɪˈkriːs/</PhienAm>
+		<Nghia>Giảm</Nghia>
+		<YNghia>Mi ĐI CÂU RI nớ, mà năng suất giảm ghê.</YNghia>
+		<TiengAnh>to become smaller in size, number, etc.; to make something smaller in size, number, etc.</TiengAnh>
+		<Eg>I think you should decrease your expectations of Paris.</Eg>
+		<Dich>Tôi nghĩ bạn nên giảm kỳ vọng của mình về Paris.</Dich>
+		<Srcimg>decrease</Srcimg>
+	</Item>
+
+</Word>
+

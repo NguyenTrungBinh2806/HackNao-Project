@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Open</TuVung>
+		<PhienAm>/ˈəʊpən/</PhienAm>
+		<Nghia>Mở</Nghia>
+		<YNghia>Thu làm cái Ô BỀN thật, mở lên thích mê.</YNghia>
+		<TiengAnh>allowing things or people to go through; not closed or blocked</TiengAnh>
+		<Eg>A new cafe is about to open next to school.</Eg>
+		<Dich>Một quán cà phê mới sắp mở bên cạnh trường học.</Dich>
+		<Srcimg>open</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Owner</TuVung>
+		<PhienAm>/ˈəʊnə(r)/</PhienAm>
+		<Nghia>Người chủ</Nghia>
+		<YNghia>Chú chim hải ÂU NỢ chủ 1 đời chăm sóc.</YNghia>
+		<TiengAnh>a person who owns something</TiengAnh>
+		<Eg>I'm the owner of an Italian restaunrant in Cau Giay.</Eg>
+		<Dich>Tôi là chủ một nhà hàng Ý ở Cầu Giấy</Dich>
+		<Srcimg>owner</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Cook</TuVung>
+		<PhienAm>/kʊk/</PhienAm>
+		<Nghia>Người làm bếp</Nghia>
+		<YNghia>Người làm bếp đang chế biến thức ăn từ hoa CÚC.</YNghia>
+		<TiengAnh>to prepare food by heating it, for example by boiling, baking or frying it</TiengAnh>
+		<Eg>I feel like the cook in my boyfriend's house.</Eg>
+		<Dich>Tôi cảm thấy như người nấu ăn trong nhà bạn trai của tôi</Dich>
+		<Srcimg>cook</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Acceptable</TuVung>
+		<PhienAm>/əkˈseptəbl/</PhienAm>
+		<Nghia>Chấp nhận được</Nghia>
+		<YNghia>Ơ, SẾP TỚ "BỒ kết" nhân viên lắm, chỉ cần xong việc là chấp nhận được.</YNghia>
+		<TiengAnh>agreed or approved of by most people in a society</TiengAnh>
+		<Eg>Your disrespectful attitude is not acceptable!.</Eg>
+		<Dich>Không thể chấp nhận được thái độ thiếu tôn trọng của bạn !.</Dich>
+		<Srcimg>acceptable</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Lawyer</TuVung>
+		<PhienAm>/ˈlɔɪə(r)/</PhienAm>
+		<Nghia>Luật sư</Nghia>
+		<YNghia>Cô luật sư lẻ LOI Ở nhà vì thua kiện.</YNghia>
+		<TiengAnh>a person who is trained and qualified to advise people about the law and to represent them in court, and to write legal documents</TiengAnh>
+		<Eg>The lawyer helped us make sure that I did not go to jail.</Eg>
+		<Dich>Luật sư đã giúp chúng tôi đảm bảo rằng tôi không bị vào tù.</Dich>
+		<Srcimg>lawyer</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Architect</TuVung>
+		<PhienAm>/ˈɑːkɪtekt/</PhienAm>
+		<Nghia>Kiến trúc sư</Nghia>
+		<YNghia>Á KỲ! TẾT mà kiến trúc sư vẫn còn đi làm sao?</YNghia>
+		<TiengAnh> a person whose job is designing buildings</TiengAnh>
+		<Eg>She wants to become an architect when she growns up, like her mum.</Eg>
+		<Dich>Cô ấy muốn trở thành một kiến trúc sư khi lớn lên, giống như mẹ cô ấy.</Dich>
+		<Srcimg>architect</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Engineer</TuVung>
+		<PhienAm>/ˌendʒɪˈnɪə(r)/</PhienAm>
+		<Nghia>Kỹ sư</Nghia>
+		<YNghia>Kỹ sư thích ĂN GÌ, NĨA có sẵn đây rồi nha.</YNghia>
+		<TiengAnh> a person whose job involves designing and building engines, machines, roads, bridges, etc.</TiengAnh>
+		<Eg>Gustave Eiffel is a famous civil engineer.</Eg>
+		<Dich>Gustave Eiffel là một kỹ sư xây dựng nổi tiếng.</Dich>
+		<Srcimg>engineer</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Manager</TuVung>
+		<PhienAm>/ˈmænɪdʒə(r)/</PhienAm>
+		<Nghia>Người quản lí</Nghia>
+		<YNghia>Eo Mai nhờ MÁ NỊT, GIỜ đã vừa đồng phục cho người quản lí.</YNghia>
+		<TiengAnh>a person who is in charge of running a business, a shop or a similar organization or part of one</TiengAnh>
+		<Eg>I don't like the manager of  that Pan Hotpot restaunant!.</Eg>
+		<Dich>Tôi không thích người quản lý của ông chủ nhà hàng Pan Hotpot !.</Dich>
+		<Srcimg>manager</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Form</TuVung>
+		<PhienAm>/fɔːm/</PhienAm>
+		<Nghia>Mẫu đơn</Nghia>
+		<YNghia>Muốn chơi PHỎM phải điền vào mẫu đơn này.</YNghia>
+		<TiengAnh>a type or variety of something</TiengAnh>
+		<Eg>Applying for a scholarship requires filling out many forms.</Eg>
+		<Dich>Đăng ký học bổng yêu cầu điền vào nhiều mẫu đơn</Dich>
+		<Srcimg>form</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Assistant</TuVung>
+		<PhienAm>/əˈsɪstənt/</PhienAm>
+		<Nghia>Trợ lí</Nghia>
+		<YNghia>Ơ, XÍT TỪNG là trợ lí giám đốc à?</YNghia>
+		<TiengAnh>a person who helps or supports somebody, usually in their job</TiengAnh>
+		<Eg>I don't speak English because my assistant usually translates for me.</Eg>
+		<Dich>Tôi không nói được tiếng Anh vì trợ lý của tôi thường phiên dịch cho tôi.</Dich>
+		<Srcimg>assistant</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Pilot</TuVung>
+		<PhienAm>/ˈpaɪlət/</PhienAm>
+		<Nghia>Phi công</Nghia>
+		<YNghia>Máy BAY LẬT bánh làm phi công hoảng hốt.</YNghia>
+		<TiengAnh>a person who operates the controls of an aircraft, especially as a job</TiengAnh>
+		<Eg>It must feel great to be a pilot and fly in the air.</Eg>
+		<Dich>Cảm giác thật tuyệt khi trở thành phi công và bay trên không trung.</Dich>
+		<Srcimg>pilot</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Salesperson</TuVung>
+		<PhienAm>/ˈseɪlzpɜːsn/</PhienAm>
+		<Nghia>Người bán hàng</Nghia>
+		<YNghia>Sales + Person = Doanh số + Người = Người giúp tăng Doanh số cho công ty = Người bán hàng.</YNghia>
+		<TiengAnh>a person whose job is to sell goods, for example, in a shop</TiengAnh>
+		<Eg>A salesperson typically has to be very good at talking.</Eg>
+		<Dich>Một nhân viên bán hàng thường phải nói rất giỏi.</Dich>
+		<Srcimg>salesperson</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Housewife</TuVung>
+		<PhienAm>/ˈhaʊswaɪf/</PhienAm>
+		<Nghia>Bà nội trợ</Nghia>
+		<YNghia>House + Wife = Nhà + vợ = người vợ dành thời gian ở nhà để làm việc nhà = bà nội trợ.</YNghia>
+		<TiengAnh>a woman who stays at home to cook, clean, take care of the children, etc. while her husband or partner goes out to wor</TiengAnh>
+		<Eg>My friend dreams of being a housewife in a small family.</Eg>
+		<Dich>Bạn tôi mơ trở thành một bà nội trợ trong một gia đình nhỏ.</Dich>
+		<Srcimg>housewife</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Receptionist</TuVung>
+		<PhienAm>/rɪˈsepʃənɪst/</PhienAm>
+		<Nghia>Lễ tân</Nghia>
+		<YNghia>RI SẾP SỪNG, NỊT chúng lại rồi gữi cho chị lễ tân.</YNghia>
+		<TiengAnh>a person whose job is to deal with people arriving at or phoning a hotel, an office building, a doctor’s surgery, etc.</TiengAnh>
+		<Eg>Please let the receptionist help you check in.</Eg>
+		<Dich>Vui lòng để lễ tân giúp bạn làm thủ tục</Dich>
+		<Srcimg>receptionist</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Hairdresser</TuVung>
+		<PhienAm>/ˈheədresə(r)/</PhienAm>
+		<Nghia>Thợ làm tóc</Nghia>
+		<YNghia>Hair + Dresser = Tóc + Người làm tóc = người thợ giúp mặc cho tóc một vẻ ngoài mới = thợ làm tóc.</YNghia>
+		<TiengAnh>a person whose job is to cut, wash and shape hair</TiengAnh>
+		<Eg>Do you know a good hairdresser who can curl my hair?</Eg>
+		<Dich>Bạn có biết một thợ làm tóc giỏi có thể uốn tóc cho tôi không?</Dich>
+		<Srcimg>hairdresser</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Journalist</TuVung>
+		<PhienAm>/ˈdʒɜːnəlɪst/</PhienAm>
+		<Nghia>Nhà báo</Nghia>
+		<YNghia>Nhà báo GIỜ NỢ LỊCH nộp bài như cơm bữa.</YNghia>
+		<TiengAnh>a person whose job is to collect and write news stories for newspapers, magazines, radio, television or online news sites</TiengAnh>
+		<Eg>My mum is a journalist at kenh13.</Eg>
+		<Dich>Mẹ tôi là nhà báo tại kenh13.</Dich>
+		<Srcimg>journalist</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Accountant</TuVung>
+		<PhienAm>/əˈkaʊntənt/</PhienAm>
+		<Nghia>Kế toán</Nghia>
+		<YNghia>Tớ làm kế toán Ở CAO TẬN tầng 72 Keangnam cơ!</YNghia>
+		<TiengAnh>a person whose job is to keep or check financial accounts</TiengAnh>
+		<Eg>As an accountant, I work with numbers all day.</Eg>
+		<Dich>Là một kế toán, tôi làm việc với các con số cả ngày.</Dich>
+		<Srcimg>accountant</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Offer</TuVung>
+		<PhienAm>/ˈɒfə(r)/</PhienAm>
+		<Nghia>Đề xuất</Nghia>
+		<YNghia>Gạch ỐP PHỜ cả nhà mà chưa được đề xuất tăng lương.</YNghia>
+		<TiengAnh>to say that you are willing to give something to somebody</TiengAnh>
+		<Eg>I'll offer you a deal you can't refuse.</Eg>
+		<Dich>Tôi sẽ cung cấp cho bạn một thỏa thuận mà bạn không thể từ chối.</Dich>
+		<Srcimg>offer</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Employer</TuVung>
+		<PhienAm>/ɪmˈplɔɪə(r)/</PhienAm>
+		<Nghia>Nhà tuyển dụng</Nghia>
+		<YNghia>Nhà tuyển dụng lặng IM BIẾT LỖI, ở nhà sám hối.</YNghia>
+		<TiengAnh>a person or company that pays people to work for them</TiengAnh>
+		<Eg>That company is a well-Known employer in the job market.</Eg>
+		<Dich>Công ty đó là một nhà tuyển dụng nổi tiếng trên thị trường việc làm.</Dich>
+		<Srcimg>employer</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Design</TuVung>
+		<PhienAm>/dɪˈzaɪn/</PhienAm>
+		<Nghia>Thiết kế</Nghia>
+		<YNghia>Nếu ĐI, GIAI nhân như Vy sẽ được thiết kế váy riêng.</YNghia>
+		<TiengAnh>the general arrangement of the different parts of something that is made, such as a building, book, machine, etc.</TiengAnh>
+		<Eg>Could you design a new flat for me?</Eg>
+		<Dich>Bạn có thể thiết kế một căn hộ mới cho tôi?</Dich>
+		<Srcimg>design</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Employee</TuVung>
+		<PhienAm>/ɪmˈplɔɪiː/</PhienAm>
+		<Nghia>Nhân viên</Nghia>
+		<YNghia>IM! BỊ LỖI Y như trước còn cãi à? - Nhân viên bị mắng.</YNghia>
+		<TiengAnh>a person who is paid to work for somebody</TiengAnh>
+		<Eg>A good manager takes care of every employee.</Eg>
+		<Dich>Một người quản lý giỏi chăm sóc mọi nhân viên.</Dich>
+		<Srcimg>employee</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Company</TuVung>
+		<PhienAm>/ˈkʌmpəni/</PhienAm>
+		<Nghia>Công ty</Nghia>
+		<YNghia>Đức đến công ty cầm đồ để CẰM BỘ NIkon.</YNghia>
+		<TiengAnh>a business organization that makes money by producing or selling goods or services</TiengAnh>
+		<Eg>The products of that company were made in Vietnam.</Eg>
+		<Dich>Các sản phẩm của công ty đó được sản xuất tại Việt Nam.</Dich>
+		<Srcimg>company</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Punctual</TuVung>
+		<PhienAm>/ˈpʌŋktʃuəl/</PhienAm>
+		<Nghia>Đúng giờ</Nghia>
+		<YNghia>Nó phải đi làm BĂNG CHÙA để đi làm đúngh giờ.</YNghia>
+		<TiengAnh>happening or doing something at the arranged or correct time; not late</TiengAnh>
+		<Eg>It's very important to be punctual in Korea and Japanese companies.</Eg>
+		<Dich>Việc đúng giờ ở các công ty Hàn Quốc và Nhật Bản là rất quan trọng.</Dich>
+		<Srcimg>punctual</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>Job and Work life 1</ChuDe>
+		<TuVung>Challenging</TuVung>
+		<PhienAm>/ˈtʃælɪndʒɪŋ/</PhienAm>
+		<Nghia>Mang tính thách thức</Nghia>
+		<YNghia>Vua CHA LỪNG DANH vì nhiệm vụ mang tính thách thức để kén rể.</YNghia>
+		<TiengAnh>difficult in an interesting way that tests your ability</TiengAnh>
+		<Eg>I love work that is challenging, so that's why I'm a doctor.</Eg>
+		<Dich>Tôi thích công việc đầy thử thách, vì vậy đó là lý do tại sao tôi là bác sĩ.</Dich>
+		<Srcimg>challenging</Srcimg>
+	</Item>
+
+</Word>
+

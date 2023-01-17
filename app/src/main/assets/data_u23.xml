@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Condition</TuVung>
+        <PhienAm>/kənˈdɪʃn/</PhienAm>
+        <Nghia>tình trạng</Nghia>
+        <YNghia>Ai CÒN ĐÍNH SỪNG trâu lên làm tình trạng bức tường xấu thêm</YNghia>
+        <TiengAnh>state of something</TiengAnh>
+        <Eg>Fortunately, the old bike I bought was in good condition</Eg>
+        <Dich>May mắn thay, chiếc xe đạp cũ tôi mua vẫn trong tình trạng tốt</Dich>
+        <Srcimg>condition</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Care</TuVung>
+        <PhienAm>/ker/</PhienAm>
+        <Nghia>quan tâm</Nghia>
+        <YNghia>vết thương to như cái KHE này cần được quan tâm ngay </YNghia>
+        <TiengAnh>the process of caring for somebody/something and providing what they need for their health or protection</TiengAnh>
+        <Eg>Do you care about gender equality?</Eg>
+        <Dich>Bạn có quan tâm đến bình đẳng giới không?</Dich>
+        <Srcimg>care</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>health</TuVung>
+        <PhienAm>/helθ/</PhienAm>
+        <Nghia>sức khỏe</Nghia>
+        <YNghia>Con HEO bị ốm cần được chăm sóc sức khỏe</YNghia>
+        <TiengAnh>the condition of a person’s body or mind</TiengAnh>
+        <Eg>I go to the hospital monthly to check my health</Eg>
+        <Dich>Tôi đến bệnh viện hàng tháng để kiểm tra sức khỏe của mình</Dich>
+        <Srcimg>health</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Exercise</TuVung>
+        <PhienAm>/ˈeksərsaɪz/</PhienAm>
+        <Nghia>tập thể dục</Nghia>
+        <YNghia>Con ẾCH SƠ SÀI trong việc ăn uống nhưng rất chăm chỉ tập thể dục</YNghia>
+        <TiengAnh>physical or mental activity that you do to stay healthy or become stronger</TiengAnh>
+        <Eg>I Exercise every morning</Eg>
+        <Dich>Tôi tập thể dục mỗi sáng</Dich>
+        <Srcimg>exercise</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Anxious</TuVung>
+        <PhienAm>/ˈæŋkʃəs/</PhienAm>
+        <Nghia>lo lắng</Nghia>
+        <YNghia>Tia nắng óng ÁNH SỢT qua khiến vy lo lắng bị cháy nắng</YNghia>
+        <TiengAnh>feeling worried or nervous</TiengAnh>
+        <Eg>Don't be Anxious about flying; pilots have lots of experiance</Eg>
+        <Dich>Đừng lo lắng về việc đi máy bay; phi công có rất nhiều kinh nghiệm</Dich>
+        <Srcimg>anxious</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>awake</TuVung>
+        <PhienAm>/əˈweɪk/</PhienAm>
+        <Nghia>tỉnh</Nghia>
+        <YNghia>Ơ ẾCH con tỉnh dậy sớm thế</YNghia>
+        <TiengAnh>not asleep</TiengAnh>
+        <Eg>I have been awake since 5 am today to study for the exam</Eg>
+        <Dich>Hôm nay tôi thức từ 5 giờ sáng để ôn thi</Dich>
+        <Srcimg>awake</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Curious</TuVung>
+        <PhienAm>/ˈkjʊriəs/</PhienAm>
+        <Nghia>tò mò</Nghia>
+        <YNghia>Đằng KA DÌ CHỢT hét lên khiến mọi người tò mò</YNghia>
+        <TiengAnh>having a strong desire to know about something</TiengAnh>
+        <Eg>Being Curious is fine, but some questions are quite rude to ask</Eg>
+        <Dich>Tò mò là được, nhưng một số câu hỏi khá thô lỗ để hỏi</Dich>
+        <Srcimg>curious</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>mind</TuVung>
+        <PhienAm>/maɪnd/</PhienAm>
+        <Nghia>trí óc</Nghia>
+        <YNghia>MAI thi thoảng để trí óc đi đâu</YNghia>
+        <TiengAnh>ability to think</TiengAnh>
+        <Eg>Maths exams require using your mind instead of just memorising formulas</Eg>
+        <Dich>Các kỳ thi toán học yêu cầu bạn phải vận dụng trí óc thay vì chỉ ghi nhớ các công thức</Dich>
+        <Srcimg>mind</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Body</TuVung>
+        <PhienAm>/ˈbɑːdi/</PhienAm>
+        <Nghia>cơ thể</Nghia>
+        <YNghia>Bé BO ĐI tới kết luận sẽ cố gắng để có cơ thể trongmơ</YNghia>
+        <TiengAnh>the whole physical structure of a human or an animal</TiengAnh>
+        <Eg>Both my body and brain are tired after a long day of work</Eg>
+        <Dich>Cả cơ thể và bộ não của tôi đều mệt mỏi sau một ngày dài làm việc</Dich>
+        <Srcimg>body</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>brain</TuVung>
+        <PhienAm>/breɪn/</PhienAm>
+        <Nghia>não</Nghia>
+        <YNghia>Não bộ của con BÒ RÊN rỉ như báo hiệu nó sắp ốm</YNghia>
+        <TiengAnh>the organ inside the head that controls movement, thought, memory and feeling</TiengAnh>
+        <Eg>Some people say that we only user 10% of our brain.</Eg>
+        <Dich>Một số người nói rằng chúng ta chỉ sử dụng 10% bộ não của mình</Dich>
+        <Srcimg>brain</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Damage</TuVung>
+        <PhienAm>/ˈdæmɪdʒ/</PhienAm>
+        <Nghia>phá hỏng</Nghia>
+        <YNghia>ĐÃ MỆT thì chớ mà vy còn phá hỏng giấc ngủ của Thu</YNghia>
+        <TiengAnh>physical harm caused to something which makes it less attractive, useful or valuable</TiengAnh>
+        <Eg>Smoking can damage your brain nerves</Eg>
+        <Dich>Hút thuốc có thể làm hỏng dây thần kinh não của bạn</Dich>
+        <Srcimg>damage</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Muscular</TuVung>
+        <PhienAm>/ˈmʌskjələr/</PhienAm>
+        <Nghia>vạm vỡ</Nghia>
+        <YNghia>Mai MỐT đám CỪU LỜ đừo sẽ trở nên vạm vỡ hơn</YNghia>
+        <TiengAnh>relating to the muscles</TiengAnh>
+        <Eg>many women prefer a man who is Muscular</Eg>
+        <Dich>nhiều phụ nữ thích một người đàn ông có cơ bắp</Dich>
+        <Srcimg>muscular</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Mindful</TuVung>
+        <PhienAm>/ˈmaɪndfl/</PhienAm>
+        <Nghia>để tâm </Nghia>
+        <YNghia>MAI PHUN xăm lông mày vì để tâm đến ngoại hình</YNghia>
+        <TiengAnh>remembering somebody/something and considering them or it when you do something</TiengAnh>
+        <Eg>Be mindful of other people's feelings</Eg>
+        <Dich>Hãy quan tâm đến cảm xúc của người khác</Dich>
+        <Srcimg>mindful</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Extraordinary</TuVung>
+        <PhienAm>/ɪkˈstrɔːrdəneri/</PhienAm>
+        <Nghia>phi thường</Nghia>
+        <YNghia>Extra+ Ordinary = siêu + bình thường= phi thường</YNghia>
+        <TiengAnh>unexpected, surprising or strange</TiengAnh>
+        <Eg>Before he fell sick , he thought he had Extraordinary health</Eg>
+        <Dich>Trước khi ốm, anh ấy nghĩ rằng mình có một sức khỏe phi thường</Dich>
+        <Srcimg>extraordinary</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Obviously</TuVung>
+        <PhienAm>/ˈɑːbviəsli/</PhienAm>
+        <Nghia>hiển nhiên</Nghia>
+        <YNghia>hiển nhiên là cua ÓP VỈ ỚT LY mua ở chợ rồi</YNghia>
+        <TiengAnh>used when giving information that you expect other people to know already or agree with</TiengAnh>
+        <Eg>She was Obviously the winner of the eating contest, not him</Eg>
+        <Dich>Rõ ràng cô ấy là người chiến thắng trong cuộc thi ăn uống, không phải anh ta </Dich>
+        <Srcimg>obviously</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Unlikely</TuVung>
+        <PhienAm>/ʌnˈlaɪkli/</PhienAm>
+        <Nghia>khó xảy ra</Nghia>
+        <YNghia>Rất khó xảy ra việc Tuấn tham ĂN LAI LY đi chơi</YNghia>
+        <TiengAnh>not likely to happen; not probable</TiengAnh>
+        <Eg>even though winning the lottery is very Unlikely, I still play every week</Eg>
+        <Dich>mặc dù rất khó trúng số nhưng tôi vẫn chơi hàng tuần</Dich>
+        <Srcimg>unlikely</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Embarrassed</TuVung>
+        <PhienAm>/ɪmˈbærəst/</PhienAm>
+        <Nghia>ngượng</Nghia>
+        <YNghia>Tuấn chỉ đứng IM, BA RƯỢT con chó khiến tuấn thấy ngượng</YNghia>
+        <TiengAnh>shy, uncomfortable or ashamed, especially in a social situation</TiengAnh>
+        <Eg>I was Embarrassed to admit that I had told a lie</Eg>
+        <Dich>Tôi rất xấu hổ khi thừa nhận rằng tôi đã nói dối</Dich>
+        <Srcimg>embarrassed</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Dentist</TuVung>
+        <PhienAm>/ˈdentɪst/</PhienAm>
+        <Nghia>nha sĩ</Nghia>
+        <YNghia>bác nha sĩ dùng chân dẫm ngọn lửa ĐẾN TỊT ngóm.</YNghia>
+        <TiengAnh>a person whose job is to take care of people’s teeth</TiengAnh>
+        <Eg>Children are usually scared of their Dentist</Eg>
+        <Dich>Trẻ em thường sợ Nha sĩ của chúng</Dich>
+        <Srcimg>dentist</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Heartbeat</TuVung>
+        <PhienAm>/ˈhɑːrtbiːt/</PhienAm>
+        <Nghia>nhịp tim</Nghia>
+        <YNghia>Heart + beat= tim + nhịp= nhịp tim.</YNghia>
+        <TiengAnh>the movement or sound of the heart as it sends blood around the body</TiengAnh>
+        <Eg>I could feel my Heartbeat rising whenever he is around</Eg>
+        <Dich>Tôi có thể cảm thấy Nhịp tim của mình tăng lên bất cứ khi nào anh ấy ở gần</Dich>
+        <Srcimg>heartbeat</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Prevent</TuVung>
+        <PhienAm>/prɪˈvent/</PhienAm>
+        <Nghia>Phòng tránh</Nghia>
+        <YNghia>Có múp míp xanh rì ven sông giúp phòng tránh bệnh tật.</YNghia>
+        <TiengAnh>to stop somebody from doing something; to stop something from happening</TiengAnh>
+        <Eg>You should wear a helmet to prevent serious head injuries while riding</Eg>
+        <Dich>Bạn nên đội mũ bảo hiểm để tránh bị thương nặng ở đầu khi đi xe</Dich>
+        <Srcimg>prevent</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Remain</TuVung>
+        <PhienAm>/rɪˈmeɪn/</PhienAm>
+        <Nghia>giữ nguyên</Nghia>
+        <YNghia>Đám cỏ xanh RÌ MÊNH mông vẫn được giữ nguyên.</YNghia>
+        <TiengAnh>linking verb to continue to be something; to be still in the same state or condition</TiengAnh>
+        <Eg>You have the right to remain silent</Eg>
+        <Dich>Bạn có quyền giữ im lặng</Dich>
+        <Srcimg>remain</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Blood</TuVung>
+        <PhienAm>/blʌd/</PhienAm>
+        <Nghia>máu</Nghia>
+        <YNghia>Con Bò LẮC đầu không chịu ăn cỏ đỏ úa như máu.</YNghia>
+        <TiengAnh>the red liquid that flows through the bodies of humans and animals</TiengAnh>
+        <Eg>which blood type do you have: A, B, or O?</Eg>
+        <Dich>bạn có nhóm máu nào: A, B hay O?</Dich>
+        <Srcimg>blood</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Sight</TuVung>
+        <PhienAm>/saɪt/</PhienAm>
+        <Nghia>thị lực</Nghia>
+        <YNghia>Thị lực chỉ được 5/10 nên Đức đọc SAI hết các từ trên bảng .</YNghia>
+        <TiengAnh>the ability to see</TiengAnh>
+        <Eg>My sight isn't great, so I have to wear glasses</Eg>
+        <Dich>Thị lực của tôi không đẹp nên tôi phải đeo kính</Dich>
+        <Srcimg>sight</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Health and Diseases 1</ChuDe>
+        <TuVung>Weight</TuVung>
+        <PhienAm>/weɪt/</PhienAm>
+        <Nghia>cân nặng</Nghia>
+        <YNghia>Cân nặng thường QUYẾT định một người béo hay gầy.</YNghia>
+        <TiengAnh>how heavy somebody/something is, which can be measured in, for example, kilograms or pounds</TiengAnh>
+        <Eg>please fill in your age, height, and weight</Eg>
+        <Dich>vui lòng điền tuổi, chiều cao và cân nặng của bạn</Dich>
+        <Srcimg>weight</Srcimg>
+    </Item>
+
+</Word>
+

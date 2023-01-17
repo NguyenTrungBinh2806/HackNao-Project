@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Inform</TuVung>
+		<PhienAm>/ɪnˈfɔːm/</PhienAm>
+		<Nghia>Báo tin</Nghia>
+		<YNghia>IN PHóng to ra rồi báo tin cho mọi người.</YNghia>
+		<TiengAnh>Print, enlarge and then inform everyone.</TiengAnh>
+		<Eg>We are sorry to inform you that you have failed the interview.</Eg>
+		<Dich>Chúng tôi rất tiếc phải thông báo với bạn rằng bạn đã trượt phỏng vấn</Dich>
+		<Srcimg>inform</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Block</TuVung>
+		<PhienAm>/blɒk/</PhienAm>
+		<Nghia>Khu nhà</Nghia>
+		<YNghia>Bác chạy xe BÒ LÓC cóc qua vài khu nhà.</YNghia>
+		<TiengAnh>Uncle drove a bullock cart through a few blocks.</TiengAnh>
+		<Eg>The playground is right within the block.</Eg>
+		<Dich>Sân chơi nằm ngay trong khu nhà</Dich>
+		<Srcimg>block</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Develop</TuVung>
+		<PhienAm>/dɪˈveləp/</PhienAm>
+		<Nghia>Phát triển</Nghia>
+		<YNghia>Thanh niên ĐI VÁ LỚP mái, phát triển vudng khó khăn.</YNghia>
+		<TiengAnh>Young people go to patch the roof, develop difficult skills.</TiengAnh>
+		<Eg>They're trying to develop the areas in Ha Giang.</Eg>
+		<Dich>Họ đang cố gắng phát triển các khu vực ở Hà Giang.</Dich>
+		<Srcimg>develop</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Safe</TuVung>
+		<PhienAm>/seɪf/</PhienAm>
+		<Nghia>An toàn</Nghia>
+		<YNghia>Nhất định các SẾP sẽ hạ cánh an toàn.</YNghia>
+		<TiengAnh>I'm sure the bosses will land safely.</TiengAnh>
+		<Eg>Kim Ma isn't very safe to walk across.</Eg>
+		<Dich>Kim Mã không an toàn lắm để đi qua.</Dich>
+		<Srcimg>safe</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Vibrant</TuVung>
+		<PhienAm>/ˈvaɪbrənt/</PhienAm>
+		<Nghia>Sôi động</Nghia>
+		<YNghia>Hết màu hè nên khách tới mua VÁI BỚT RẦN rần, không sôi động nữa.</YNghia>
+		<TiengAnh>Summer is over, so customers who come to buy clothes are less excited and less excited.</TiengAnh>
+		<Eg>My neighbourhood is vibrant with many shops and cafes.</Eg>
+		<Dich>Khu phố của tôi sôi động với nhiều cửa hàng và quán cà phê.</Dich>
+		<Srcimg>vibrant</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Area</TuVung>
+		<PhienAm>/ˈeəriə/</PhienAm>
+		<Nghia>Khu vực</Nghia>
+		<YNghia>Ê-RI Ở khu vực "qúy" nhất Hanoi.</YNghia>
+		<TiengAnh>Eri is in the most "precious" area of Hanoi.</TiengAnh>
+		<Eg>Which area of the city do you live in?</Eg>
+		<Dich>Bạn sống ở khu vực nào của thành phố?</Dich>
+		<Srcimg>area</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Friendly</TuVung>
+		<PhienAm>/ˈfrendli/</PhienAm>
+		<Nghia>Thân thiện</Nghia>
+		<YNghia>Bán PHỞ RÈN LY cách thân thiện với khách.</YNghia>
+		<TiengAnh>Selling pho forged Ly in a friendly way with customers.</TiengAnh>
+		<Eg>Her dog is very friendly and likes to play.</Eg>
+		<Dich>Con chó của cô ấy rất thân thiện và thích chơi đùa</Dich>
+		<Srcimg>friendly</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Invite</TuVung>
+		<PhienAm>/ɪnˈvaɪt/</PhienAm>
+		<Nghia>Mời</Nghia>
+		<YNghia>Đức mời hẳn nhà thiết kế IN VẢI để may áo.</YNghia>
+		<TiengAnh>Duc invites a fabric designer to make a shirt.</TiengAnh>
+		<Eg>Can I invite you for coffee later?</Eg>
+		<Dich>Tôi có thể mời bạn uống cà phê sau được không?</Dich>
+		<Srcimg>invite</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>One-way</TuVung>
+		<PhienAm>/ˌwʌn ˈweɪ/</PhienAm>
+		<Nghia>Đưuòng một chiều</Nghia>
+		<YNghia>One + Way = Một + Đường = Đường một chiều.</YNghia>
+		<TiengAnh>One + Way = One + Road = One way street.</TiengAnh>
+		<Eg>One-way streets are so annoying: I can't turn around.</Eg>
+		<Dich>Đường một chiều thật khó chịu: Tôi không thể quay đầu lại.</Dich>
+		<Srcimg>oneway</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Clinic</TuVung>
+		<PhienAm>/ˈklɪnɪk/</PhienAm>
+		<Nghia>Phòng khám</Nghia>
+		<YNghia>CÔ LÝ NÍCH đầy quà vặt đầy bụng rồi mới tới phòng khám.</YNghia>
+		<TiengAnh>Ms. Li filled her stomach with snacks before going to the clinic.</TiengAnh>
+		<Eg>The hospital is crowded, but this small clinic isn't.</Eg>
+		<Dich>Bệnh viện đông đúc, nhưng phòng khám nhỏ này thì không.</Dich>
+		<Srcimg>clinic</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Ground</TuVung>
+		<PhienAm>/ɡraʊnd/</PhienAm>
+		<Nghia>Mặt đất</Nghia>
+		<YNghia>TiếnG RAO bánh mì vang khắp mặt đất.</YNghia>
+		<TiengAnh>The cry of bread resounded throughout the earth.</TiengAnh>
+		<Eg>Hey, please don't put my backpack on the ground.</Eg>
+		<Dich>Này, làm ơn đừng đặt ba lô của tôi xuống đất.</Dich>
+		<Srcimg>ground</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Complicate</TuVung>
+		<PhienAm>/ˈkɒmplɪkeɪt/</PhienAm>
+		<Nghia>Phức tạp</Nghia>
+		<YNghia>CƠM PA LY QUAY TÍT vẽ nên các khối hình phức tạp.</YNghia>
+		<TiengAnh>Pa Ly rice is spinning to draw complex shapes.</TiengAnh>
+		<Eg>My relationship situation is a bit complicated.</Eg>
+		<Dich>Tình hình mối quan hệ của tôi hơi phức tạp</Dich>
+		<Srcimg>complicate</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Gym</TuVung>
+		<PhienAm>/dʒɪm/</PhienAm>
+		<Nghia>Phòng tập thể hình</Nghia>
+		<YNghia>Tuấn lim DIM ngủ ở phòng tập thể hình.</YNghia>
+		<TiengAnh>Tuan sleeps in the gym.</TiengAnh>
+		<Eg>I hate when people wear too much prefume at the gym.</Eg>
+		<Dich>Tôi ghét khi mọi người mặc quá nhiều áo sơ mi ở phòng tập thể dục.</Dich>
+		<Srcimg>gym</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Chilled</TuVung>
+		<PhienAm>/tʃɪl/</PhienAm>
+		<Nghia>Thư giản</Nghia>
+		<YNghia>Đức CHIỀU đám bạn gái đi spa thư giản.</YNghia>
+		<TiengAnh>Duc afternoon his girlfriends go to the spa to relax.</TiengAnh>
+		<Eg>It's quite a chilled cafe: there aren't a lot of people.</Eg>
+		<Dich>Đó là một quán cà phê khá lạnh: không có nhiều người.</Dich>
+		<Srcimg>chilled</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Noisy</TuVung>
+		<PhienAm>/ˈnɔɪzi/</PhienAm>
+		<Nghia>Ồn ào</Nghia>
+		<YNghia>Ở đay ồn lắm, NÓI GÌ thì nói to lên.</YNghia>
+		<TiengAnh>It's very noisy in here, say what you want to say out loud.</TiengAnh>
+		<Eg>I moved because my old neighbours were too noisy.</Eg>
+		<Dich>Tôi đã chuyển đi vì những người hàng xóm cũ của tôi quá ồn ào.</Dich>
+		<Srcimg>noisy</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Vibe</TuVung>
+		<PhienAm>/vaɪbz/</PhienAm>
+		<Nghia>Bầu không khí</Nghia>
+		<YNghia>Nhân vật có VAI vế xuất hiện làm bầu không khí nóng hơn.</YNghia>
+		<TiengAnh>The appearance of a prominent character makes the atmosphere hotter.</TiengAnh>
+		<Eg>Saigon has a very energetic vibe.</Eg>
+		<Dich>Sài Gòn có một sự rung cảm rất mạnh mẽ.</Dich>
+		<Srcimg>vibe</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Always</TuVung>
+		<PhienAm>/ˈɔːlweɪz/</PhienAm>
+		<Nghia>Luôn luôn</Nghia>
+		<YNghia>Ngày nhỏ Tuấn luôn luôn cầm Ô QUẬY sớm chiều.</YNghia>
+		<TiengAnh>When he was a child, Tuan always held an umbrella early in the afternoon.</TiengAnh>
+		<Eg>I always start my dads by drinking water.</Eg>
+		<Dich>Tôi luôn bắt đầu làm cha của mình bằng cách uống nước.</Dich>
+		<Srcimg>always</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Property</TuVung>
+		<PhienAm>/ˈprɒpəti/</PhienAm>
+		<Nghia>Tài sản</Nghia>
+		<YNghia>Bỏ RA BƠ TÍ hon này khỏi tài sản của chúng ta nhé.</YNghia>
+		<TiengAnh>Get rid of this tiny butter from our possessions.</TiengAnh>
+		<Eg>This computer is the property of the company I work at.</Eg>
+		<Dich>Máy tính này là tài sản của công ty tôi đang làm việc.</Dich>
+		<Srcimg>property</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Comfy</TuVung>
+		<PhienAm>/ˈkʌmfi/</PhienAm>
+		<Nghia>Dễ chịu</Nghia>
+		<YNghia>Ngoài đường rét CĂM, PHI về nhà trùm chăn thì thật dễ chịu.</YNghia>
+		<TiengAnh>It's so cold outside, it's very comfortable to go home with a blanket.</TiengAnh>
+		<Eg>My bed is not very comfy, so I want a new one.</Eg>
+		<Dich>Giường của tôi không được thoải mái lắm, vì vậy tôi muốn có một chiếc giường mới.</Dich>
+		<Srcimg>comfy</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Cosy</TuVung>
+		<PhienAm>/ˈkəʊzi/</PhienAm>
+		<Nghia>Ấm cúng</Nghia>
+		<YNghia>Anh em CÔ Dì chúc bác sum họp thật ấm cúng.</YNghia>
+		<TiengAnh>Brothers and sisters wish you a warm reunion.</TiengAnh>
+		<Eg>My flat is small, but during winter it's so cosy.</Eg>
+		<Dich>Căn hộ của tôi nhỏ, nhưng vào mùa đông, nó rất ấm cúng.</Dich>
+		<Srcimg>cosy</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Playground</TuVung>
+		<PhienAm>/ˈpleɪɡraʊnd/</PhienAm>
+		<Nghia>Sân chơi</Nghia>
+		<YNghia>Play + Ground = Chơi + Sân rộng dành cho trẻ em Chơi = Sân chơi.</YNghia>
+		<TiengAnh>Play + Ground = Play + Large yard for kids Play = Playground.</TiengAnh>
+		<Eg>We take the neighour's children to the playground each weekend.</Eg>
+		<Dich>Chúng tôi đưa các con của neighour đến sân chơi vào mỗi cuối tuần.</Dich>
+		<Srcimg>playground</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Pool</TuVung>
+		<PhienAm>/puːl/</PhienAm>
+		<Nghia>Bể bơi</Nghia>
+		<YNghia>Gấu PU LÍ lắc đi bể bơi.</YNghia>
+		<TiengAnh>The bear puddled to the swimming pool.</TiengAnh>
+		<Eg>People often go to the pool on hot days.</Eg>
+		<Dich>Mọi người thường đến hồ bơi vào những ngày nắng nóng.</Dich>
+		<Srcimg>pool</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Mostly</TuVung>
+		<PhienAm>/ˈməʊstli/</PhienAm>
+		<Nghia>Hầu như</Nghia>
+		<YNghia>Chú rể thức hầu như cả đêm, sợ mai MỐT SẼ LY biệt.</YNghia>
+		<TiengAnh>The groom stayed up most of the night, afraid of leaving tomorrow.</TiengAnh>
+		<Eg>Customers at bubble tea shops are mostly young girls and women.</Eg>
+		<Dich>Khách hàng tại các quán trà sữa chủ yếu là các cô gái trẻ và phụ nữ.</Dich>
+		<Srcimg>mostly</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>House - Neightbourhood 2</ChuDe>
+		<TuVung>Everywhere</TuVung>
+		<PhienAm>/ˈevriweə(r)/</PhienAm>
+		<Nghia>Khắp mọi nơi</Nghia>
+		<YNghia>Every + Where = Mọi + Nơi đâu = Khắp mọi nơi.</YNghia>
+		<TiengAnh>Every + Where = Everywhere.</TiengAnh>
+		<Eg>My dog spilled his food everywhere in the house.</Eg>
+		<Dich>Con chó của tôi làm đổ thức ăn của nó khắp nơi trong nhà.</Dich>
+		<Srcimg>everywhere</Srcimg>
+	</Item>
+
+</Word>
+

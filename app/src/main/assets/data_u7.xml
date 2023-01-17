@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Capital</TuVung>
+		<PhienAm>/ˈkæpɪtl/</PhienAm>
+		<Nghia>Thủ đô</Nghia>
+		<YNghia>Nhà thủ đô mà CÁP BỊ THÓ mất.</YNghia>
+		<TiengAnh>The capital house where the cable was stolen.</TiengAnh>
+		<Eg>Hanoi is the capital of Vietnam.</Eg>
+		<Dich>Hà Nội là thủ đô của Việt Nam.</Dich>
+		<Srcimg>capital</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Exciting</TuVung>
+		<PhienAm>/ɪkˈsaɪtɪŋ/</PhienAm>
+		<Nghia>Hứng thú</Nghia>
+		<YNghia>Chú ẾCH SÀI TINH dầu gây hứng thú cho giới khoa học.</YNghia>
+		<TiengAnh>The frog using essential oils is interesting to the scientific community.</TiengAnh>
+		<Eg>The action film was exciting from star to finish.</Eg>
+		<Dich>Bộ phim hành động hấp dẫn từ ngôi sao đến phần cuối.</Dich>
+		<Srcimg>exciting</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Skyscraper</TuVung>
+		<PhienAm>/ˈskaɪskreɪpə(r)/</PhienAm>
+		<Nghia>Nhà chọc trời</Nghia>
+		<YNghia>Nhìn SƠ, CÁI RẠP "BỜ Biển" giống một tòa nhà chọc trời.</YNghia>
+		<TiengAnh>Looks scary, the theater "Beach" is like a skyscraper.</TiengAnh>
+		<Eg>New York looks like a jungle with all those skyscraper.</Eg>
+		<Dich>New York trông giống như một khu rừng với tất cả những tòa nhà chọc trời đó.</Dich>
+		<Srcimg>skyscraper</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Atmosphere</TuVung>
+		<PhienAm>/ˈætməsfɪə(r)/</PhienAm>
+		<Nghia>Bầu không khí</Nghia>
+		<YNghia>Bầu không khí thật đáng sợ khi kẻ xấu xuất hiện mọi người ÁT MỘT PHÍA.</YNghia>
+		<TiengAnh>The atmosphere is scary when the bad guys appear and everyone dominates to one side.</TiengAnh>
+		<Eg>The atmosphere in the room before the test very tense.</Eg>
+		<Dich>Không khí trong phòng trước buổi kiểm tra rất căng thẳng.</Dich>
+		<Srcimg>atmosphere</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Nightlife</TuVung>
+		<PhienAm>/ˈnaɪtlaɪf/</PhienAm>
+		<Nghia>Cuộc sống về đêm</Nghia>
+		<YNghia>Night + Life = Đêm + Cuộc sống = Cuộc sống về đêm.</YNghia>
+		<TiengAnh>Night + Life = Night + Life = Nightlife.</TiengAnh>
+		<Eg>The nightlife in Saigon is very interesting.</Eg>
+		<Dich>Cuộc sống về đêm ở Sài Gòn rất thú vị.</Dich>
+		<Srcimg>nightlife</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Lively</TuVung>
+		<PhienAm>/ˈlaɪvli/</PhienAm>
+		<Nghia>Sống động</Nghia>
+		<YNghia>Bố LAI VY LI đến một buổi hòa nhạc sống động.</YNghia>
+		<TiengAnh>Vy Li's half-father goes to a lively concert.</TiengAnh>
+		<Eg>The arties drew a very lively portrait of his mom.</Eg>
+		<Dich>Những người tuổi Tỵ đã vẽ một bức chân dung rất sống động về mẹ anh ấy.</Dich>
+		<Srcimg>lively</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Modern</TuVung>
+		<PhienAm>/ˈmɒdn/</PhienAm>
+		<Nghia>Hiện đại</Nghia>
+		<YNghia>Tuấn gõ MÕ ĐỜN ca theo phong cách hiện đại.</YNghia>
+		<TiengAnh>Tuan knocks mu dan ca in a modern style.</TiengAnh>
+		<Eg>I prefer living in the modern city to a traditional town.</Eg>
+		<Dich>Tôi thích sống ở thành phố hiện đại hơn là một thị trấn truyền thống.</Dich>
+		<Srcimg>modern</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Various</TuVung>
+		<PhienAm>/ˈveəriəs/</PhienAm>
+		<Nghia>Đa dạng</Nghia>
+		<YNghia>Cuộc thi "VẼ DỄ ỢT" rất đơn giản về giải thưởng.</YNghia>
+		<TiengAnh>The "Easy Drawing" contest is very simple about prizes.</TiengAnh>
+		<Eg>Dessert in Vietnam often includes various kinds of fruit.</Eg>
+		<Dich>Món tráng miệng ở Việt Nam thường bao gồm các loại trái cây.</Dich>
+		<Srcimg>various</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Service</TuVung>
+		<PhienAm>/ˈsɜːvɪs/</PhienAm>
+		<Nghia>Dịch vụ</Nghia>
+		<YNghia>Vy SỜ VỊT Xong bị dị ứng nên phải gọi dịch vụ y tế.</YNghia>
+		<TiengAnh>After touching the duck, she had an allergic reaction, so she had to call for medical services.</TiengAnh>
+		<Eg>There are many public services in cities, such as schools, trasportation, and hospitals.</Eg>
+		<Dich>Có nhiều dịch vụ công cộng ở các thành phố, chẳng hạn như trường học, giao thông vận tải và bệnh viện.</Dich>
+		<Srcimg>service</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>System</TuVung>
+		<PhienAm>/ˈsɪstəm/</PhienAm>
+		<Nghia>Hệ thống</Nghia>
+		<YNghia>Hệ thống XÍCH TẦM 10 giây lỗi một lần.</YNghia>
+		<TiengAnh>The chain system fails every 10 seconds.</TiengAnh>
+		<Eg>The operating system on this computer is outdated.</Eg>
+		<Dich>Hệ điều hành trên máy tính này đã lỗi thời.</Dich>
+		<Srcimg>system</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Pavement</TuVung>
+		<PhienAm>/ˈpeɪvmənt/</PhienAm>
+		<Nghia>Vỉa hè</Nghia>
+		<YNghia>Được đá bóng trên vỉa hè tụi BÂY VUI MỪNG ha?</YNghia>
+		<TiengAnh>Are you happy to be playing football on the sidewalk?</TiengAnh>
+		<Eg>In Vietnam, almost nobody walks on the pavement.</Eg>
+		<Dich>Ở Việt Nam, hầu như không ai đi bộ trên vỉa hè.</Dich>
+		<Srcimg>pavement</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Alley</TuVung>
+		<PhienAm>/ˈæli/</PhienAm>
+		<Nghia>Ngõ</Nghia>
+		<YNghia>Chỉ E LY đi vào ngõ tối dễ gặp cướp.</YNghia>
+		<TiengAnh>Only if Ly goes into a dark alley, it is easy to meet robbers.</TiengAnh>
+		<Eg>You should look both ways when you leave an alley.</Eg>
+		<Dich>Bạn nên nhìn cả hai hướng khi ra khỏi một con hẻm.</Dich>
+		<Srcimg>alley</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Neighbourhood</TuVung>
+		<PhienAm>/ˈneɪbəhʊd/</PhienAm>
+		<Nghia>Khu dân cư</Nghia>
+		<YNghia>Ở khu dân cư, chổ nào chổ NẤY BÒ HÚC nhau ghê lắm.</YNghia>
+		<TiengAnh>In the residential area, everywhere, cows and cows are very fierce.</TiengAnh>
+		<Eg>I live in a very quite meighbourhood, far from the city centre.</Eg>
+		<Dich>Tôi sống trong một khu phố rất yên tĩnh, cách xa trung tâm thành phố.</Dich>
+		<Srcimg>neighbourhood</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Bustling</TuVung>
+		<PhienAm>/ˈbʌslɪŋ/</PhienAm>
+		<Nghia>Náo nhiệt</Nghia>
+		<YNghia>Thấy thiếu náo nhiệt, chỉ huy BẮT Số LÍNH hát nhạc thiếu nhi.</YNghia>
+		<TiengAnh>Seeing the lack of excitement, the commander ordered the soldiers to sing children's music.</TiengAnh>
+		<Eg>Hoan Kiem and District 1 are bustling areas in Hanoi and Saigon.</Eg>
+		<Dich>Hoàn Kiếm và Quận 1 là những khu vực sầm uất ở Hà Nội và Sài Gòn.</Dich>
+		<Srcimg>bustling</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Appealing</TuVung>
+		<PhienAm>/əˈpiːlɪŋ/</PhienAm>
+		<Nghia>Thu hút</Nghia>
+		<YNghia>NhỠ BỊ LINH hạ gũ bởi ánh nhìn thu hút.</YNghia>
+		<TiengAnh>If I was defeated by Linh by the attractive gaze.</TiengAnh>
+		<Eg>What's your girlfriend's most appealing feature?</Eg>
+		<Dich>Đặc điểm hấp dẫn nhất của bạn gái bạn là gì?</Dich>
+		<Srcimg>appealing</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>District</TuVung>
+		<PhienAm>/ˈdɪstrɪkt/</PhienAm>
+		<Nghia>Quận</Nghia>
+		<YNghia>ĐI Sang TRÍCH Sài thì đi qua quận nào?</YNghia>
+		<TiengAnh>Going to Trich Sai, which district will you go through?</TiengAnh>
+		<Eg>Many backpackers hang out in district 1 of Saigon.</Eg>
+		<Dich>Nhiều khách du lịch ba lô đi chơi ở quận 1 của Sài Gòn</Dich>
+		<Srcimg>district</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Quality</TuVung>
+		<PhienAm>/ˈkwɒləti/</PhienAm>
+		<Nghia>Chất lượng</Nghia>
+		<YNghia>Nếu không nói QUÁ LỜI THÌ chất lượng chổ này tuyệt nhất.</YNghia>
+		<TiengAnh>If not exaggerating, the quality of this place is the best.</TiengAnh>
+		<Eg>Samsung phones are usually of exceptionally good quality.</Eg>
+		<Dich>Điện thoại Samsung thường có chất lượng đặc biệt tốt.</Dich>
+		<Srcimg>quality</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Central</TuVung>
+		<PhienAm>/ˈsentrəl/</PhienAm>
+		<Nghia>Ở giữa</Nghia>
+		<YNghia>Ở giữa hồ, hoa SEN CHỜ được thu hoạch.</YNghia>
+		<TiengAnh>In the middle of the lake, lotus flowers are waiting to be harvested.</TiengAnh>
+		<Eg>I should rent a flat in the central area of Da Nang.</Eg>
+		<Dich>Tôi nên thuê một căn hộ ở khu vực trung tâm Đà Nẵng.</Dich>
+		<Srcimg>central</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Nightclub</TuVung>
+		<PhienAm>/ˈnaɪtklʌb/</PhienAm>
+		<Nghia>Hộp đêm</Nghia>
+		<YNghia>Night + Club = Đêm + Câu lạc bộ = Hộp đêm.</YNghia>
+		<TiengAnh>Night + Club = Night + Club = Nightclub.</TiengAnh>
+		<Eg>My grandparents would not find nightclubs very appealing.</Eg>
+		<Dich>Ông bà tôi không thấy hộp đêm hấp dẫn lắm.</Dich>
+		<Srcimg>nightclub</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Tower</TuVung>
+		<PhienAm>/ˈtaʊə(r)/</PhienAm>
+		<Nghia>Tòa tháp</Nghia>
+		<YNghia>Chú THAO Ở tòa tháp chọc trời.</YNghia>
+		<TiengAnh>Uncle Thao in the skyscraper.</TiengAnh>
+		<Eg>There's a restaurant the top of the tower</Eg>
+		<Dich>Có một nhà hàng trên đỉnh tháp</Dich>
+		<Srcimg>tower</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Opportunity</TuVung>
+		<PhienAm>/ˌɒpəˈtjuːnəti/</PhienAm>
+		<Nghia>Cơ hội</Nghia>
+		<YNghia>OPPA CHỊU NỢ TIỀN là cơ hội tốt cho cậu thả thính đó.</YNghia>
+		<TiengAnh>Oppa paying the debt is a good opportunity for you to flirt.</TiengAnh>
+		<Eg>Working as a receptionist is a good opportunity to practise listening skills.</Eg>
+		<Dich>Làm lễ tân là cơ hội tốt để rèn luyện kỹ năng lắng nghe.</Dich>
+		<Srcimg>opportunity</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Convenient</TuVung>
+		<PhienAm>/kənˈviːniənt/</PhienAm>
+		<Nghia>Tiện lợi</Nghia>
+		<YNghia>Thanh toán tiền điện tử tiện lợi hơn, CÒN VÍ NÊN cất ở nhà.</YNghia>
+		<TiengAnh>Cryptocurrency payments are more convenient, and wallets should be kept at home.</TiengAnh>
+		<Eg>Instant noodles are a convenient from of food, but terrible for health.</Eg>
+		<Dich>Mì ăn liền là một loại thực phẩm tiện lợi nhưng lại ảnh hưởng xấu đến sức khỏe.</Dich>
+		<Srcimg>convenient</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Highway</TuVung>
+		<PhienAm>/ˈhaɪweɪ/</PhienAm>
+		<Nghia>Đường cao tốc</Nghia>
+		<YNghia>High + Way = Cao + Đường = Đường cao tốc.</YNghia>
+		<TiengAnh>High + Way = High + Road = Highway.</TiengAnh>
+		<Eg>I love driving on the highway because i love driving fast.</Eg>
+		<Dich>Tôi thích lái xe trên đường cao tốc vì tôi thích lái xe nhanh</Dich>
+		<Srcimg>highway</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>In the city 1</ChuDe>
+		<TuVung>Square</TuVung>
+		<PhienAm>/skweə(r)/</PhienAm>
+		<Nghia>Quãng trường</Nghia>
+		<YNghia>Ở quãng trường đông lắm, đi ra SỢ QUÈ chân như chơi.</YNghia>
+		<TiengAnh>In the crowded square, going out was afraid of lameness like playing.</TiengAnh>
+		<Eg>I often meet my fiends at the town square.</Eg>
+		<Dich>Tôi thường gặp bạn bè của mình tại quảng trường thành phố.</Dich>
+		<Srcimg>square</Srcimg>
+	</Item>
+
+</Word>
+

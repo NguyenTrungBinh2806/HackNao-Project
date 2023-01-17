@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Pill</TuVung>
+        <PhienAm>/pɪl/</PhienAm>
+        <Nghia>viên thuốc</Nghia>
+        <YNghia>Đức nhét viên thuốc vào súng rồi bắn PIU piu</YNghia>
+        <TiengAnh>a small flat round piece of medicine that you swallow whole, without biting it</TiengAnh>
+        <Eg>If you have a headache, take this pill to feel better</Eg>
+        <Dich>Nếu bạn bị đau đầu, hãy uống viên này để cảm thấy dễ chịu hơn</Dich>
+        <Srcimg>pill</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Nightmare</TuVung>
+        <PhienAm>/ˈnaɪtmer/</PhienAm>
+        <Nghia>ác mộng</Nghia>
+        <YNghia>Con heo NÁI MÈ nheo với mẹ do gặp cơn ác mộng</YNghia>
+        <TiengAnh>a dream that is very frightening or unpleasant</TiengAnh>
+        <Eg>Children often have nightmares after they watch scary movies</Eg>
+        <Dich>Trẻ em thường gặp ác mộng sau khi xem những bộ phim kinh dị</Dich>
+        <Srcimg>nightmare</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Consider</TuVung>
+        <PhienAm>/kənˈsɪdər/</PhienAm>
+        <Nghia>cân nhắc</Nghia>
+        <YNghia>CON XIn ĐẦU tư máy tính mới, bố mẹ cân nhắc được không?</YNghia>
+        <TiengAnh>to think about something carefully, especially in order to make a decision</TiengAnh>
+        <Eg>I'll consider becoming a vegatarian to improve my health</Eg>
+        <Dich>Tôi sẽ cân nhắc việc trở thành một người ăn chay trường để cải thiện sức khỏe của mình</Dich>
+        <Srcimg>consider</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Explain</TuVung>
+        <PhienAm>/ɪkˈspleɪn/</PhienAm>
+        <Nghia>giải thích</Nghia>
+        <YNghia>ẾCH LÊN bờ giải thích cho gà về nơi mà nó sống.</YNghia>
+        <TiengAnh>to tell somebody about something in a way that makes it easy to understand</TiengAnh>
+        <Eg>The docter explained why he shouldn't smoke</Eg>
+        <Dich>Người học thuyết giải thích lý do tại sao anh ta không nên hút thuốc</Dich>
+        <Srcimg>explain</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Patient</TuVung>
+        <PhienAm>/ˈpeɪʃnt/</PhienAm>
+        <Nghia>bệnh nhân</Nghia>
+        <YNghia>Bác sĩ mắng y tá : "tụi BÂY Sừng xỏ khiến bệnh nhân sợ!"</YNghia>
+        <TiengAnh>a person who is receiving medical treatment, especially in a hospital</TiengAnh>
+        <Eg>Patient at public hospitals often have to wait many hours</Eg>
+        <Dich>Bệnh nhân tại các bệnh viện công thường phải chờ đợi nhiều giờ</Dich>
+        <Srcimg>patient</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Effect</TuVung>
+        <PhienAm>/ɪˈfekt/</PhienAm>
+        <Nghia>tác dụng</Nghia>
+        <YNghia>Chiếc áo ù Ì, bạc PHẾCH vậy thôi nhưng có tác dụng giữ nhiệtấm.</YNghia>
+        <TiengAnh>a change that somebody/something causes in somebody/something else; a result</TiengAnh>
+        <Eg>one of the side Effect of this medicine is losing sleep</Eg>
+        <Dich>một trong những tác dụng phụ của thuốc này là mất ngủ</Dich>
+        <Srcimg>effect</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Dehydrated</TuVung>
+        <PhienAm>/diːˈhaɪdreɪtɪd/</PhienAm>
+        <Nghia>thiếu nước</Nghia>
+        <YNghia>DÌ HAI DẠY TÍT là không được để bị thiếu nước khi ra ngoài.</YNghia>
+        <TiengAnh> having had the water removed, in order to preserve it</TiengAnh>
+        <Eg>Drinking only tea or coffee can cause you to become Dehydrated</Eg>
+        <Dich>Chỉ uống trà hoặc cà phê có thể khiến bạn bị mất nước</Dich>
+        <Srcimg>dehydrated</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Admit</TuVung>
+        <PhienAm>/ədˈmɪt/</PhienAm>
+        <Nghia>thừa nhận</Nghia>
+        <YNghia>Ơ MÍT ai ăn hết rồi thì mau thừa nhận đi</YNghia>
+        <TiengAnh>accept truth</TiengAnh>
+        <Eg>The student decided to admit to cheating on the exam</Eg>
+        <Dich>Học sinh quyết định thừa nhận gian lận trong kỳ thi</Dich>
+        <Srcimg>admit</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Slowly</TuVung>
+        <PhienAm>/ˈsləʊli/</PhienAm>
+        <Nghia>từ từ</Nghia>
+        <YNghia>Nồi canh sau khi Sôi LÂU, LY múc ra từ từ</YNghia>
+        <TiengAnh>at a slow speed; not quickly</TiengAnh>
+        <Eg>VietNam's rural areas are developing slowly</Eg>
+        <Dich>Nông thôn Việt Nam đang phát triển chậm</Dich>
+        <Srcimg>slowly</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Exhausted</TuVung>
+        <PhienAm>/ɪɡˈzɔːstɪd/</PhienAm>
+        <Nghia>Kiệt sức</Nghia>
+        <YNghia>ẾCH TRÓT TỰ tin rằng nước giúp nó không bị kiệt sức</YNghia>
+        <TiengAnh>very tired</TiengAnh>
+        <Eg>She felt Exhausted after cleaning her boyfriend's whole house</Eg>
+        <Dich>Cô ấy cảm thấy Kiệt sức sau khi dọn dẹp toàn bộ ngôi nhà của bạn trai mình</Dich>
+        <Srcimg>exhausted</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>lose</TuVung>
+        <PhienAm>/luːz/</PhienAm>
+        <Nghia>mất</Nghia>
+        <YNghia>Mai làm mất cái LU của cả nhà</YNghia>
+        <TiengAnh>lose something/somebody to be unable to find something/somebody</TiengAnh>
+        <Eg>Did you lose your phone in Saigon</Eg>
+        <Dich>Bạn có bị mất điện thoại ở Sài Gòn không</Dich>
+        <Srcimg>lose</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Packet</TuVung>
+        <PhienAm>/ˈpækɪt/</PhienAm>
+        <Nghia>gói hàng</Nghia>
+        <YNghia>Gói hàng của BÁC KẸT trong thang máy nên tuấn rất lo.</YNghia>
+        <TiengAnh>a small container made of paper or card in which goods are packed for selling</TiengAnh>
+        <Eg>I always put a whole packet of sugar in my morning coffee</Eg>
+        <Dich>Tôi luôn cho cả gói đường vào ly cà phê sáng của mình</Dich>
+        <Srcimg>packet</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Capsule</TuVung>
+        <PhienAm>/ˈkæpsl/</PhienAm>
+        <Nghia>viên nhộng</Nghia>
+        <YNghia>Thợ lắp CÁP XÌU mặt vì uống phải viên nhộng có độc</YNghia>
+        <TiengAnh>a small container that has a measured amount of a medicine inside and that dissolves when you swallow it</TiengAnh>
+        <Eg>You should take two Capsules daily before eating</Eg>
+        <Dich>Bạn nên uống hai viên mỗi ngày trước khi ăn</Dich>
+        <Srcimg>capsule</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Pharmacy</TuVung>
+        <PhienAm>/ˈfɑːrməsi/</PhienAm>
+        <Nghia>hiệu thuốc</Nghia>
+        <YNghia>Đèn PHA MỜ XÌ khói khiến xe không đến được hiệu thuốc</YNghia>
+        <TiengAnh>a shop, or part of one, that sells medicines and drugs</TiengAnh>
+        <Eg>There are dozens of Pharmacies around BachMai hospital</Eg>
+        <Dich>Xung quanh bệnh viện BachMai có hàng chục Hiệu thuốc</Dich>
+        <Srcimg>pharmacy</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Fit</TuVung>
+        <PhienAm>/fɪt/</PhienAm>
+        <Nghia>săn chắc</Nghia>
+        <YNghia>PHÍ Tập gym để có cơ thể săn chắc đắt thật</YNghia>
+        <TiengAnh>to be the right shape and size for somebody/something</TiengAnh>
+        <Eg>I'm really attracted to fit guys</Eg>
+        <Dich>Tôi thực sự bị thu hút bởi những chàng trai vừa vặn</Dich>
+        <Srcimg>fit</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Emergency</TuVung>
+        <PhienAm>/ɪˈmɜːrdʒənsi/</PhienAm>
+        <Nghia>ca cấp cứu</Nghia>
+        <YNghia>trong đông Y, MƠ, GỪNG, XÌ dầu có thể sẽ cần trong ca cấp cứu</YNghia>
+        <TiengAnh>a sudden serious and dangerous event or situation that needs immediate action to deal with it</TiengAnh>
+        <Eg>Most Emergencies are for patients who have traffic accidents</Eg>
+        <Dich>Hầu hết các trường hợp khẩn cấp dành cho bệnh nhân bị tai nạn giao thông</Dich>
+        <Srcimg>emergency</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Painkiller</TuVung>
+        <PhienAm>/ˈpeɪnkɪlər/</PhienAm>
+        <Nghia>thuốc giảm đau</Nghia>
+        <YNghia>Pain + killer= đau+ kẻ giết người= kẻ giết cơn đau</YNghia>
+        <TiengAnh>a drug that reduces pain</TiengAnh>
+        <Eg>They gave me some Painkiller at the hospital, and I felt much better</Eg>
+        <Dich>Họ đã cho tôi một ít Thuốc giảm đau tại bệnh viện, và tôi cảm thấy tốt hơn nhiều</Dich>
+        <Srcimg>painkiller</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Speedy</TuVung>
+        <PhienAm>/ˈspiːdi/</PhienAm>
+        <Nghia>nhanh chóng</Nghia>
+        <YNghia>Nam Sợ BỊ ĐI ngoài đã nhanh chóng chạy tới hiệu thuốc.</YNghia>
+        <TiengAnh>happening or done quickly or without delay</TiengAnh>
+        <Eg>Her recovery was rather Speedy and she could walk in no time</Eg>
+        <Dich>Sự hồi phục của cô ấy khá nhanh và cô ấy có thể đi lại nhanh chóng</Dich>
+        <Srcimg>speedy</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Recover</TuVung>
+        <PhienAm>/rɪˈkʌvər/</PhienAm>
+        <Nghia>hồi phục</Nghia>
+        <YNghia>Xe chầm RÌ CÓ VỜ như không hồi phục được cũng đúng.</YNghia>
+        <TiengAnh>to get well again after being ill, hurt, etc.</TiengAnh>
+        <Eg>He will need about three days to Recover from his cold</Eg>
+        <Dich>Anh ấy sẽ cần khoảng ba ngày để hồi phục sau cơn cảm lạnh</Dich>
+        <Srcimg>recover</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Painful</TuVung>
+        <PhienAm>/ˈpeɪnfl/</PhienAm>
+        <Nghia>đau</Nghia>
+        <YNghia>Hai hàm răng của tuấn: 1 bên bị đau, 1 BÊN PHUN thuốc.</YNghia>
+        <TiengAnh>causing you pain</TiengAnh>
+        <Eg>What is more Painful, having your bones or your heart broken?</Eg>
+        <Dich>Còn gì đau hơn, khi bạn bị tan nát xương hay trái tim của bạn?</Dich>
+        <Srcimg>painful</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Repair</TuVung>
+        <PhienAm>/rɪˈper/</PhienAm>
+        <Nghia>sửa</Nghia>
+        <YNghia>con chim RI BÉ nhỏ đang sửa lại tổ sau cơn bão.</YNghia>
+        <TiengAnh>repair something to fix something that is broken, damaged or torn</TiengAnh>
+        <Eg>My dad was repairing the fence when it rained</Eg>
+        <Dich>Bố tôi đang sửa hàng rào thì trời mưa</Dich>
+        <Srcimg>repair</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Remove</TuVung>
+        <PhienAm>/rɪˈmuːv/</PhienAm>
+        <Nghia>loại bỏ</Nghia>
+        <YNghia>Đám lúa xanh RÌ MÚP míp bị loại bỏ khỏi cánh đồng.</YNghia>
+        <TiengAnh>to take somebody/something away from a place</TiengAnh>
+        <Eg>This diet helps you remove toxins from your body</Eg>
+        <Dich>Chế độ ăn này giúp bạn loại bỏ độc tố khỏi cơ thể</Dich>
+        <Srcimg>remove</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Medicine</TuVung>
+        <PhienAm>/ˈmedɪsn/</PhienAm>
+        <Nghia>y học</Nghia>
+        <YNghia>bà MẸ ĐI XIN cho con mình làm y học.</YNghia>
+        <TiengAnh>the study and treatment of diseases and injuries</TiengAnh>
+        <Eg>Can we rely to traditional medicine to cure a cold</Eg>
+        <Dich>Chúng ta có thể dựa vào y học cổ truyền để chữa cảm lạnh không</Dich>
+        <Srcimg>medicine</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Treatment and Medicine</ChuDe>
+        <TuVung>Chemist</TuVung>
+        <PhienAm>/ˈkemɪst/</PhienAm>
+        <Nghia>nhà hóa học</Nghia>
+        <YNghia>các nhà hóa học đã nghiên cứu thành công KEM MÍT.</YNghia>
+        <TiengAnh>a person whose job is to prepare and sell medicines, and who works in a shop</TiengAnh>
+        <Eg>This medicine was developed by a chemist in France.</Eg>
+        <Dich>Thuốc này được phát triển bởi một nhà hóa học ở Pháp.</Dich>
+        <Srcimg>chemist</Srcimg>
+    </Item>
+
+</Word>
+

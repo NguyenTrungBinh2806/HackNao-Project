@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hoàn thành"
+        android:textSize="50sp"
+        android:padding="30dp"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        />
+
+
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="170dp"
+        android:layout_height="170dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/hoctu"/>
+    <TextView
+        android:id="@+id/mota"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tuyệt vời!"
+        android:textSize="30sp"
+        android:padding="30dp"
+        android:textAlignment="center"
+        android:textColor="@color/yellow"/>
+    <TextView
+        android:id="@+id/mota1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bạn đã học được rất nhiều từ, cùng nhau thu phục những từ vựng khó khác nào"
+        android:textSize="18sp"
+        android:padding="30dp"
+        android:textAlignment="center"
+        android:textColor="@color/teal_700"/>
+    <RelativeLayout
+        android:id="@+id/BtnBack"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/btn01"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="65dp"
+            android:gravity="center"
+            android:text="tiếp tục"
+            android:textColor="@color/white"
+            android:textSize="25sp" />
+    </RelativeLayout>
+
+</LinearLayout>

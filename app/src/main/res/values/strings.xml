@@ -1,0 +1,462 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">EnglishApp</string>
+    <string name="skill"><font color="#009966"><b>Kinh nghiệm</b></font><font color="#0000"> tớ không có, tớ chỉ biết cười "<u>s</u>âu <u>kiu</u>" thôi</font>
+    </string>
+    <string name="skilleg"><font color="#0000">Practice is vitual to learning a </font><font color="#336600"><b>skill</b>.</font>
+        <font color="#0000">Việc rèn luyện là cần thiết để học một </font><font color="#336600"><b>kĩ năng</b></font>
+    </string>
+    <string name="batdau">Bắt đầu</string>
+<!--    //Headings-->
+    <string name="heading_one">Học từ</string>
+    <string name="heading_two">Nội dung học từ</string>
+    <string name="heading_three">Truyện chêm</string>
+    <string name="heading_fourth">Nội dung truyện chêm</string>
+    <string name="heading_five">Luyện tập</string>
+    <string name="heading_six">Nội dung luyện tập</string>
+
+    <!--    //Description-->
+    <string name="desc_one">Hãy chọn 1 trong 25 bài học mà bạn muốn học nhé!</string>
+    <string name="desc_two">Nội dung học từ sẽ có từ vựng và phát âm cùng với cách dùng từ, hãy cố gắng lên nào, dễ thôi mà!</string>
+    <string name="desc_three">Hãy chọn 1 trong 25 bài truyện chêm để nghe và thử đọc theo nhé, nó giúp bạn cải thiện đọc, phát âm và nghe tốt lắm đó!</string>
+    <string name="desc_fourth">Hãy chọn nút Play để nghe nhé, và nếu muốn dừng thì nhấn Pause, còn nghe không kịp thì kéo thanh trượt để nghe lại nè, nhớ chú ý các từ in đậm nha!</string>
+    <string name="desc_five">Hãy chọn 1 trong 25 bài luyện tập để ôn lại bài tập đã học ở Học Từ và Truyện Chêm nhé</string>
+    <string name="desc_six">Hãy chọn đáp án đúng trong 3 đáp án được đề ra, và nhớ nhấn tiếp theo để làm câu kế tiếp nhé, cố lên nào!</string>
+
+
+
+
+    <string name="email">Email<sup><font color="#CC0000">*</font></sup></string>
+    <string name="password">Mật khẩu<sup><font color="#CC0000">*</font></sup></string>
+    <string name="u1tc">Language learning</string>
+    <string name="u1t">My best friend</string>
+    <string name="u1">Satoshi-san had a small restaurant in Japan. He had great <b>skills</b> as a cook, but after some years, he wanted to <b>follow his dream</b> to experience a new <b>culture</b>. Not as a tourist, however. He wanted to live <b>abroad</b> and <b>learn new things</b>.
+        \n So Satoshi-san decided to <b>learn a new language</b>. He <b>took an English course</b>, and because he was very <b>shy</b>, he did not tell anyone. He practised in class until he could say a few things. Then, every time Satoshi-san saw a <b>foreigner</b>, he tried to speak to them. But because he did not <b>understand</b> how the grammar worked, he could not respond well.
+        \n Slowly, he became less shy and more confident. Soon, he was able to <b>express his ideas</b>. He started to pronounce things right, and his English improved.
+        \n As he made progress, Satoshi-san was able to <b>communicate</b> with his foreign customers. From listening to their stories, he increased his vocabulary.
+        \n He practised and practised until his English was as good as a British <b>speakers</b>. He got his <b>certificate</b> from the English <b>course</b>, and then it was time to go.
+        \n Satoshi-san wanted to become a famous chef in London.
+        \n Then he saw how much the ticket was and went to Vietnam instead. Here, he bought a beautiful house surrounded by farms. The air was so fresh. "This is better than London!" he said. But when Satoshi-san tried to <b>make friends with someone</b>, he realised that no one there spoke English. "Darn!" He said, "All the money spent learning English for nothing!" His only friends were the dogs. They came to his house sometimes, even though they often stole his shoes. But at least they can speak "Gâu, go!"</string>
+
+
+    <string name="u2tc">School life</string>
+    <string name="u2t">The Simple Plan</string>
+    <string name='u2'>Ever since Man was in <b>Kindergarten</b>, he had a plan for his life. It had five steps. Step one, finish <b>primary</b>school. Step two, finish secondary school. Step three, <b>start university</b>. Step four, <b>finish university</b> with a <b>mathematics</b> and <b>engineering</b> degree. These were difficult <b>subjects</b> with a lot of <b>science</b> but they were <b>popular</b>. Then, step five build a super secret giant robot and take over the world.
+        \n It was a very simple plan. Man worked very hard. He was never <b>absent</b> from any class. Except for <b>art</b>. Man never <b>attended</b> art classes because giant robots do not need art. The giant robot was going to happen, no matter what. In the last <b>term</b> of university, Man had to <b>take an exam</b>.
+        \n It was not easy, but Man did not take notes to the exam. He <b>crammed for</b> it so much that his hair turned white. Then he <b>passed the exam</b>. In fact, he even <b>passed with flying colours</b>. He had the best <b>grades</b> in all of Asia. So, he could <b>continue</b> his plan to build his secret robot. Man started to laugh like an evil scientist. Then Man went far away, where no one could find him, and he started his plan. Little by little, he built the robot. It was big and yellow, with guns and missiles and even a DVD player inside. It was also as tall as Lotte tower.
+        \n After many months, Man <b>announced</b> to himself, "It is ready. Now, the world will be mine!" Man walked inside the robot foot and took the elevator up. Then he sat inside the robot head. He turned the robot on.
+        \n The robot said, "Hello, Master Man." But Man started to get very <b>nervous</b>. "What's the problem, Master Man?” Man was looking through the windows. He said, "I am - Iam afraid of heights."</string>
+
+    <string name="u3tc">Personal information</string>
+    <string name="u3t">The greatest love</string>
+    <string name="u3">“Tuan” and his wife were <b>living a quiet life</b> until “Tuan” became a hardcore football fan. His wife wanted him to pay more attention to her. "I feel that I'm not "<b>special</b> "to you anymore. You keep" <b>calling</b> "out Pinky in your sleep. Isn't that a girl's name?" his wife said. "Nah, it's just a football player's" <b>nickname</b>". I did give you an article that explained the" <b>meaning</b> "of his nickname. His name is Hồng Đức, and Hồng means Pink, so his fans call him Đức Pinky." "You really don't care about me anymore, do you? You don't remember where I was born and" <b>grew up</b>", but you "<b>know</b> "all their" <b>personal information</b>": "<b>first names</b>, <b>surnames</b>, "and even their" <b>hometowns</b>.
+        \n "But that's not the worst," the wife sobbed. "You even hung a photo of a Korean uncle in our living room. You" <b>told</b> "me that that uncle was your" <b>favourite</b> "person."
+        \n "You mean Mr Park?" “Tuan” asked.
+        \n "P..Pac what?!?"
+        \n "Come on! You at least have to know how to" <b>spell his name</b> "right!" “Tuan” complained.
+        \n "See! You love football more than me."
+        \n "It's a" <b>healthy interest</b>, "honey," the husband tried to calm his wife down.
+        \n "I can't" <b>live</b> "like this. I feel like there is a" <b>distance</b> "between you and me!"
+        \n "Why don't you try watching football with me?"
+        \n "Well, you like to watch it in coffee shops. They are always so" <b>crowded</b>. "I prefer a" <b>peaceful</b> "time a home."
+        \n "Okay, so here's the solution to this. I will stay at home and watch a football game with you." One month later, a friend visited “Tuan”. "How's your wife, dude?"
+        \n "The good news is she now enjoys football, but the bad news is that my" <b>beautiful</b> "wife no longer cares about me. All she loves is the U23 guys."
+        </string>
+
+
+    <!--Unit 4 truyện chêm-->
+    <string name="u4tc" >Job and work life 1</string>
+    <string name="u4t">The Great "Monk's Lesson"</string>
+    <string name="u4">The young monk entered the sacred cave and bowed. The Great Monk was sitting there.
+        \n "Great Monk. What can you teach me about life?"
+        \n "I can teach you a very important lesson," he said. "I have lived and died many times. In one life, I" <b>opened</b> "a restaurant. I was the "<b>owner</b>, "but my clothes always smelled like pork and the" <b>cook</b> "stole my money."
+        \n "Oh, that's terrible," said the young monk.
+        \n "Yes. My next life was more" <b>acceptable</b>. "I was a" <b>lawyer</b>, "but that means I lied sometimes. In my next life as an "<b>architect</b>, "the beach hotel I designed collapsed. Then I was an" <b>engineer</b>, "but a machine cut my finger in half." "Ouch!"
+        \n"Yep, very, very ouch. Then I was a" <b>manager</b>. "Oh I hated that job." "Why, Great Monk?"
+        \n"It was a" <b>dead-end job</b> "and I had to fill a lot of" <b>forms</b>. "I "<b>showed up</b> for work early and <b>worked long hours</b> because my <b>assistant</b> was the laziest person in the city. Then I was a <b>pilot</b>. I made a lot of money and got to fly all over the world. I lived as a <b>salesperson</b> "once. I went to people's houses and sold them books, and I met many beautiful <b>housewives</b>. The Great Monk smiled.
+        \n"Oh, that sounds fun, Great Monk."
+        \n"Yes, until one of their dogs bit me."
+        \n"Ouch."
+        \nI was a <b>receptionist</b> once and that was boring. Then I was a <b>hairdresser</b> and learned that I hated hair. I once lived as a <b>journalist</b>. I <b>was responsible for writing</b> news. It was a <b>well-paid job</b> and I had to <b>work to tight deadlines</b>. News happens every day!
+        \n"So, Great Monk, what is your greatest lesson from all your live?"
+        \n"Don't try skydiving."
+        \n"Excuse me?"
+        \n"That's how I died so many times."</string>
+
+    <!--Unit 5 truyện chêm-->
+    <string name="u5tc">Job and work life 2</string>
+    <string name="u5t">The Dream Job</string>
+    <string name="u5">As he walked into the office building, he thought, "This is a dream."
+        \n He was sure it was a dream. He was <b>jobless</b> and was wearing a black suit. He was carrying his job <b>application</b> inside a <b>file</b> and was on his way to an <b>interview</b> to <b>get a job</b>.
+        \n He had never <b>applied for a job</b> before, he had also never thought about a <b>career</b>. In fact, he had neve even worn a suit before.
+        \n "What a strange dream. I'm going to have a job interview. But I don't even know what kind of job it is. A" <b>secretary</b> or <b>bank teller</b>? "I don't know much about banking. A" <b>filmmaker</b> maybe or a <b>musician</b>? No, not a musician. "I'm" not carrying a <b>musical instrument</b>, so it must be another kind of job. Maybe a <b>reporter</b> or a <b>photographer</b> because I like travelling and nature.
+        \n Then, he got an idea. He opened his file to see what his <b>job application</b> said.
+        \n But all the <b>documents</b> fell out. Oh no! I need to <b>prepare</b> myself or "I won't" <b>pass the job interview</b>! He had never <b>arranged</b> papers before. In fact, he had never even carried a file before.
+        \n Suddenly, the office door opened. The boss was a serious woman wearing a white apron and a hat. "You're here!" she shouted. "Good! Hurry, come in Everything is ready!"
+        \n "Oh. But what about the interview?" he asked her.
+        \n Can you <b>work under pressure</b>? Because I have to close the pot, the boss said.
+        \n "Yes, I'm" definitely <b>qualified</b> for that! "Great," said the boss. Then she grabbed his arm and pulled him. "Yes, you're" a nice fat dog, so the <b>customers</b> will love the stew.
+        \n "WHAT? NO WAIT! I DON'T WANT THAT STUPID JOB!" Then the dog woke up from his dream, barking, and ran away from the village.</string>
+
+    <!--Truyện chêm unit 6-->
+    <string name="u6tc">Money and spending</string>
+    <string name="u6t">Expensive Fish</string>
+    <string name="u6">John said to his friend, May, "Listen. I'm" <b>running short of money</b>.
+        \nJohn was an old <b>rich</b> man, and he "didn't" own anything <b>cheap</b>. If something "didn't" have a high <b>price</b>, he "wouldn't" buy it. His house had twenty rooms. The <b>rent</b> must have been crazy, and the electricity bill? Well, that must have been more <b>expensive</b> than an airport.
+        \nJohn and May were different. May could <b>manage</b> her money well. She <b>spent</b> a part of her salary on important things and <b>saved</b> the rest. She "wasn't" <b>wasteful</b>. But John often did something really stupid, then asked her for money. She was getting tired of it.
+        \nMay said, You know, John, the <b>cost of living</b> here is getting high. I need to <b>pay rent and bills</b>. Stop <b>borrowing</b> my money.
+        \n"Please, May, I really need your help."
+        \n"What stupid thing did you do this time?"
+        \n"I don't do stupid things." said John.
+        \n"Are you sure? Because last time, you bought a private jet." The <b>fees</b> you <b>owed</b> the bank were not <b>paid on time</b>. In fact, you were so <b>broke</b> that you had to sell all your furniture just to cover the <b>cost</b> of food.
+        \n"Oke," said John.
+        \n"But this time, it's different. I bought a cat."
+        \n"Oh," May laughed. "Well, that's fine."
+        \n"The most expensive cat in the world," said John.
+        \n"What??"
+        \n"It's the only one left of that kind of cat in the who world! And I saved it! I'm going to take care of it. But I've" <b>run out of money</b>.
+        \n"Well, I can" <b>lend</b> you a little money, said May. John rubbed his hands. "Well, the thing is, the cat only eats Peruvian carp." "What's Peruvian carp?"
+        \n"It's the most expensive fish in the world."
+        \nMay stood up and said, Well, then your cat is <b>in big trouble</b>.</string>
+
+    <!--  Truyện chêm unit 7  -->
+    <string name="u7tc">In the city 1</string>
+    <string name="u7t">The Worst Thieves</string>
+    <string name="u7">Henry moved to the <b>capital</b> last month. At first, he thought it was too crowded for him; too noisy. Everything was too fast and too loud. He thought he would never <b>get used to</b> the speed and the craziness, or the <b>pace of life</b> there.
+        \nBut later, Henry thought, This is <b>exciting</b>! He used to live in a quiet village, with no <b>skyscrapers</b> blocking views of the stars. He had made a nice life for himself there. But the only thing they talked about in that village was the crime in the city. "Don't go. The" <b>quality of life</b> is terrible. The capital has the worst thieves in the whole world! The worst!"
+        \nAfter some years, he could not <b>put up with</b> it any longer. He bought a small house in the city and moved there.
+        \nHe later learned to love the <b>atmosphere</b> of this busy city with all its <b>nightlife</b>. In fact, he decided, "I'm going out tonight!" He put on some nice clothes, brand new shoes, and left the house. Immediately, someone grabbed his wallet and ran.
+        \n"Hey! Thief!!"
+        \nHenry ran after the man. They ran the whole night through <b>lively</b> streets, past many <b>entertainment options</b> and <b>modern</b> buildings. They passed <b>various</b> types of transport <b>services</b>, like the big buses and the <b>metro system</b>.
+        \nDarn! This thief was really fit! Henry started to get tired, but he had to get his wallet back!
+        \nHenry jumped off the <b>pavement</b> and ran through the <b>alley</b>. There he jumped on the man and took his wallet back.
+        \nHenry left him and returned to his <b>neighbourhood</b> It was <b>bustling</b> with people and lots of <b>appealing</b> food. But Henry was tired; he just wanted to go to bed. He opened the door and saw that his bed was gone. In fact, everything was gone.</string>
+
+    <!--Truyện chêm unit 8-->
+    <string name="u8tc">In the city 2</string>
+    <string name="u8t">Public security</string>
+    <string name="u8">Lili hated the city life. The traffic <b>noise</b> woke her up every day. She left her <b>pricey</b> flat and called a GrabBike. She hated walking because the streets were filled with <b>rubbish</b> that people <b>threw</b> away. So instead, she had to use the gym <b>facilities</b> near work to stay healthy.
+        \nSo, every day, she carried gym clothes and at leas two mousetraps. The crowded roads <b>drove her insane</b>. "Gosh! Has anyone noticed that this city's" <b>population</b> is too high?? "That's why it's" <b>lacking</b> clean streets. They need to <b>build</b> more flyovers too; every street is full of vehicles!
+        \nThe Crab guy <b>drove recklessly</b> through the <b>traffic jam</b>. By the time she arrived, her hair smelled like smoke, and the poor <b>air quality</b> made her cough. The city people were also so <b>selfish</b> in sharing their space. She needed a city with more <b>room</b>. Lili considered running away to the countryside. There, at least. she would have a nice open space without <b>unhealthy</b> <b>pollution</b>.
+        \nAnd no <b>crime</b>.
+        \nAs she got off the GrabBike, she saw him. That guy. Ooohh, he really annoyed her. He stood there <b>daily</b>, and she knew what he wanted. Dealing with guys like him <b>tired her out</b>. Today, Lili would deal with him in a different way.
+        \nFirst, she went to the gym. She changed into her gym clothes and exercised. Then Lili showered, changed, and walked out feeling good.
+        \nThe guy was still there, so she walked right in from of him, and then he did it.
+        \nWHACK!!
+        \n"WWAAAA!!!" The guy pulled his hand out of her purse. His finger was caught in the mousetrap. "Got you! Shame on you," said Lily.
+        \n"But I'm not a" <b>pickpocket</b>! he cried. "I work for the Department of Public <b>Security</b>. I was trying to give you this." He showed her a small note. It said "PLEASE BEWARE OF PICKPOCKETS."</string>
+
+    <!--Truyện chêm unit 9-->
+    <string name="u9tc">House and neighbourhood 1</string>
+    <string name="u9t">The Machine</string>
+    <string name="u9">Maggie was one of the best scientists in the city. Her job paid her very well, so she lived in a nice <b>place</b>.
+        \nShe lived in a modern <b>building</b> with a <b>balcony</b> that <b>faced</b> the lake. It was <b>beautifully decorated</b>. When she <b>moved into her flat</b>, she brought only her clothes, her science equipment, and her cat. She "didn't" bring any <b>furniture</b> because the <b>flat</b> was <b>fully furnished</b>. And only a short <b>drive away</b> from all <b>the modern conveniences</b>, the building owner said.
+        \nHer friends loved visiting her because it <b>was within walking distance</b> of the lake, transport, and entertainment. In fact, when she threw <b>a housewarming party</b>, they "didn't" want to leave. Maggie had to chase them out. She liked having friends, but not <b>housemates</b>.
+        \nBut the most important thing was the <b>view from</b> her window. The lake calmed her, and the <b>light</b> made her feel <b>comfortable</b> to work for hours on her science project. Maggie was working hard on something that would change the world. Her cat was not just a pet. It was her experiment. When she worked, her cat <b>shared</b> the extra room with a big, shiny machine with lots of little lights and buttons.
+        \nThen, one day, she finished. She put her cat on the table and put a microphone in front of its face. Then she turned on a switch and said, "Come on kitty! Say something!"
+        \nThe cat meowed, and the machine translated:
+        \n"What?"
+        \nThe cat looked surprised. It meowed again: "I can speak now?" Maggie jumped with excitement. "Yes! Yes!!" she said.
+        \nThe cat looked around, at the <b>rug</b> and everything else, and it meowed again. "Fantastic. Listen. This is the worst flat I have ever seen, and I must say, your dress is even worse." So, "Maggie's" machine worked out well! Too bad for the cat, though
+        </string>
+
+
+    <!-- Truyên chêm unit 10    -->
+    <string name="u10tc">House and neighbourhood 2</string>
+    <string name="u10t">The Perfect Place</string>
+    <string name="u10">Duy found a nice flat advertised on a <b>bulletin board</b> near his work, so he called the landlord.
+        \n"Yes, it's a very nice flat", the landlord said. The landlord <b>informed</b> him that it was located in a new <b>block</b> being <b>developed</b> by the city. It was going to be a really <b>safe</b> and <b>vibrant area</b>. "It's so beautiful, I guarantee you won't want to leave!" The <b>friendly</b> landlord <b>invited</b> Duy to come and see it. Duy asked how to get there. "You have a pen and paper?"
+        \n"Yes."
+        \n"Oke," said the landlord.
+        \nYou know that big new <b>shopping mall</b>? Oke, drive to the entrance, but turn left on the <b>one-way</b> street. Then, pass the <b>grocery store</b> with the green walls. Then, pass the Circle K on the left. When you reach the <b>clinic</b>, turn into the alley, also one-way. You will pass a big <b>construction site</b> on your left. Be careful: the <b>ground</b> there is usually muddy. Then, this is where it gets <b>complicated</b>.
+        \n"It's already complicated!"
+        \n"At the end of the construction site, there's" a <b>convenience store</b>. Pass it, and turn left onto the small "one-way" road. It has no sign, but turn before the old <b>gym</b> there.
+        \nDuy got lost three times. When he finally arrived, he found a <b>chilled</b> neighbourhood: not <b>noisy</b> like the rest of the city. Everyone relaxed at coffee shops, as if they had nothing to do. The <b>vibe</b> was excellent! Duy had <b>always</b> wanted to <b>be based in an area</b> like this. "Okay," he said, "I want to go home and think about it."
+        \n"Think about it here." The landlord smiled. "In fact just buy it now."
+        \n"Why?"
+        \n"You need a place to stay. You can't leave."
+        \n"What??"
+        \n"Didn't you notice every street coming here was one-way?"</string>
+
+    <!--Truyện chêm unit 11-->
+    <string name="u11tc">Traveling and Tourist activities 1</string>
+    <string name="u11t">How to make a Tourist Trap</string>
+    <string name="u11">Want to make money from <b>tourists</b>?
+        \nYou can provide <b>hotel reservations</b> or a service to hunt for cheap flight tickets. <b>Nowadays</b>, "it's" easy to <b>book a flight</b>, but "it's" not so easy to find a nice, cheap one.
+        \nYou can sell <b>tours</b> of an interesting <b>destination</b>, help tourists <b>escape the city</b> and have a unique <b>experience</b>. You need to find somewhere that, the <b>moment</b> the tourists arrive after a long <b>journey</b>, "they'll know that they'll" have an <b>adventure</b>. If "they're"<b>cited</b> about it, "they'll" pay you well.
+        \nIf you have a hotel, make sure the staff at <b>reception</b> are friendly, so that tourists want to extend their trip and have a longer <b>stay</b>. But to make a lot of money, you need to make a <b>tourist trap</b>, and you need four magic words.
+        \nFirst, find a place <b>in the middle of nowhere</b>. It can be on a secret beach, a secret "mountain;" anything Then, build something <b>huge</b> there. It could be a temple, or a statue, or even a bia rock with a face.
+        \nIt "doesn't matter;" just make sure "it's" huge. Then, find some locals with long, untidy hair. Pay them to stand outside of some tents. Make them wear weird clothing in the fashion of the Stone Age too.
+        \nNext, bring five tourists to this place. Your first guests! Show them the huge thing you made and the locals with weird clothing. I "promise:" the tourists will go crazy.
+        \n"Finally:" the most important step. If you do this step right, "you'll" make millions! When the tourists <b>pack their stuff</b> and are about to leave, look at them very seriously, and say the four magic words.
+        \n"Please. Don't. Tell. Anyone."
+        \nThere. Now start building hotels and restaurants. "They're" coming.
+    </string>
+
+
+<!--    Truyện chêm unit 12-->
+    <string name="u12tc">Traveling and Tourist activities 2</string>
+    <string name="u12t">Local Specialty</string>
+    <string name="u12" tools:ignore="TypographyEllipsis">It was a warm night. The rats ran along the tour <b>route</b>, following a big rat with a red hat.
+        \nHere we have one of the <b>must do activities</b> in Hanoi: the Ho Chi Minh <b>Mausoleum</b>. "It's" a famous <b>historical site</b> to visit <b>during your stay</b> in Hanoi, said the big rat. His red hat said FOLLOW ME. There is a lot of <b>history</b> in this city; too much to see in one night. "Let's" go!
+        \nThe rats were happy to get some fresh air after staying <b>hidden</b> underground all day. So they <b>went for a walk</b> around the city with a good tour <b>guide</b>.
+        \nThey passed <b>churches</b>, <b>temples</b>, <b>pagodas</b>,... and learned about the <b>wars</b>. "My grandfather met many American soldiers in prison. He said they have big hairy feet." The tour guide laughed. "And now, we're" going to <b>the Old Quarter</b>, a very <b>touristy</b> area of the city.
+        \nThe rats saw <b>lovers</b> and <b>lovely</b> restaurants with lots of food to <b>try</b>. But the big rat said, "I don't" <b>recommend</b> going there. They have a big cat there, and "he's" very fast. You "won't" be able to <b>taste</b> anything before he cuts you in half.
+        \n"But we've" been <b>going sightseeing</b> for so long, running throughout the city. Our little rat feet are tired. The tour guide said, "Don't worry. I'll" show you a <b>local</b> restaurant here. A special one.
+        \n"Oh?"
+        \n"Free buffet and free beer."
+        \n"WHAT??" The fat rats jumped up. "Can we go there?"
+        \n"Yes. In five minutes," said the tour guide. "Wait. Wait wait, wait."
+        \nThen, a white truck came round the corner. Police Every business rushed to close its doors. In five minutes, the street was almost empty, except for the trash and spilt beer.
+        \nThe big rat smiled. "There. Buffet and free beer!" "YAY!"
+    </string>
+
+<!--Truyện chêm unit 13-->
+    <string name="u13tc">Holidays and Culture 1</string>
+    <string name="u13t">The Reunion</string>
+    <string name="u13">Tri left his buffalo outside and walked into the local community center. Tri said, Hello! We would like to <b>throw a party</b> here tomorrow. How much is it too rent the venue?
+        \nThe elder said, "I'm "sorry, but this is a local community center. <b>Generally</b>, we do not let people rent it for <b>celebrations</b>. People come here sometimes to <b>pray</b> for the harvest and have some food together, but never to <b>party</b>.
+        \n"Yes yes," said Tri. But you have <b>weddings</b>, "don't you? Isn't" that a celebration?"
+        \nYes, but not <b>wedding parties</b>. Weddings are serious <b>occasions</b> where <b>relatives</b> and <b>guests</b> come to <b>pray for good luck</b> for the married couple The elder folded his arms. There are only a few exceptions like for <b>festivals</b> or <b>fireworks</b>.
+        \nBut tomorrow is the <b>National Holiday</b> for children, begged Tri. Although we are not having any big <b>ceremony</b>, it still counts as an exception, right?
+        \nThe elder thought for a moment. "So, have you go any bug for the place?."
+        \nYes. We asked our parents for it. Is ten sacks of rice a good enough of an <b>offering</b>?
+        \n"TEN SACKS!" The elder coughed. If then I warmly <b>welcome</b> all of you. You are so thoughtful.
+        \n"Excellent!" Tri gave the sign for his friend to bring in sacks of rice. "Now, my friends' <b>loved ones</b> are big expensive cars. Where can we park them?"
+        \n"Anywhere," said the elder while counting the sacks of finest rice. Please. <b>Feel at home</b>. And good <b>luck</b>.
+        \nTri smiled. "Fantastic."
+        \nTwo days later, the elder found many huge, brown, smelly things on the pavement around his beautiful community center. He called Tri. "WHAT did you do to my place?? It smells terrible!"
+        \n"Oh, I didn't tell you we were having a buffalo show?"
+    </string>
+
+
+
+<!--    Truyện chêm unit 14-->
+    <string name="u14tc">Holidays and Culture 2</string>
+    <string name="u14t">Mean to Be</string>
+    <string name="u14">
+        \nThe <b>marriage</b> between Ben and Mary took place on Saturday. It was a beautiful day, but not everyone was happy.
+        \nYou see, Ben was a monkey. And he was <b>under pressure</b> to get married, but he "didn't" like any of the monkey girls. He complained to his family. "You can't" <b>expect</b> me to marry a hairy monkey!
+        \nWell, Ben, we must all follow the <b>rules of our culture</b>, said his family. It <b>boosts family bonding</b>.
+        \nBut Ben "didn't" have much <b>care</b> for rules. Maybe it "wasn't" <b>normal</b>, but he "didn't" worry about their <b>cultural differences</b>. He just liked girls with long legs and pretty eyes and fat lips. So, "Ben's" dad told Ben to go <b>see a fortune teller</b>. If she <b>tells your fortune</b> and says "you'll" marry a monkey girl with hairy cheeks, then you must <b>respect</b> it. Right?
+        \n"That's" <b>fair</b>.
+        \nWell. Ben returned from the fortune teller with a <b>strange</b> smile. He told his family what she told him. "No!" his father said. "I don't" <b>believe</b> it!
+        \nHis father was clearly <b>angry</b>. So, "Ben's" bride was really hot, with pretty eyes and fat lips.
+        \nAt the wedding, all the animals whispered:
+        \nThis is such a <b>taboo</b>!
+        \nThe <b>difference</b> between them is too much.
+        \nThe fortune teller is never wrong. "It's" <b>meant to be</b>.
+        \nBen was the happiest monkey. Mary had long, sexy legs. In fact, Ben had to climb a tall <b>pillar</b> just to reach her face and kiss her. Then Ben the monkey and Mary the giraffe walked away feeling happy.
+        \n"Ben's" father ran to shout at the fortune teller. He found her packing her stuff. "Where are you going?" asked "Ben's" father.
+        \n"Oh, I bought a house on the beach. Young Ben paid me a really big tip for his fortune. Such a nice boy!"
+    </string>
+
+<!--Truyện chêm unit 15-->
+    <string name="u15tc">Weather and Season</string>
+    <string name="u15t">Golden rules in the rainy season</string>
+    <string name="u15">When Mai first visited Saigon, it was the <b>beginning</b> of the <b>rainy season</b>. However, when her tour guide took her around Saigon, it was a <b>pleasant</b> day. "To survive rainy days in Saigon, remember rule no. 1: always bring a good raincoat. Saigon rain is as unpredictable as my ex-girlfriend," he explained.
+        \nAs soon as he finished talking, a <b>shower</b> of rain started falling. Mai told him to grab the raincoats.
+        \nThe guy stopped her, "Hold on! Rule no. 2: don't" put on a raincoat too soon. The <b>drizzle</b> may last for a minute and then stop like nothing ever happened.
+        \nAs they were driving, thick dark <b>clouds approached</b> the sky. This time, the guy pulled ove and grabbed two raincoats from the boot. As soon as they put their raincoats on, the sky cleared. "Rule no. 3: don't take off your raincoat too soon when it's" <b>sunny</b> again. The rain here is very <b>nasty</b>.
+        \n"But it feels blazingly hot in this raincoat," Mai insisted.
+        \n<b>Bear the heat</b>; it could save you from getting wet any minute now.
+        \nThen it started <b>raining cats and dogs</b>. "The guy is right," Mai thought. But it "wasn't" over yet. After a while, the whole street flooded. The guy stopped again, and to her surprise, he took out two pairs of rubber boots.
+        \n"Put this on! We are going to walk. We can't drive in this" <b>awful flood</b> with such <b>high winds</b>."
+        \n"You are so well-prepared. You must have checked out the" <b>weather forecast</b>.
+        \n"Actually, rule no. 4: never trust the weather forecast," he replied.
+        \nAs they were stuck in the <b>middle</b> of the traffic jam and the flood, the <b>temperature dropped</b>, and Mai felt like there had been a <b>cold spell</b>. She wondered when would be the <b>end</b> of all of this.
+        \n"The weather forecast was for a sunny day. Darn it!"
+        </string>
+
+
+
+<!--    Truyện chêm unit 16-->
+    <string name="u16tc">Food and Drink 1</string>
+    <string name="u16t">Just for Flavour</string>
+    <string name="u16">Minh had a small restaurant in the village. He <b>boiled instant noodles</b> with <b>bacon</b>. He <b>grilled</b> many <b>yummy</b> dishes and made a great <b>hotpot</b>. People said that "Minh's" <b>crispy</b> pork was the best in the area, and his <b>sauces</b> for <b>grilled pork skewer</b> were amazing. Some were <b>sweet</b>, while others were <b>savoury</b>.
+        \nHowever, the challenge came when a Western tourist arrived on a scooter. He had a thick beard and long, untidy hair.
+        \nHe asked, Can I <b>see your menu</b>?
+        \nMinh never had a menu. He just cooked what was in the market, and said, <b>Eat up</b>. And everyone <b>made pigs of themselves</b> in his restaurant. So Minh said, No menu. Tell me what you want.
+        \nOh. Can have something <b>vegetarian</b>?
+        \nNo problem. I can <b>prepare</b> some <b>fresh spring roll</b> and my special noodle soup with beef. The tourist said, "But there's" <b>beef</b> in the soup?
+        \nJust for flavour.
+        \n"I can't eat it". "What's in the spring rolls?" Minh replied, <b>Pork</b>, just for flavour.
+        \n"I can't eat that either."
+        \nThis was tough. I can <b>"stir-fry"</b> something with a little pig <b>stomach</b>, just for flavour.
+        \nThe tourist said he "couldn't" eat that either.
+        \nI have eggs.
+        \n"I don't eat eggs."
+        \nWhat kind of person is this?? Minh thought hard and then he said, "I'll" make you a good, healthy <b>soup</b>. No meat! The tourist agreed, and when Minh brought the bowl of soup, the tourist tried it.
+        \nOh. This is really nice and light!
+        \n"Grandmother's recipe," Minh said. Then he went into the kitchen, where his wife was. She asked him what he had cooked for the tourist. Boiled water. With salt, just for flavour.
+        \nCan he eat salt? she whispered.
+        \nNot my problem.
+        </string>
+
+
+    <string name="u17tc">Food and Drink 2</string>
+    <string name="u17t">"Don't trust self-help books"</string>
+    <string name="u17">"Train Your Manliness In Five Pages!" Peter bought the book and started reading it on the bus He noticed girls giggling at him. Page one said, "Don't take the bus, dude. Get a car." Peter jumped off the bus while it was moving and went to a cafe to read this book.
+        \nHe read page two. "NO. Don't" order <b>jasmine tea</b>. Dude! Forget the <b>detox</b>! Order <b>coffee</b> LIKE A MAN Peter was about to order an <b>egg coffee</b>, when he read the next sentence: "And not egg coffee. Hen: lay eggs and weasels eat hens. So stop laying eggs and order weasel coffee."
+        \n"Peter's" coffee was strong. He never drank <b>black coffee</b>, so after ten minutes, he was shaking. Page three said, Is it Friday afternoon? Dude, "that's" called <b>beer "o'clock"</b>. You need a <b>drinking buddy</b>. Call this number now. Peter called the number listed on the page, and almost immediately, a man arrived. "I got your call!" You <b>thirsty</b>?
+        \n"Er, How did you?"
+        \n"Never mind! Let's get some" <b>alcohol</b>.
+        \nSo they went <b>drinking</b>. They started with <b>beers</b>. One, two, three, <b>cheers</b>! Then they tried different <b>bottles</b> of rice <b>wine</b>. The drinking buddy <b>poured</b> the bottles into <b>shots</b>. <b>Drink up</b>! This is called a MAN <b>SMOOTHIE</b>, said the man. Peter go <b>tipsy</b>. Then his legs became <b>useless</b>. He "couldn't" even stand.
+        \nPeter woke up on the floor of his house without his shirt. It was morning. He had a pizza in his pocket and a <b>hangover</b> from hell. Peter ran to the toilet.
+        \nHe found the book there on the floor.
+        \nPage four said, "Real men don't vomit. You're wasting money." Peter hated the book. He decided he would never again take advice from anyone he "doesn't" know, but he opened page five anyway. It said, "Real me don't take advice from someone they don't know. Respect yourself, dude."
+        </string>
+
+
+    <string name="u18tc">Food and Drink 3</string>
+    <string name="u18t">"The Devil's Sauce"</string>
+    <string name="u18">Mi and his brother, Chinh, wanted to open an easy business but "didn't" know what to do. One night, the Devil came to Mi with a big bottle. Try my sauce. It changes the <b>flavour</b> of <b>food to "one's taste"</b>.
+        \nMi ran to Chinh. "Let's open a restaurant!" Chinh laughed. "We don't" know about <b>cooking</b>, or <b>recipes</b>, or <b>food sanitation</b>. Do you know anything about <b>seasoning</b>? Anything we cook will be <b>terrible</b>, or it will <b>make "someone's" stomach feel funny</b>.
+        \nBut I have a <b>secret</b>.
+        \nMi put the "devil's" sauce on some vegetables that are usually quite plain, then gave them to Chinh. Their flavour became nice and strong. Chinh was suspicious. "Who gave this to you?"
+        \n"Who cares?!"
+        \n"Well. Let's use just a little," said Chinh. In one year, they had restaurants with Vietnamese Japanese, Korean, and even French <b>cuisine</b>.
+        \nSome sold <b>takeaway</b>. Others even sold <b>raw</b> food. Customers said the food <b>was out of this world</b>. Chinh and Mi grew rich and fat. They soon ran out of <b>fresh</b> ingredients. Their customers had eaten everything.
+        \nSo they started cooking anything. They sold old <b>leftovers</b>, and customers "couldn't" <b>tell the difference</b>. Later, they cooked grass, trees, and then small animals. Then they cooked things from their house, like cushions and tissue paper. They cooked the sink, and customers said it was <b>delicious</b>.
+        \nMi bought a new house and cooked it. Then another, and another. They cooked every house, and every house <b>tasted great</b>. Yet, their <b>hunger</b> only grew.
+        \nThey ate everything, until one day, the world was empty. Nothing at all was left, except Mi, Chinh, and all the people. They were all too fat to move. "That's" when the Devil returned. "Oh, I'm so hungry," he said. He took the bottle of secret sauce and poured it on everyone. "Mmm," he said.
+        \n"I love MSG."
+    </string>
+
+
+    <string name="u19tc">Daily diet, Fruit, Vegetables 1</string>
+    <string name="u19t">How to Kill A Bad Man</string>
+    <string name="u19">His name is secret. No one knows it. He is an assassin: he kills people for money. So, "he's" a bad man. But wait.
+        \nWatch.
+        \nRight now, the assassin is going to kill a very bad man: a corrupt businessman on the top floor of the tower. The assassin is climbing the wall of the tower, like a cat.
+        \nYou see, he is very strong. He <b>follows</b> a <b>strict diet</b>. He has eaten only healthy food since he was young to <b>stay</b> fit. Many of us eat <b>junk food</b> with <b>crappy ingredients</b> all our lives. We eat foods with large <b>amounts</b> of <b>sugar</b>, which makes us fat and speeds up our <b>ageing process</b>. "We're" lazy and not <b>efficient</b>, to the point that even a little exercise is <b>tiring</b>.
+        \nNot this guy.
+        \nHe only eats <b>a diet of home-cooked</b> meals that have high energy and no <b>food additives</b>. He always <b>stays hydrated</b> and never gets <b>food poisoning</b>.
+        \n"That's" why he can climb walls. Look. He has arrived at the top of the tower. He steps onto the balcony. "He's" very quiet, like a cat. He walks to the window. He looks inside. There he is. The corrupt businessman. "He's" sitting in a chair facing the other way. He looks like someone who has too much money and eats too many disgusting things. Like someone who cheats everyone. He looks like a bad man.
+        \nThe assassin opens the window quietly. He steps in. He walks one step, then two steps. He pulls out his gun. The businessman turns around. "He's" snacking on something.
+        \n"You're a bad man!" the assassin whispers. "Er, Well! So are you!" says the businessman. "Prepare to die, you, What are you eating??"
+        \nThe businessman asks, "What?"
+        \nThe assassin coughs. He "can't" <b>breathe</b>. "I'm, I'm".
+        \nAh, <b>allergic</b> to, The businessman looks at his hand. <b>"Peanuts?"</b>
+        \n"CALL AN AMBULANCE!"
+        \n"No."
+        </string>
+
+
+    <string name="u20tc">Daily diet, Fruit, Vegetables 2</string>
+    <string name="u20t">Herbs Are Life!</string>
+    <string name="u20">Linh works for the Research and Development department in a beverage company. Their competitor just launched a new organic drink: canned <b>durian</b> smoothie. She held a meeting.
+        \nWe need to think of a new product to compete with them, Linh said. How about <b>cucumber</b>? suggested someone.
+        \n"It's" too tasteless, which means that we will need to add some kind of sweetener, but our main customers want to <b>cut down</b> on sugar in their <b>dail diet</b>.
+        \nI think young ladies prefer something <b>sour</b> and <b>juicy</b>. I propose <b>grapefruit</b> or <b>kumquat</b>.
+        \n"That's nice, but don't" think it can beat orange juice. We need something completely new.
+        \nI suggest <b>mushroom</b>. No one has ever produced mushroom juice.
+        \nHmm, mushrooms can <b>spoil</b> easily.
+        \nI have an idea. Instead of making some kind of fruit juice, we can make juice from vegetables and <b>herbs</b>. Besides, we will not make just one single flavour. A drink can <b>consist</b> of many different ingredients; for example, we can blend <b>cabbage</b>, <b>lettuce</b>, and <b>onion</b> together into one drink. Everyone in the meeting became excited. They jumped in to add to the idea.
+        \nAdd <b>basil</b> in too. It will <b>enhance the flavour</b>.
+        \n<b>Planting</b> and <b>harvesting</b> herbs will not be too complicated.
+        \nDrinking herb juice is a good way to <b>get rid of body fat</b> too.
+        \nAnd so, their product was launched. It received a huge number of followers.
+        \nTo celebrate the success, the whole team decided to throw a surprise party at "Linh's" house. That evening, Linh dropped by the supermarket to buy some groceries. When she got home, everyone cheered, "SURPRISE!!!" Linh was so surprised and dropped her shopping bags.
+        \nLinh, what is this?
+        \nOh no, Linh! "Don't" tell us you are drinking our "competitor's" durian juice!
+        \nHow dare you? You should throw it up!
+        \n"I'm sorry, but it's" really delicious. "It's" not as weird as our new drink!"
+        </string>
+
+
+    <string name="u21tc">Country life and Nature 1</string>
+    <string name="u21t">Local Customs</string>
+    <string name="u21">The family of <b>buffalo</b> lived in the <b>peaceful countryside</b> away from the city and the farms. They climbed through a <b>range</b> of <b>steep</b> hills and went to the river to drink and slept under the stars.
+        \nThey enjoyed a slower pace of life.
+        \nOne day, a young buffalo decided to <b>explore</b> in a different direction. He <b>leisurely</b> walked his way past a <b>rice field</b> until he saw some farm animals near a <b>rural area</b>. And one of the cows was hot!
+        \nShe had beautiful eyes, and the way she moved her tail was so sexy.
+        \nNow, buffalo <b>custom</b> said that you had to ask the head of the herd for <b>permission</b> before you talked to any girls, but maybe the <b>local customs</b> here were different. So he walked to the cow and talked to her.
+        \nI <b>grew up</b> on a small farm near that suburb over there, she said.
+        \n"What's a suburb?" the buffalo asked.
+        \n"It's" a <b>quiet</b> area of town with friendly <b>neighbours</b> and a strong <b>sense of community</b>.
+        \nOh. Well, I grew up in the <b>dangerous part</b> of the country, he said, trying to impress her. I had to <b>deal with</b> flies, <b>bugs</b> that bite and drink my blood, and sometimes lions. Only the strongest buffalo can live there.
+        \n"Wow," she said. You sound like a <b>brave</b> buffalo. You have a boyfriend? he asked.
+        \nNo.
+        \nYou want a boyfriend?
+        \nThe cow licked the "buffalo's" neck. He thought,
+        \nOohh, she likes me.
+        \nThe cow smiled. Mmm, Yes, I would, Mr.Brave Buffalo. Will you pick the best grass for me, brush my hair, <b>protect</b> me from all the bugs, and take m shopping every week? And the buffalo ran away. City girls were worse than lions.
+    </string>
+
+
+    <string name="u22tc">Country life and Nature 2</string>
+    <string name="u22t">Goodbye, Technology!</string>
+    <string name="u22">Ben wanted to <b>stay away from civilisation</b> completely because of technology. He spent too much time in front of a computer and had too many apps on his iPhone. His eyes were always red and tired.
+        \nSo he quit his corporate job and <b>moved</b> to Nha Trang beach to <b>be close to nature</b>. He then smashed his expensive iPhone with a hammer and threw it <b>into the sea</b>. Then he spent his life <b>fishing</b> and selling his fish.
+        \nHe liked the <b>coast</b>. He was <b>surrounded</b> by <b>gorgeous scenery</b> and the <b>islands</b> nearby. Ben wished he could make a lot of money and stop fishing completely.
+        \nThen, he could just <b>lie on the beach</b> or swim around the <b>coral reef</b> all day. One day, Ben found a bottle in the water with a <b>map</b> inside it. It said there was some gold hidden in the <b>mountains</b>. Ben returned to the beach, jumped in his car, and drove along the <b>bay</b>, then turned west. He drove for many hours, passing villages, then <b>lakes</b>, and then <b>waterfalls</b>. Thereafter, he drove through a <b>forest</b> on a very <b>rough</b> road until almost night.
+        \nFinally, he came to a big <b>cave</b>. The map said the gold was inside. Ben was tired and cold, but he walked for hours and even walked through <b>icy</b> water in the cave. Finally, he found a heavy, big metal box. It was very dark, so he turned on his <b>lighter</b>. "AH!!" There were lots of big, black <b>spiders</b> everywhere. Ben hated spiders even more than technology. "Come on, Ben," he said. Relax. Open the darn box, take the gold, and go. But the box was locked. It had a small, digital screen. Ben touched it.
+        \nThe screen turned on and said, CONGRATULATIONS! You found the gold! Please download our iPhone app to unlock the box.
+    </string>
+
+    <string name="u23tc">Health and Diseases 1</string>
+    <string name="u23t">"We're All Connected"</string>
+    <string name="u23">Chinh was born in Hanoi with a strange <b>health condition</b>.
+        \nYou know when you go to a new house and find a switch that "doesn't" do anything? Every other switch in the house turns something on, but that one switch does nothing?
+        \nWell, Chinh <b>was born with</b> a switch just like that, behind his head.
+        \nHe had tried turning it on and off, but nothing happened. Now, Chinh really <b>cared</b> about his <b>health</b>. He <b>exercised</b> and <b>took care of his body</b> every day. He was in great <b>physical health</b>. But thi switch! Chinh was <b>anxious</b> about it. Was he <b>losing his mind</b>?
+        \nSo, one day, as soon as he was <b>awake</b> in the morning, Chinh went to a doctor. "Doctor, I have a switch behind my head." "Wow," said the doctor. "Have you ever pressed it?"
+        \nMany times. In front of the mirror, when "I'm" bored or watching TV, or in the toilet. Nothing happens.
+        \nThe doctor was <b>curious</b> about this strange switch He checked "Chinh's" <b>mind</b> and <b>body</b>. He found that "Chinh's" <b>brain</b> was not <b>damaged</b> and his body functioned normally. In fact, his body was quite <b>muscular</b>, and he was still very <b>mindful</b>. "I don't" know, said the doctor. "May I press it?"
+        \nDo it.
+        \nThe doctor pressed the switch. "CLICK!" Nothing <b>extraordinary</b> happened. He pressed it again. "CLICK! CLICK! CLICK! CLICK! CLICK! CLICK! CLICK! CLICK!" Nothing.
+        \nWell, said the doctor. "There's" nothing <b>obviously</b> wrong, but "it's" kind of fun!
+        \nYeah, it is! said Chinh.
+        \nIn Beijing, another man, Chien, was also at <b>the "doctor's"</b>. He too was born with an <b>unlikely</b> health condition that made him feel <b>embarrassed</b>.
+        \nDoctor, fix it! This DARN light on top of my head. Sometimes "I'd" be on a date, then it just goes on and off and on and off and on and off and on and off.
+        </string>
+
+
+    <string name="u24tc">Health and Diseases 2</string>
+    <string name="u24t">First, The Motorbike</string>
+    <string name="u24">Quang woke up and got ready for work. He took the keys for his little old scooter, but instead, he found a new 1000cc Ducati Superbike in the garage.
+        \nNow, people usually called Quang a chicken. He had a <b>fear</b> of anything that might cut his skin, <b>break his leg</b>, or make him <b>suffer from</b> any kind of pain. He never did anything that might <b>injure</b> him <b>seriously</b> or even make him <b>bleed</b> a little. So what was a motorbike like this doing there in his house?
+        \nQuang "couldn't" even remember buying it or riding it home. He thought he might have a <b>serious illness</b>, so he ran to the doctor.
+        \nThe doctor asked him if he <b>did drugs</b> or if he <b>hurt</b> himself recently, if he had <b>headaches</b>, or was <b>under extreme stress</b>. He said no. So the doctor did a <b>check</b>. He "didn't" find anything, not even small <b>diseases</b> like a <b>cold</b> or a <b>cough</b>. Do you have any <b>pain</b>? Are you <b>suffering</b> in any way? Or do you have a <b>mental illness</b>? the doctor asked.
+        \nNo.
+        \n"Then you're fine."
+        \nWhat about <b>cancer</b>? Or <b>diabetes</b>? I eat a lot of sweet foods! The doctor shook his head. Then he asked, Do you have a girlfriend, Quang?
+        \nYes, I just met someone.
+        \nIs she hot? asked the doctor.
+        \nWell.
+        \nAnswer me, Quang. "I'm" your doctor.
+        \nYes, but why does that matter?
+        \nThen you might have a serious disease, the doctor said. It affects the minds of young men and makes them change into someone else without knowing.
+        \n"NO!"
+        \nOh yes. First, the motorbike. Then you buy clothes. Then a house. Some even buy boats or buy companies for billions of dollars. "It's" a terrible disease.
+        \nDoctor! Please help me! Is it <b>curable</b>?
+        \nSure, you can cure it tonight, if you want. Just stop impressing people.
+
+    </string>
+
+
+
+
+    <string name="u25tc">Treatment and Medicine</string>
+    <string name="u25t">Sleep Well</string>
+    <string name="u25">
+        Hai went back to the <b>general doctor</b> that he saw the previous week. These <b>pills</b> you gave me "didn't work!"
+        \nReally? Why
+        \nHai said that the pills were supposed to put him in a <b>deep sleep</b> so that his strange <b>nightmares</b> would stop. But now, I just get a different nightmare. I "haven't" had a <b>good "night's" sleep</b> in a long time!
+        \nThe doctor <b>considered</b> the problem. Hai was a little fat. The doctor <b>explained</b> to his <b>patient</b>,
+        \nWell, sometimes the <b>effect</b> is lessened if "you're" <b>dehydrated</b> or eating a lot of fat. Are you drinking enough water and eating healthy?
+        \nHai <b>admitted</b> that he <b>took the pills</b> with a beer instead of water. He promised to change.
+        \nThe next week, Hai went back to the hospital. Doctor! "I'm" telling you, <b>being on medication</b> is not helping. "I'm" still not getting any proper rest.
+        \n"What's" the nightmare this time?
+        \nMy "mother-in-law" was a crocodile. I tried to steal her TV, and she tried to shoot me. It was really scary.
+        \n"Well," the doctor said, those pills work <b>slowly</b>, so finish this <b>medicine course</b> I gave you, and "let's" see next week.
+        \nThe next week, Hai returned. He looked <b>exhausted</b> and he had <b>lost</b> weight. "Doctor. Please. I'm so tired." The doctor said, Let me make a phone call. Then, he left the room.
+        \nWhen he returned, he brought a new <b>packet</b> of <b>capsules</b>. Okay, Hai, I made a phone call and went to the <b>pharmacy</b>. Here is the better medicine, the doctor said. But first, lock your door.
+        \nWhy?
+        \nDid you notice your legs? "They're" very <b>fit</b>, Hai. You used to be fat.
+        \nHai looked at his legs. "Interesting. So?"
+        \n"I called your mother-in-law." She said you go there every night and try to take her TV, and she has to run after you.
+    </string>
+
+
+</resources>

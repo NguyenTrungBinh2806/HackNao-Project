@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Detox</TuVung>
+        <PhienAm>/ˈdiːtɑːks/</PhienAm>
+        <Nghia>chế độ thải độc</Nghia>
+        <YNghia>Đừng ĐI TỌC mạch về chế độ thải độc nhà hàng xóm nữa</YNghia>
+        <TiengAnh>the process of removing harmful substances from your body by only eating and drinking particular things</TiengAnh>
+        <Eg>I'm on a detox, so I won't eat sugar and fried food</Eg>
+        <Dich>Tôi đang cai nghiện nên sẽ không ăn đường và đồ chiên rán</Dich>
+        <Srcimg>detox</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Coffee</TuVung>
+        <PhienAm>/ˈkɔːfi/</PhienAm>
+        <Nghia>cà phê</Nghia>
+        <YNghia>số tiền tích CÓP PHI vụ này đủ mua được 1000Kg cà phê</YNghia>
+        <TiengAnh>the roasted seeds (called coffee beans) of a tropical bush; a powder made from them</TiengAnh>
+        <Eg>I usually drink coffee in the morning</Eg>
+        <Dich>Tôi thường uống cà phê vào buổi sáng</Dich>
+        <Srcimg>coffee</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Thirsty</TuVung>
+        <PhienAm>/ˈθɜːrsti/</PhienAm>
+        <Nghia>khát</Nghia>
+        <YNghia>Theo chủ THỚT,TI bò sữa sẽ cho ít sữa nếu thường xuyên khát nước</YNghia>
+        <TiengAnh>needing or wanting to drink</TiengAnh>
+        <Eg>I'm si thirsty! Can I get some iced tea please?</Eg>
+        <Dich>Tôi khát quá! Cho tôi xin trà đá được không?</Dich>
+        <Srcimg>thirsty</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Alcohol</TuVung>
+        <PhienAm>/ˈælkəhɔːl/</PhienAm>
+        <Nghia>đồ uống có cồn</Nghia>
+        <YNghia>Thuyền bé cân tránh tạo rA, CỜ HỒ dùng đồ uống có cồn kia kìa</YNghia>
+        <TiengAnh>drinks such as beer, wine, etc. that can make people drunk</TiengAnh>
+        <Eg>The rules say you cannot bring alcohol into the cinema</Eg>
+        <Dich>Quy tắc của ông nói rằng bạn không được mang rượu vào rạp chiếu phim</Dich>
+        <Srcimg>alcohol</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Drinking</TuVung>
+        <PhienAm>/ˈdrɪŋkɪŋ/</PhienAm>
+        <Nghia>nhậu </Nghia>
+        <YNghia>Công nhân ở thủy điện Đak ĐRING KINH hãi việc nhậu nhẹt</YNghia>
+        <TiengAnh>the act of drinking alcohol</TiengAnh>
+        <Eg>In VN, men are encouraged to enjoy drinking</Eg>
+        <Dich>Ở VN, đàn ông được khuyến khích uống rượu</Dich>
+        <Srcimg>drinking</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Beer</TuVung>
+        <PhienAm>/bɪr/</PhienAm>
+        <Nghia>bia</Nghia>
+        <YNghia>Nếu uống bia thì sẽ không bắn được trúng BIA</YNghia>
+        <TiengAnh>an alcoholic drink made from malt with hops added to give it taste</TiengAnh>
+        <Eg>People often drink a lot of draught beer in VN</Eg>
+        <Dich>Mọi người thường uống nhiều bia tươi ở VN</Dich>
+        <Srcimg>beer</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>cheers</TuVung>
+        <PhienAm>/tʃɪrz/</PhienAm>
+        <Nghia>dô</Nghia>
+        <YNghia>1...2..3..dô! ...AE mình chỉ chia tiền, không chia xa</YNghia>
+        <TiengAnh>A friendly saying before you drink alcohol</TiengAnh>
+        <Eg>In VN, we would say, "1,2,3 cheers"</Eg>
+        <Dich>Ở VN, chúng tôi sẽ nói, "1,2,3 cổ vũ"</Dich>
+        <Srcimg>cheers</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Bottle</TuVung>
+        <PhienAm>/ˈbɑːtl/</PhienAm>
+        <Nghia>chai</Nghia>
+        <YNghia>Lính ở đồn BÓT THỒ hàng trăm chai rượu lên núi</YNghia>
+        <TiengAnh>a word that people say to each other as they lift up their glasses to drink</TiengAnh>
+        <Eg>Buying water in the bottle is expensive and bad for the environment</Eg>
+        <Dich>Mua nước trong chai vừa đắt vừa có hại cho môi trường</Dich>
+        <Srcimg>bottle</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Wine</TuVung>
+        <PhienAm>/waɪn/</PhienAm>
+        <Nghia>rượu</Nghia>
+        <YNghia>Các anh cứ nghĩ uống được nhiều rượu là OAI</YNghia>
+        <TiengAnh>an alcoholic drink made from the juice of grapes that has been left to ferment.</TiengAnh>
+        <Eg>you should put the wine bottle in a bucket of ice to keep it cool</Eg>
+        <Dich>bạn nên cho chai rượu vào xô đá để giữ lạnh</Dich>
+        <Srcimg>wine</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Pour</TuVung>
+        <PhienAm>/pɔːr/</PhienAm>
+        <Nghia>rót</Nghia>
+        <YNghia>BUA nhận sẽ rót nước cho Vy cả tuần nếu U23 vô địch</YNghia>
+        <TiengAnh>to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle</TiengAnh>
+        <Eg>Would you mind if I pour you another glass of wine?</Eg>
+        <Dich>Bạn có phiền không nếu tôi rót cho bạn một ly rượu khác?</Dich>
+        <Srcimg>pour</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Shot</TuVung>
+        <PhienAm>/ʃɑːt/</PhienAm>
+        <Nghia>chén rịu</Nghia>
+        <YNghia>chén rượu TUấn uống không SÓT giọt nào</YNghia>
+        <TiengAnh>the act of firing a gun;</TiengAnh>
+        <Eg>Let's take a shot of tequila before we go</Eg>
+        <Dich>Hãy uống một ngụm rượu tequila trước khi đi</Dich>
+        <Srcimg>shot</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Smoothie</TuVung>
+        <PhienAm>/ˈsmuːði/</PhienAm>
+        <Nghia>sinh tố</Nghia>
+        <YNghia>Nhà Đức bán sinh tố giàu thế mà không xƠ MÚi GÌ</YNghia>
+        <TiengAnh>a thick, smooth drink made of fruit and/or vegetables mixed with milk, ice cream, yogurt or fruit juice</TiengAnh>
+        <Eg>instead of breakfast, I like to drink a smoothie before going to work</Eg>
+        <Dich>thay vì ăn sáng, tôi thích uống sinh tố trước khi đi làm</Dich>
+        <Srcimg>smoothie</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>tipsy</TuVung>
+        <PhienAm>/ˈtɪpsi/</PhienAm>
+        <Nghia>ngà ngà say</Nghia>
+        <YNghia>Tiền TÍP SI gửi nhân viên khi đang ngà ngà say</YNghia>
+        <TiengAnh>slightly drunk</TiengAnh>
+        <Eg>She got tipsy after only a single drink</Eg>
+        <Dich>Cô ấy say chỉ sau một ly rượu</Dich>
+        <Srcimg>tipsy</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Useless</TuVung>
+        <PhienAm>/ˈjuːsləs/</PhienAm>
+        <Nghia>vô dụng</Nghia>
+        <YNghia>DU LỚT phớt lau qua chiếc bàn vô dụng, hỏng hóc</YNghia>
+        <TiengAnh>not useful; not doing or achieving what is needed or wanted</TiengAnh>
+        <Eg>For a happy life, dont buy useless things</Eg>
+        <Dich>Để có một cuộc sống hạnh phúc, đừng mua những thứ vô dụng</Dich>
+        <Srcimg>useless</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>hangover</TuVung>
+        <PhienAm>/ˈhæŋəʊvər/</PhienAm>
+        <Nghia>dư âm sau say</Nghia>
+        <YNghia>trong HANG, ÂU VỜ khóc như thể còn dư âm sau cơn say</YNghia>
+        <TiengAnh>the headache and sick feeling that you have the day after drinking too much alcohol</TiengAnh>
+        <Eg>The only way to never have a hangover is to not drink</Eg>
+        <Dich>Cách duy nhất để không bao giờ có cảm giác nôn nao là không uống rượu</Dich>
+        <Srcimg>hangover</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>sparkling</TuVung>
+        <PhienAm>/ˈspɑːrklɪŋ/</PhienAm>
+        <Nghia>có ga</Nghia>
+        <YNghia>SPA Cô LINH tái chế vỏ nước có ga để làm dụng cụ</YNghia>
+        <TiengAnh>shining and flashing with light</TiengAnh>
+        <Eg>do you want to try our sparkling water</Eg>
+        <Dich>bạn có muốn thử nước có ga của chúng tôi không</Dich>
+        <Srcimg>sparkling</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>stir</TuVung>
+        <PhienAm>/stɜːr/</PhienAm>
+        <Nghia>khuấy</Nghia>
+        <YNghia>Sao TỚ khuấy tan cốc cafe rồi mà cậu chưa tan tớ</YNghia>
+        <TiengAnh>to move a liquid or substance around, using a spoon or something similar, in order to mix it completely</TiengAnh>
+        <Eg>you need to stir your honey lemonade for at least one minute</Eg>
+        <Dich>bạn cần khuấy nước chanh mật ong của bạn trong ít nhất một phút</Dich>
+        <Srcimg>stir</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>cream</TuVung>
+        <PhienAm>/kriːm/</PhienAm>
+        <Nghia>kem</Nghia>
+        <YNghia>Chả Cá RIM thịt phủ sốt kem là món ăn tuyệt đỉnh.</YNghia>
+        <TiengAnh>the thick white or pale yellow fatty liquid</TiengAnh>
+        <Eg>Please put extra cream on my hot chocolate drink</Eg>
+        <Dich>Vui lòng cho thêm kem vào đồ uống sô cô la nóng của tôi</Dich>
+        <Srcimg>cream</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Energy</TuVung>
+        <PhienAm>/ˈenərdʒi/</PhienAm>
+        <Nghia>năng lượng</Nghia>
+        <YNghia>Cho con ÉN NƠ GÌ nó cũng đeo để tiếp năng lượng.</YNghia>
+        <TiengAnh>the strength, effort and enthusiasm required for physical or mental activity, work, etc.</TiengAnh>
+        <Eg>I drink coffee to have more Energy</Eg>
+        <Dich>Tôi uống cà phê để có nhiều năng lượng hơn</Dich>
+        <Srcimg>energy</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>glass</TuVung>
+        <PhienAm>/ɡlæs/</PhienAm>
+        <Nghia>cốc thủy tinh</Nghia>
+        <YNghia>Mua cốc thủy tinh được tặng kèm hăm bơ GƠ LÁT trứng.</YNghia>
+        <TiengAnh>a hard, usually clear, substance used, for example, for making windows and bottles</TiengAnh>
+        <Eg>The waitress gave us a glass filled with ice and a bottle of water</Eg>
+        <Dich>Cô phục vụ đưa cho chúng tôi một ly đầy đá và một chai nước</Dich>
+        <Srcimg>glass</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Litre</TuVung>
+        <PhienAm>/ˈliːtər/</PhienAm>
+        <Nghia>lít</Nghia>
+        <YNghia>Mệnh giá một LÍT-TỜ tiền này co thể mua đucợ 5 lít xăng.</YNghia>
+        <TiengAnh>a unit for measuring volume, equal to 1.76 British pints or 2.11 American pints</TiengAnh>
+        <Eg>You should drink two litres of water every day</Eg>
+        <Dich>Bạn nên uống hai lít nước mỗi ngày</Dich>
+        <Srcimg>litre</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Bucket</TuVung>
+        <PhienAm>/ˈbʌkɪt/</PhienAm>
+        <Nghia>xô</Nghia>
+        <YNghia>ở miển BẮC,KIT kat được bán theo xô.</YNghia>
+        <TiengAnh>an open container with a handle, used for carrying or holding liquids, sand, etc.</TiengAnh>
+        <Eg>They brought a bucket full of ice to the table</Eg>
+        <Dich>Họ mang một xô đầy đá đến bàn</Dich>
+        <Srcimg>bucket</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Pub</TuVung>
+        <PhienAm>/pʌb/</PhienAm>
+        <Nghia>quán rịu</Nghia>
+        <YNghia>Ở quán rượu,BẮP chiên bơ là món nhậu phổ biến.</YNghia>
+        <TiengAnh>a building where people go to drink and meet their friends.</TiengAnh>
+        <Eg>I first met him at the pub near my workplace</Eg>
+        <Dich>Tôi gặp anh ấy lần đầu tiên ở quán rượu gần nơi làm việc của tôi</Dich>
+        <Srcimg>pub</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Food and Drink 2</ChuDe>
+        <TuVung>Habit</TuVung>
+        <PhienAm>/ˈhæbɪt/</PhienAm>
+        <Nghia>thói quen</Nghia>
+        <YNghia>Ngủ đừng để miệng HÁ,BỊT không nổi là thành thói quen.</YNghia>
+        <TiengAnh>a thing that you do often and almost without thinking, especially something that is hard to stop doing</TiengAnh>
+        <Eg>She has a bad habit of checking her phone every couple of minutes</Eg>
+        <Dich>Cô ấy có một thói quen xấu là kiểm tra điện thoại của mình vài phút một lần</Dich>
+        <Srcimg>habit</Srcimg>
+    </Item>
+
+</Word>
+

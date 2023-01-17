@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Tourist</TuVung>
+		<PhienAm>/ˈtʊərɪst/</PhienAm>
+		<Nghia>Du khách</Nghia>
+		<YNghia>Du khách trong TUA DIỆT Sâu bọ bằng gậy.</YNghia>
+		<TiengAnh>Tourists in insect repellant tents.</TiengAnh>
+		<Eg>There is a price for locals and a highers price for tourist.</Eg>
+		<Dich>Có giá cho người dân địa phương và giá cao hơn cho khách du lịch</Dich>
+		<Srcimg>tourist</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Nowadays</TuVung>
+		<PhienAm>/ˈnaʊədeɪz/</PhienAm>
+		<Nghia>Ngày nay</Nghia>
+		<YNghia>Không khí huyên NÁO Ở ĐÂY hợp với xã hội ngày nay.</YNghia>
+		<TiengAnh>The noisy atmosphere here is suitable for today's society.</TiengAnh>
+		<Eg>Nowadays, people spend more time with their phones than with their friends.</Eg>
+		<Dich>Ngày nay, mọi người dành nhiều thời gian cho điện thoại hơn cho bạn bè của họ.</Dich>
+		<Srcimg>nowadays</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Book</TuVung>
+		<PhienAm>/bʊk/</PhienAm>
+		<Nghia>Đặt chổ</Nghia>
+		<YNghia>Bây giờ tên thật, có thể đặt chổ nhà hàng qua Phây-BÚC.</YNghia>
+		<TiengAnh>Now with real name, restaurant reservations can be made via Facebook.</TiengAnh>
+		<Eg>Nowadays, you can book movie tickets online.</Eg>
+		<Dich>Ngày nay, bạn có thể đặt vé xem phim trực tuyến.</Dich>
+		<Srcimg>book</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Flight</TuVung>
+		<PhienAm>/flaɪt/</PhienAm>
+		<Nghia>Chuyến bay</Nghia>
+		<YNghia>Tuấn LỜ PHỜ LAI Mai đi bắt chuyến bay.</YNghia>
+		<TiengAnh>Tuan ignored Mai to catch a flight.</TiengAnh>
+		<Eg>My flight to Saigon was delayed.</Eg>
+		<Dich>Chuyến bay của tôi đến Sài Gòn bị hoãn</Dich>
+		<Srcimg>flight</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Tour</TuVung>
+		<PhienAm>/tʊə(r)/</PhienAm>
+		<Nghia>Chuyến du lịch</Nghia>
+		<YNghia>Vy mặc áo TUA rua lộng lẫy nhất chuyến du lịch.</YNghia>
+		<TiengAnh>Vy wore the most gorgeous tassel on the trip.</TiengAnh>
+		<Eg>I've bought a tour to Dubai for my girlfriend.</Eg>
+		<Dich>Tôi đã mua một chuyến du lịch đến Dubai cho bạn gái của mình.</Dich>
+		<Srcimg>tour</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Destination</TuVung>
+		<PhienAm>/ˌdestɪˈneɪʃn/</PhienAm>
+		<Nghia>Điểm đến</Nghia>
+		<YNghia>Mẹ răn ĐE, TI NÃY SỪNG sỏ gây chuyện khi sắp tới điểm đến.</YNghia>
+		<TiengAnh>Mother warned, Ti was already causing trouble when she was about to arrive at the destination.</TiengAnh>
+		<Eg>The final destination of the train is Vinh, Nghe An.</Eg>
+		<Dich>Điểm đến cuối cùng của chuyến tàu là Vinh, Nghệ An.</Dich>
+		<Srcimg>destination</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Escape</TuVung>
+		<PhienAm>/ɪˈskeɪp/</PhienAm>
+		<Nghia>Trốn khỏi</Nghia>
+		<YNghia>Tuấn mặc bộ đồ Y SÌ CÂY thông mới trốn khỏi rừng.</YNghia>
+		<TiengAnh>Tuan wore a new pine tree suit and escaped from the forest.</TiengAnh>
+		<Eg>There are several places to escape from the city during the weekend.</Eg>
+		<Dich>Có một số nơi để trốn khỏi thành phố vào cuối tuần.</Dich>
+		<Srcimg>escape</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Experience</TuVung>
+		<PhienAm>/ɪkˈspɪəriəns/</PhienAm>
+		<Nghia>Kinh nghiệm</Nghia>
+		<YNghia>Ở hàng tiện ÍCH, BIA DÌ ÂN là loại bia có trải nghiệm tốt.</YNghia>
+		<TiengAnh>At the convenience store, Aunt An's beer is a beer with a good experience.</TiengAnh>
+		<Eg>I like to experience local life when I travel.</Eg>
+		<Dich>Tôi thích trải nghiệm cuộc sống địa phương khi tôi đi du lịch.</Dich>
+		<Srcimg>experience</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Moment</TuVung>
+		<PhienAm>/ˈməʊmənt/</PhienAm>
+		<Nghia>Khoảnh khắc</Nghia>
+		<YNghia>Khoảnh khắc Vy thấy đảo Hòn MẤU, MỪNG không tả nỗi.</YNghia>
+		<TiengAnh>The moment Vy saw Hon Mau island, she was overjoyed.</TiengAnh>
+		<Eg>What's your most memorable moment.</Eg>
+		<Dich>Khoảnh khắc đáng nhớ nhất của bạn là gì.</Dich>
+		<Srcimg>moment</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Journey</TuVung>
+		<PhienAm>/ˈdʒɜːni/</PhienAm>
+		<Nghia>Cuộc hành trình</Nghia>
+		<YNghia>Tuy trời GIÓ, NI cô vẫn tiếp tục cuộc hành trình.</YNghia>
+		<TiengAnh>Despite the wind, the nun continued her journey.</TiengAnh>
+		<Eg>The journey to the top of Fansipan is quite long.</Eg>
+		<Dich>Hành trình lên đỉnh Fansipan khá dài.</Dich>
+		<Srcimg>journey</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Adventure</TuVung>
+		<PhienAm>/ədˈventʃə(r)/</PhienAm>
+		<Nghia>Cuộc phiêu lưu</Nghia>
+		<YNghia>Giờ ẤT, VEN TRỜI Tây Bắc là mật mã cuộc phiêu lưu.</YNghia>
+		<TiengAnh>At the time of the Lunar New Year, the Northwest coast is the adventure code.</TiengAnh>
+		<Eg>With the right attitude, your whole life can be an adventure.</Eg>
+		<Dich>Với thái độ đúng đắn, cả cuộc đời bạn có thể là một cuộc phiêu lưu</Dich>
+		<Srcimg>adventure</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Excited</TuVung>
+		<PhienAm>/ɪkˈsaɪtɪd/</PhienAm>
+		<Nghia>Hào hứng</Nghia>
+		<YNghia>Anh X SAI, TẬT xấu đầy mình mà còn hào hứng cãi.</YNghia>
+		<TiengAnh>Mr. X is wrong, full of bad habits, but also excited to argue.</TiengAnh>
+		<Eg>I'm so excited for my trip to Taiwan.</Eg>
+		<Dich>Tôi rất hào hứng với chuyến đi đến Đài Loan.</Dich>
+		<Srcimg>excited</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Reception</TuVung>
+		<PhienAm>/rɪˈsepʃn/</PhienAm>
+		<Nghia>Quầy tiếp tân</Nghia>
+		<YNghia>Vì thích cà RI, SẾP SẦN sật nhai ở quầy tiếp tân.</YNghia>
+		<TiengAnh>Because he likes curry, Boss chews at the reception desk.</TiengAnh>
+		<Eg>Hurry up! We need to check in at the reception.</Eg>
+		<Dich>Nhanh lên! Chúng tôi cần làm thủ tục tại quầy lễ tân.</Dich>
+		<Srcimg>reception</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Stay</TuVung>
+		<PhienAm>/steɪ/</PhienAm>
+		<Nghia>Thời gian ở</Nghia>
+		<YNghia>Thời gian ở Sơn TÂY trôi nhanh như gió bay.</YNghia>
+		<TiengAnh>Time in Son Tay goes by as fast as the wind.</TiengAnh>
+		<Eg>A two night stay at a resort is long enough to refesh yourself.</Eg>
+		<Dich>Hai đêm nghỉ tại resort là đủ dài để làm mới bản thân</Dich>
+		<Srcimg>stay</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Huge</TuVung>
+		<PhienAm>/hjuːdʒ/</PhienAm>
+		<Nghia>Đồ sộ</Nghia>
+		<YNghia>Gió thổi HIU hiu giữa căn nhà đồ sộ.</YNghia>
+		<TiengAnh>The wind blew softly in the middle of the massive house.</TiengAnh>
+		<Eg>The shopping malls in Hong Kong are huge!</Eg>
+		<Dich>Các trung tâm mua sắm ở Hồng Kông rất lớn!</Dich>
+		<Srcimg>huge</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Amazing</TuVung>
+		<PhienAm>/əˈmeɪzɪŋ/</PhienAm>
+		<Nghia>Đáng kinh ngạc</Nghia>
+		<YNghia>Ơ, MẤY DINH cơ đáng khinh nhạc này của Đức hết à?</YNghia>
+		<TiengAnh>Oh, are all these German music despicable mansions?</TiengAnh>
+		<Eg>The scenery in that area is amazing.</Eg>
+		<Dich></Dich>
+		<Srcimg>amazing</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Postcard</TuVung>
+		<PhienAm>/ˈpəʊstkɑːd/</PhienAm>
+		<Nghia>Bưu thiếp</Nghia>
+		<YNghia>Post + Card = Bưu tá + Thiệp = Tấm thiệp được gữi qua bưu điện = Bưu thiếp.</YNghia>
+		<TiengAnh>Post + Card = Postman + Greeting Card = Card sent by post = Postcard.</TiengAnh>
+		<Eg>My Friend bought a lot of postcard in Thailand for her family.</Eg>
+		<Dich>Bạn của tôi đã mua rất nhiều bưu thiếp ở Thái Lan cho gia đình cô ấy. </Dich>
+		<Srcimg>postcard</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Visa</TuVung>
+		<PhienAm>/ˈviːzə/</PhienAm>
+		<Nghia>Thị thực</Nghia>
+		<YNghia>Khi làm thị thực, Thu cần để ý đến VÍ, GIỜ giấc.</YNghia>
+		<TiengAnh>When applying for a visa, Thu needs to pay attention to her wallet and time.</TiengAnh>
+		<Eg>Vietnamese people don't need a visa to visit Thailand.</Eg>
+		<Dich>Người Việt Nam đến thăm Thái Lan không cần xin visa</Dich>
+		<Srcimg>visa</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Travelling</TuVung>
+		<PhienAm>/ˈtrævəlɪŋ/</PhienAm>
+		<Nghia>Du lịch</Nghia>
+		<YNghia>Du lịch Bến TRE, VƠ LINH tinh đồ sẽ bị mắng đấy.</YNghia>
+		<TiengAnh>Traveling to Ben Tre, you will be scolded if you pick up miscellaneous maps.</TiengAnh>
+		<Eg>Travelling is often an expensive hobby.</Eg>
+		<Dich>Đi du lịch thường là một sở thích tốn kém</Dich>
+		<Srcimg>travelling</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Chance</TuVung>
+		<PhienAm>/tʃɑːns/</PhienAm>
+		<Nghia>Cơ hội</Nghia>
+		<YNghia>Thu xin cơ hội để sửa "tran canh" thành "CHAN canh".</YNghia>
+		<TiengAnh>Thu asked for the opportunity to change "tran soup" to "chan soup".</TiengAnh>
+		<Eg>If you have a chance, I suggest you visit Chiang Mai.</Eg>
+		<Dich>Nếu có cơ hội, tôi khuyên bạn nên đến thăm Chiang Mai</Dich>
+		<Srcimg>chance</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Memory</TuVung>
+		<PhienAm>/ˈmeməri/</PhienAm>
+		<Nghia>Kỉ niệm</Nghia>
+		<YNghia>Mai nhớ kỉ niệm hàng cây ME, MƠ rì rào trong gió.</YNghia>
+		<TiengAnh>Mai remembers the memory of the tamarind trees, dreaming whispering in the wind.</TiengAnh>
+		<Eg>The last Tet holiday with our grandmother is probably my best memory.</Eg>
+		<Dich>Kỳ nghỉ Tết vừa rồi với bà ngoại có lẽ là kỷ niệm đẹp nhất của tôi. </Dich>
+		<Srcimg>memory</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Delay</TuVung>
+		<PhienAm>/dɪˈleɪ/</PhienAm>
+		<Nghia>Sự trì hoãn</Nghia>
+		<YNghia>Ba mẹ giục ĐI LẤY vợ thì làm thế nào để tạo sự trì hoãn nhỉ?</YNghia>
+		<TiengAnh>Parents urged to get married, how to create delay?</TiengAnh>
+		<Eg>This task needs to be done immediately, without delay!</Eg>
+		<Dich>Công việc này cần được thực hiện ngay lập tức, không được chậm trễ!</Dich>
+		<Srcimg>delay</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Disappointed</TuVung>
+		<PhienAm>/ˌdɪsəˈpɔɪntɪd/</PhienAm>
+		<Nghia>Thất vọng</Nghia>
+		<YNghia>Mục ĐÍCH XEM BÓI TẬT bệnh là để tránh thất vọng sau này.</YNghia>
+		<TiengAnh>The purpose of fortune telling is to avoid disappointment later on.</TiengAnh>
+		<Eg>She seemed disappointed when I didn't bring her a souvenir.</Eg>
+		<Dich>Cô ấy có vẻ thất vọng khi tôi không mang quà lưu niệm cho cô ấy.</Dich>
+		<Srcimg>disappointed</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>Travel and Tourist 1</ChuDe>
+		<TuVung>Discover</TuVung>
+		<PhienAm>/dɪˈskʌvə(r)/</PhienAm>
+		<Nghia>Khám phá</Nghia>
+		<YNghia>Đã khám phá ra mục ĐÍCH CA VỜ bị ốm.</YNghia>
+		<TiengAnh>Discovered the purpose of pretending to be sick.</TiengAnh>
+		<Eg>I want to discover more about foreign cultures when I travel.</Eg>
+		<Dich>Tôi muốn khám phá thêm về các nền văn hóa nước ngoài khi tôi đi du lịch</Dich>
+		<Srcimg>discover</Srcimg>
+	</Item>
+
+</Word>
+

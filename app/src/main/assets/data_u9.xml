@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+	<Item>
+		<ID>1</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Place</TuVung>
+		<PhienAm>/pleɪs/</PhienAm>
+		<Nghia>Nơi</Nghia>
+		<YNghia>Tin tức lan truyền từ thành phố PLEiku sang các nơi khác.</YNghia>
+		<TiengAnh>The news spread from Pleiku city to other places.</TiengAnh>
+		<Eg>What kind of place do you like to study in?</Eg>
+		<Dich>Bạn thích học ở nơi nào?</Dich>
+		<Srcimg>place</Srcimg>
+	</Item>
+	<Item>
+		<ID>2</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Building</TuVung>
+		<PhienAm>/ˈbɪldɪŋ/</PhienAm>
+		<Nghia>Tòa nhà</Nghia>
+		<YNghia>Trước tòa nhà Tạ Quang BỬU ĐÌNH công đã nhắc đến đỉnh điểm.</YNghia>
+		<TiengAnh>In front of the Ta Quang Buu building, the strike mentioned the climax.</TiengAnh>
+		<Eg>My house is the first building on the street, next to the KFC.</Eg>
+		<Dich>Nhà tôi là tòa nhà đầu tiên trên phố, bên cạnh KFC.</Dich>
+		<Srcimg>building</Srcimg>
+	</Item>
+	<Item>
+		<ID>3</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Balcony</TuVung>
+		<PhienAm>/ˈbælkəni/</PhienAm>
+		<Nghia>Ban công</Nghia>
+		<YNghia>Đứng trên ban công còn nhìn thấy cả cơn BÃO CƠ NY ạ.</YNghia>
+		<TiengAnh>Standing on the balcony, I can also see the storm, Ny.</TiengAnh>
+		<Eg>People often dry their clothes on the balcony.</Eg>
+		<Dich>Mọi người thường phơi quần áo trên ban công</Dich>
+		<Srcimg>balcony</Srcimg>
+	</Item>
+	<Item>
+		<ID>4</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Face</TuVung>
+		<PhienAm>/feɪs/</PhienAm>
+		<Nghia>Hướng về</Nghia>
+		<YNghia>Gió điều hòa thổi PHÂY phây về hướng giường Đức.</YNghia>
+		<TiengAnh>The air-conditioning wind blew in the direction of the Duc bed.</TiengAnh>
+		<Eg>If you face east, you can watch the sunrise.</Eg>
+		<Dich>Nếu bạn quay mặt về hướng Đông, bạn có thể ngắm bình minh.</Dich>
+		<Srcimg>face</Srcimg>
+	</Item>
+	<Item>
+		<ID>5</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Beautifully</TuVung>
+		<PhienAm>/ˈbjuːtɪfli/</PhienAm>
+		<Nghia>Một cách đẹp đẽ</Nghia>
+		<YNghia>Ăn diện một cách đẹp đẽ thì đừng dè BỈU TỚ PHÚ, LY à!</YNghia>
+		<TiengAnh>If you dress up beautifully, don't belittle me, Phu, Ly!</TiengAnh>
+		<Eg>The cake was beautifully decorated.</Eg>
+		<Dich>Chiếc bánh được trang trí rất đẹp.</Dich>
+		<Srcimg>beautifully</Srcimg>
+	</Item>
+	<Item>
+		<ID>6</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Decorate</TuVung>
+		<PhienAm>/ˈdekəreɪt/</PhienAm>
+		<Nghia>Trang trí</Nghia>
+		<YNghia>ĐỂ CÔ, RÂY bột nướng bánh, trang trí cây thông.</YNghia>
+		<TiengAnh>To her, sift the baking powder, decorate the pine tree.</TiengAnh>
+		<Eg>She decorate her office desk with pictures of her child.</Eg>
+		<Dich>Cô ấy trang trí bàn làm việc bằng hình ảnh của con cô ấy</Dich>
+		<Srcimg>decorate</Srcimg>
+	</Item>
+	<Item>
+		<ID>7</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Furniture</TuVung>
+		<PhienAm>/ˈfɜːnɪtʃə(r)/</PhienAm>
+		<Nghia>Đồ nội thất</Nghia>
+		<YNghia>Nay rảnh đi ăn tào PHỚ NÌ, CHỜ đồ nội thất chuyển tới nữa.</YNghia>
+		<TiengAnh>Now I'm free to go eat noodles, wait for the furniture to move in.</TiengAnh>
+		<Eg>My room is small, so there isn't much furniture inside it.</Eg>
+		<Dich>Phòng của tôi nhỏ nên không có nhiều đồ đạc bên trong.</Dich>
+		<Srcimg>furniture</Srcimg>
+	</Item>
+	<Item>
+		<ID>8</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Flat</TuVung>
+		<PhienAm>/flæt/</PhienAm>
+		<Nghia>Căn hộ</Nghia>
+		<YNghia>Tuấn thuê người PHỤ LÁT gạch cho căn hộ.</YNghia>
+		<TiengAnh>Tuan hires an assistant to tile the apartment.</TiengAnh>
+		<Eg>I live in a flat with two orther students.</Eg>
+		<Dich>Tôi sống trong một căn hộ với hai sinh viên khác</Dich>
+		<Srcimg>flat</Srcimg>
+	</Item>
+	<Item>
+		<ID>9</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Fully</TuVung>
+		<PhienAm>/ˈfʊli/</PhienAm>
+		<Nghia>Hoàn toàn</Nghia>
+		<YNghia>Thấy núi lửa PHUN, LY hoàn toàn bất động vì sợ hãi.</YNghia>
+		<TiengAnh>Seeing the volcano erupt, Ly was completely motionless because of fear.</TiengAnh>
+		<Eg>The street was fully covered in water after the storm.</Eg>
+		<Dich>Đường phố ngập trong nước sau cơn bão</Dich>
+		<Srcimg>fully</Srcimg>
+	</Item>
+	<Item>
+		<ID>10</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Drive</TuVung>
+		<PhienAm>/draɪv/</PhienAm>
+		<Nghia>Chuyến xe</Nghia>
+		<YNghia>Đường này ai ĐÃ RẢI đinh, làm chuyến xe dừng lại giữa đường.</YNghia>
+		<TiengAnh>Who had laid nails on this road, causing the bus to stop in the middle of the road.</TiengAnh>
+		<Eg>The drive from Hanoi to Thanh Hoa took four hours.</Eg>
+		<Dich>Lái xe từ Hà Nội đến Thanh Hóa mất bốn giờ</Dich>
+		<Srcimg>drive</Srcimg>
+	</Item>
+	<Item>
+		<ID>11</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Away</TuVung>
+		<PhienAm>/əˈweɪ/</PhienAm>
+		<Nghia>Cách đây</Nghia>
+		<YNghia>Hôm qua cả lũ còn QUÂY quần ,mà giờ chuẩn bị đi du học cách đây thật xa.</YNghia>
+		<TiengAnh>Yesterday we all gathered together, but now we are going to study abroad far away.</TiengAnh>
+		<Eg>My flat is only 500 metres away from the university</Eg>
+		<Dich>Căn hộ của tôi chỉ cách trường đại học 500 m</Dich>
+		<Srcimg>away</Srcimg>
+	</Item>
+	<Item>
+		<ID>12</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Housemate</TuVung>
+		<PhienAm>/ˈhaʊsmeɪt/</PhienAm>
+		<Nghia>Bạn cùng nhà</Nghia>
+		<YNghia>House + Mate = Nhà + Bạn = Bạn ở cùng nhà.</YNghia>
+		<TiengAnh>House + Mate = House + You = You live in the same house.</TiengAnh>
+		<Eg>Do you have a housemate, or do you live alone?</Eg>
+		<Dich>Bạn có bạn cùng nhà hay bạn sống một mình?</Dich>
+		<Srcimg>housemate</Srcimg>
+	</Item>
+	<Item>
+		<ID>13</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>View</TuVung>
+		<PhienAm>/vjuː/</PhienAm>
+		<Nghia>Khung cảnh</Nghia>
+		<YNghia>Tấm biển to làm vứng VÍU, che mất khung cảnh.</YNghia>
+		<TiengAnh>The big sign made a mess, obscuring the scene.</TiengAnh>
+		<Eg>The view from the top of the mountain is lovely.</Eg>
+		<Dich>Quang cảnh từ trên đỉnh núi thật tuyệt</Dich>
+		<Srcimg>view</Srcimg>
+	</Item>
+	<Item>
+		<ID>14</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Light</TuVung>
+		<PhienAm>/laɪt/</PhienAm>
+		<Nghia>Ánh sáng</Nghia>
+		<YNghia>Vy mơ được LAI trên xe đạp dưới ánh sáng hoàng hôn.</YNghia>
+		<TiengAnh>Vy dreams of being on a bicycle in the sunset light.</TiengAnh>
+		<Eg>I like a room with lots of natural light.</Eg>
+		<Dich>Tôi thích một căn phòng có nhiều ánh sáng tự nhiên.</Dich>
+		<Srcimg>light</Srcimg>
+	</Item>
+	<Item>
+		<ID>15</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Comfortable</TuVung>
+		<PhienAm>/ˈkʌmftəbl/</PhienAm>
+		<Nghia>Thoải mái</Nghia>
+		<YNghia>CAM PHẢI TỚ BỔ thì cậu mới được ặn thoải mái.</YNghia>
+		<TiengAnh>Orange must be supplemented so that you can eat comfortably.</TiengAnh>
+		<Eg>When I travel, it's important that where I sleep feels comfortable.</Eg>
+		<Dich>Khi tôi đi du lịch, điều quan trọng là nơi tôi ngủ phải cảm thấy thoải mái</Dich>
+		<Srcimg>comfortable</Srcimg>
+	</Item>
+	<Item>
+		<ID>16</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Share</TuVung>
+		<PhienAm>/ʃeə(r)/</PhienAm>
+		<Nghia>Chia sẻ</Nghia>
+		<YNghia>Mình muốn chia sẻ cách hút mì tạo tiếng kêu như chim SE sẻ.</YNghia>
+		<TiengAnh>I want to share how to smoke noodles to make a chirping sound like a sparrow.</TiengAnh>
+		<Eg>Would you like to order one portion and share it?</Eg>
+		<Dich>Bạn có muốn gọi một phần và chia sẻ nó không?</Dich>
+		<Srcimg>share</Srcimg>
+	</Item>
+	<Item>
+		<ID>17</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Rug</TuVung>
+		<PhienAm>/rʌɡ/</PhienAm>
+		<Nghia>Tấm thảm</Nghia>
+		<YNghia>Aladin RẮC bột thần nên tấm thảm bay lên.</YNghia>
+		<TiengAnh>Aladdin sprinkled magic powder and the carpet rose.</TiengAnh>
+		<Eg>She has a rug in front of her doorstep.</Eg>
+		<Dich>Cô ấy có một tấm thảm trước cửa nhà</Dich>
+		<Srcimg>rug</Srcimg>
+	</Item>
+	<Item>
+		<ID>18</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Roommate</TuVung>
+		<PhienAm>/ˈrummeɪt/</PhienAm>
+		<Nghia>Bạn cùng phòng</Nghia>
+		<YNghia>Room + Mate = Phòng + Bạn = Bạn ở chung phòng.</YNghia>
+		<TiengAnh>Room + Mate = Room + You = Roommate.</TiengAnh>
+		<Eg>My roommate is, unfortunately, very messy.</Eg>
+		<Dich>Thật không may, bạn cùng phòng của tôi rất bừa bộn</Dich>
+		<Srcimg>roommate</Srcimg>
+	</Item>
+	<Item>
+		<ID>19</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Carpet</TuVung>
+		<PhienAm>/ˈkɑːpɪt/</PhienAm>
+		<Nghia>Thảm lót sàn</Nghia>
+		<YNghia>Có con CÁ BIẾT nói lăn lộn trên tấm thảm lót sàn.</YNghia>
+		<TiengAnh>There was a talking fish rolling around on the floor mat.</TiengAnh>
+		<Eg>Luxury hotels often have carpet on the floor to reduce noise.</Eg>
+		<Dich>Các khách sạn sang trọng thường trải thảm trên sàn để giảm tiếng ồn</Dich>
+		<Srcimg>carpet</Srcimg>
+	</Item>
+	<Item>
+		<ID>20</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Antique</TuVung>
+		<PhienAm>/ænˈtiːk/</PhienAm>
+		<Nghia>Đồ cổ</Nghia>
+		<YNghia>Thu biết AN THÍCH đồ cổ mà không tặng cho một món.</YNghia>
+		<TiengAnh>Thu knew that An liked antiques but did not give one.</TiengAnh>
+		<Eg>My uncle collects qntiques, some of which are very valuable.</Eg>
+		<Dich>Chú tôi sưu tập đồ qntiques, một số đồ rất có giá trị.</Dich>
+		<Srcimg>antique</Srcimg>
+	</Item>
+	<Item>
+		<ID>21</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Cramped</TuVung>
+		<PhienAm>/kræmpt/</PhienAm>
+		<Nghia>Chật chội</Nghia>
+		<YNghia>CÁI RÈM ba treo làm nhà thêm chật chội.</YNghia>
+		<TiengAnh>The three-hanging curtain makes the house more cramped.</TiengAnh>
+		<Eg>Short people don't feel cramped on airplane like I do.</Eg>
+		<Dich>Những người thấp bé không cảm thấy chật chội trên máy bay như tôi.</Dich>
+		<Srcimg>cramped</Srcimg>
+	</Item>
+	<Item>
+		<ID>22</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Curtain</TuVung>
+		<PhienAm>/ˈkɜːtn/</PhienAm>
+		<Nghia>Rèm cửa</Nghia>
+		<YNghia>Vô duyên vô CỚ TẦN ngần đứng ngắm rèm cửa nhà bên làm gì.</YNghia>
+		<TiengAnh>For no reason, he hesitated to see what the next door curtains were doing.</TiengAnh>
+		<Eg>Can you close the curtain; the sunlight is too bright.</Eg>
+		<Dich>Bạn có thể đóng rèm lại không; ánh sáng mặt trời quá chói.</Dich>
+		<Srcimg>curtain</Srcimg>
+	</Item>
+	<Item>
+		<ID>23</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Air conditioner</TuVung>
+		<PhienAm>/ˈeə kəndɪʃənə(r)/</PhienAm>
+		<Nghia>Máy điều hòa</Nghia>
+		<YNghia>Air + Conditioner = Không khí + Vật điều hòa = Máy điều hòa không khí.</YNghia>
+		<TiengAnh>Air + Conditioner = Air + Conditioner = Air Conditioner.</TiengAnh>
+		<Eg>Can you turn on the air conditioner; the room is too hot.</Eg>
+		<Dich>Bạn có thể bật điều hòa không khí; phòng quá nóng.</Dich>
+		<Srcimg>airconditioner</Srcimg>
+	</Item>
+	<Item>
+		<ID>24</ID>
+		<ChuDe>House - Neightbourhood 1</ChuDe>
+		<TuVung>Bookshelf</TuVung>
+		<PhienAm>/ˈbʊkʃelf/</PhienAm>
+		<Nghia>Kệ sách</Nghia>
+		<YNghia>Book + Shelf = Sách + Giá đựng sách = Kệ sách.</YNghia>
+		<TiengAnh>Book + Shelf = Books + Bookcase = Bookshelf.</TiengAnh>
+		<Eg>The bookshelf in his room is full of old books.</Eg>
+		<Dich>Giá sách trong phòng của anh ấy chứa đầy sách cũ.</Dich>
+		<Srcimg>bookshelf</Srcimg>
+	</Item>
+
+</Word>
+

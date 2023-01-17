@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Fear</TuVung>
+        <PhienAm>/fɪr/</PhienAm>
+        <Nghia>nỗi sợ</Nghia>
+        <YNghia>Nỗi sợ chợt đến khi Vy cảm thấy PHÍA sau có người</YNghia>
+        <TiengAnh>the bad feeling that you have when you are in danger or when a particular thing frightens you</TiengAnh>
+        <Eg>she has a strange fear of butterflies</Eg>
+        <Dich>cô ấy sợ bướm một cách kỳ lạ</Dich>
+        <Srcimg>fear</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Injure</TuVung>
+        <PhienAm>/ˈɪndʒər/</PhienAm>
+        <Nghia>gây thương tích</Nghia>
+        <YNghia>Mia làm hỏng máy IN GIỜ lại gây thương tích cho mèo</YNghia>
+        <TiengAnh> injure somebody/something/yourself to harm yourself or somebody else physically, especially in an accident</TiengAnh>
+        <Eg>It's easy to Injure someone while playing boxing</Eg>
+        <Dich>Rất dễ làm ai đó bị thương khi chơi quyền anh</Dich>
+        <Srcimg>injure</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Seriously</TuVung>
+        <PhienAm>/ˈsɪriəsli/</PhienAm>
+        <Nghia>nghiêm túc</Nghia>
+        <YNghia>SỞ DĨ ỚT LÝ Sơn hiếm là vì có cay một cách nghiêm túc</YNghia>
+        <TiengAnh> in a serious way</TiengAnh>
+        <Eg>I was Seriously injure in the accident</Eg>
+        <Dich>Tôi bị thương nặng trong vụ tai nạn</Dich>
+        <Srcimg>seriously</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Bleed</TuVung>
+        <PhienAm>/bliːd/</PhienAm>
+        <Nghia>Chảy máu</Nghia>
+        <YNghia>Bộ phim dùng Bốn LÍT sơn cho các cảnh chảy máu</YNghia>
+        <TiengAnh>to lose blood, especially from a wound or an injury</TiengAnh>
+        <Eg>I began to bleed after cutting myself while chopping vegetables</Eg>
+        <Dich>Tôi bắt đầu chảy máu sau khi tự cắt mình trong khi thái rau</Dich>
+        <Srcimg>bleed</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Hurt</TuVung>
+        <PhienAm>/hɜːrt/</PhienAm>
+        <Nghia>đau</Nghia>
+        <YNghia>HỚT tóc không cẩn thận có thể làm bị đau</YNghia>
+        <TiengAnh>to cause physical pain to somebody/yourself; to injure somebody/yourself</TiengAnh>
+        <Eg>she often hits me, but I know she's not trying to hurt me</Eg>
+        <Dich>cô ấy thường đánh tôi, nhưng tôi biết cô ấy không cố gắng làm tổn thương tôi</Dich>
+        <Srcimg>hurt</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Headache</TuVung>
+        <PhienAm>/ˈhedeɪk/</PhienAm>
+        <Nghia>đau đầu</Nghia>
+        <YNghia>Head + ache = đầu + đau nhức = đau đầu</YNghia>
+        <TiengAnh>a continuous pain in the head</TiengAnh>
+        <Eg>I have such a bad Headache after drinking too much wine last night</Eg>
+        <Dich>Tôi bị đau đầu dữ dội sau khi uống quá nhiều rượu vào đêm qua</Dich>
+        <Srcimg>headache</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Check</TuVung>
+        <PhienAm>/tʃek/</PhienAm>
+        <Nghia>đợt khám</Nghia>
+        <YNghia>Bác sĩ đặt CHẾCH giường bệnh chuẩn bị cho đợt khám</YNghia>
+        <TiengAnh>to examine something to see if it is correct, safe or acceptable</TiengAnh>
+        <Eg>I have booked a quick check at the nearby hospital</Eg>
+        <Dich>Tôi đã đặt lịch kiểm tra nhanh ở bệnh viện gần đó</Dich>
+        <Srcimg>check</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Disease</TuVung>
+        <PhienAm>/dɪˈziːz/</PhienAm>
+        <Nghia>bệnh tật </Nghia>
+        <YNghia>Biết mình bệnh tật, hắn bỏ ĐI,DI chuyển đến chỗ khác</YNghia>
+        <TiengAnh> an illness affecting humans, animals or plants, often caused by infection</TiengAnh>
+        <Eg>You should get all your vaccines to avoid getting a dangerous Disease</Eg>
+        <Dich>Bạn nên chủng ngừa tất cả các loại vắc-xin để tránh mắc một Căn bệnh nguy hiểm</Dich>
+        <Srcimg>disease</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Cold</TuVung>
+        <PhienAm>/kəʊld/</PhienAm>
+        <Nghia>cơn cảm lạnh</Nghia>
+        <YNghia>Thu đi CÂU Được con cá bống thì bị dính cơn cảm lạnh</YNghia>
+        <TiengAnh>low temperature</TiengAnh>
+        <Eg>If tou have a cold, please stay at home and rest</Eg>
+        <Dich>Nếu bạn bị cảm, hãy ở nhà và nghỉ ngơi</Dich>
+        <Srcimg>cold</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Cough</TuVung>
+        <PhienAm>/kɔːf/</PhienAm>
+        <Nghia>ho</Nghia>
+        <YNghia>Cơn ho chợt đến khi Tuấn đang CÓP PHim vào điện thoại</YNghia>
+        <TiengAnh>to force out air suddenly and noisily through your throat, for example when you have a cold</TiengAnh>
+        <Eg>My Cough hasn't ended yet, so I have to wear a mask</Eg>
+        <Dich>Cơn ho của tôi vẫn chưa kết thúc, vì vậy tôi phải đeo mặt nạ</Dich>
+        <Srcimg>cough</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Pain</TuVung>
+        <PhienAm>/peɪn/</PhienAm>
+        <Nghia>đau</Nghia>
+        <YNghia>BÊN tai phải của Thu bất chợt có cảm giác đau</YNghia>
+        <TiengAnh></TiengAnh>
+        <Eg>Do you feel pain anywhere on your body?</Eg>
+        <Dich>Bạn có cảm thấy đau ở bất cứ đâu trên cơ thể mình không?</Dich>
+        <Srcimg>pain</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Suffer</TuVung>
+        <PhienAm>/ˈsʌfər/</PhienAm>
+        <Nghia>chịu đựng</Nghia>
+        <YNghia>Chịu đựng cơn đau bụng khiến Mai SẮP PHỜ phạc mất rồi</YNghia>
+        <TiengAnh> the feelings that you have in your body when you have been hurt or when you are ill</TiengAnh>
+        <Eg>It is dufficult to stay positive when you suffer from a headache</Eg>
+        <Dich>Rất khó để giữ tinh thần lạc quan khi bạn bị đau đầu</Dich>
+        <Srcimg>suffer</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Cancer</TuVung>
+        <PhienAm>/ˈkænsər/</PhienAm>
+        <Nghia>ung thư</Nghia>
+        <YNghia>Bé KEN SỜ túi tìm lời giải cho bệnh ung thư</YNghia>
+        <TiengAnh>a serious disease in which growths of cells, also called cancers, form in the body and kill normal body cells. The disease often causes death.</TiengAnh>
+        <Eg>Polluted air, smoking, and unclean food are major causes of cancer</Eg>
+        <Dich>Không khí ô nhiễm, hút thuốc và thực phẩm không sạch là những nguyên nhân chính gây ung thư</Dich>
+        <Srcimg>cancer</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Diabetes</TuVung>
+        <PhienAm>/ˌdaɪəˈbiːtiːz/</PhienAm>
+        <Nghia>bệnh tiểu đường</Nghia>
+        <YNghia>Người bị tiểu đường hỏi:"Mang bầu phải đeo ĐAI, Ơ BÍ THÌ sao?"</YNghia>
+        <TiengAnh>a medical condition in which the body cannot produce enough insulin to control the amount of sugar in the blood</TiengAnh>
+        <Eg>People with diabetes need to be careful about what they eat</Eg>
+        <Dich>Những người bị bệnh tiểu đường cần phải cẩn thận về những gì họ ăn</Dich>
+        <Srcimg>diabetes</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Curable</TuVung>
+        <PhienAm>/ˈkjʊrəbl/</PhienAm>
+        <Nghia>có thể chữa được</Nghia>
+        <YNghia>Nhờ Tuấn CỨU, GIỜ BỒ mới có thể chữa được đáp án sai</YNghia>
+        <TiengAnh>that can be cured</TiengAnh>
+        <Eg>Obesity a cureble disease</Eg>
+        <Dich>Béo phì một căn bệnh có thể chữa khỏi</Dich>
+        <Srcimg>curable</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Ease</TuVung>
+        <PhienAm>/iːz/</PhienAm>
+        <Nghia>xoa dịu</Nghia>
+        <YNghia>Có kiến thức về Y GIúp dễ xoa dịu các vết thương</YNghia>
+        <TiengAnh>lack of difficulty</TiengAnh>
+        <Eg>She took some medicine to ease the pain of her headache</Eg>
+        <Dich>Cô ấy đã uống một số loại thuốc để giảm bớt cơn đau đầu của mình</Dich>
+        <Srcimg>ease</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Prescription</TuVung>
+        <PhienAm>/prɪˈskrɪpʃn/</PhienAm>
+        <Nghia>đơn thuốc</Nghia>
+        <YNghia>Đơn thuóc này là Bí KÍP SƠN hy vọng sẽ chữa khỏi nỗi buồn</YNghia>
+        <TiengAnh>an official piece of paper on which a doctor writes the type of medicine you should have, and which enables you to get it from a chemist's</TiengAnh>
+        <Eg>The doctor gave me a Prescription that cost me half of my salary</Eg>
+        <Dich>Bác sĩ đã cho tôi một đơn thuốc mà tôi chỉ mất một nửa tiền lương của tôi</Dich>
+        <Srcimg>prescription</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Autism</TuVung>
+        <PhienAm>/ˈɔːtɪzəm/</PhienAm>
+        <Nghia>tự kỷ</Nghia>
+        <YNghia>Không có Ô THÌ DẦM mưa để đuổi kịp buổi thỏa luận về tự kỷ.</YNghia>
+        <TiengAnh>a condition affecting brain development that can be severe or mild.</TiengAnh>
+        <Eg>Autism is a very complicated condition with different levels of intensity</Eg>
+        <Dich>Tự kỷ là một tình trạng rất phức tạp với các mức độ nặng nhẹ khác nhau</Dich>
+        <Srcimg>autism</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Sore</TuVung>
+        <PhienAm>/sɔːr/</PhienAm>
+        <Nghia>đau nhức</Nghia>
+        <YNghia>Đau nhức chân tay khôgn thể SO với đau đầu.</YNghia>
+        <TiengAnh>if a part of your body is sore, it is painful, and often red, especially because of infection or because a muscle has been used too much</TiengAnh>
+        <Eg>His knee was sore for months after the accident</Eg>
+        <Dich>Đầu gối của anh ấy bị đau trong nhiều tháng sau vụ tai nạn</Dich>
+        <Srcimg>sore</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Flu</TuVung>
+        <PhienAm>/fluː/</PhienAm>
+        <Nghia>cảm cúm</Nghia>
+        <YNghia>Cơn cảm cúm khiến Vy bơ PHỜ LU mờ cả vẻ đẹp.</YNghia>
+        <TiengAnh>a serious disease caused by a virus, that causes a high temperature, severe pains and weakness</TiengAnh>
+        <Eg>The flu is often like a cold, but longer lasting and stronger</Eg>
+        <Dich>Cúm thường giống như cảm lạnh, nhưng kéo dài hơn và mạnh hơn</Dich>
+        <Srcimg>flu</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Throat</TuVung>
+        <PhienAm>/θrəʊt/</PhienAm>
+        <Nghia>cổ họng</Nghia>
+        <YNghia>Cổ họng Đức đau không THỐT lời nào.</YNghia>
+        <TiengAnh> a passage in the neck through which food and air pass on their way into the body; the front part of the neck</TiengAnh>
+        <Eg>When I have a cold, I oftem also have a sore throat</Eg>
+        <Dich>Khi bị cảm, tôi cũng thường bị đau họng</Dich>
+        <Srcimg>throat</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>ill</TuVung>
+        <PhienAm>/ɪl/</PhienAm>
+        <Nghia>bị ốm</Nghia>
+        <YNghia>"Iu" ơi, uống nước đá cẩn thận bị ốm.</YNghia>
+        <TiengAnh>suffering from an illness or disease; not feeling well</TiengAnh>
+        <Eg>I can't come to work today, boss; I'm too ill</Eg>
+        <Dich>Tôi không thể đến làm việc hôm nay, ông chủ; Tôi ốm quá</Dich>
+        <Srcimg>ill</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Drop</TuVung>
+        <PhienAm>/drɑːp/</PhienAm>
+        <Nghia>giọt</Nghia>
+        <YNghia>Vy "Dù RÓt" có vài giọt nước cũng làm đổ .</YNghia>
+        <TiengAnh>to allow something to fall by accident; to fall by accident</TiengAnh>
+        <Eg>She watched the drops of rain rolling on the window</Eg>
+        <Dich>Cô ấy nhìn những giọt mưa lăn trên cửa sổ</Dich>
+        <Srcimg>drop</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Health and Diseases 2</ChuDe>
+        <TuVung>Ache</TuVung>
+        <PhienAm>/eɪk/</PhienAm>
+        <Nghia>đau</Nghia>
+        <YNghia>"ẾCH Kêu" nhiều nên gặp phải cơn đau họng.</YNghia>
+        <TiengAnh>to feel a continuous pain that is not severe</TiengAnh>
+        <Eg>I have a couple of aches from old wounds</Eg>
+        <Dich>Tôi bị đau vài vết thương cũ</Dich>
+        <Srcimg>ache</Srcimg>
+    </Item>
+
+</Word>
+

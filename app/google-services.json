@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541078501537",
+    "project_id": "englishapp-ee08f",
+    "storage_bucket": "englishapp-ee08f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541078501537:android:dee3af53db34b685d1d8e0",
+        "android_client_info": {
+          "package_name": "com.binh.englishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541078501537-g63flvfvjnn8v0pmuqsigsh2mrlcplsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cln6RCwkYixDOf9CrlSdvT0WgqI2UFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541078501537-g63flvfvjnn8v0pmuqsigsh2mrlcplsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

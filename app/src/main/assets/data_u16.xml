@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Word>
+    <Item>
+        <ID>1</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Boil</TuVung>
+        <PhienAm>/bɔɪl/</PhienAm>
+        <Nghia>luộc</Nghia>
+        <YNghia>Mai vừa luộc thịt vừa xem BÓI Lông mày</YNghia>
+        <TiengAnh>when a liquid boils or when you boil it, it is heated to the point where it forms bubbles and turns to steam or vapour</TiengAnh>
+        <Eg>We boil chicken every year at tet</Eg>
+        <Dich>Chúng tôi luộc gà hàng năm vào dịp Tết</Dich>
+        <Srcimg>boil</Srcimg>
+    </Item>
+    <Item>
+        <ID>2</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Bacon</TuVung>
+        <PhienAm>/ˈbeɪkən/</PhienAm>
+        <Nghia>ba chỉ xông khói </Nghia>
+        <YNghia>Chúng BÂY CẦN ba chỉ xông khói để ăn sáng à?</YNghia>
+        <TiengAnh>meat from the back or sides of a pig that has been cured, usually served in thin slices</TiengAnh>
+        <Eg>They often have bacon for breakfast in the West</Eg>
+        <Dich>Họ thường có thịt xông khói vào bữa sáng ở phương Tây</Dich>
+        <Srcimg>bacon</Srcimg>
+    </Item>
+    <Item>
+        <ID>3</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Grill</TuVung>
+        <PhienAm>/ɡrɪl/</PhienAm>
+        <Nghia>nướng</Nghia>
+        <YNghia>Nướng Gà RIU riu trên than hoa là ngon tuyệt đỉnh</YNghia>
+        <TiengAnh>the part of a cooker that directs heat downwards to cook food that is placed under it</TiengAnh>
+        <Eg>One of the ways to cook corns is to grill them</Eg>
+        <Dich>Một trong những cách để nấu ngô là nướng chúng</Dich>
+        <Srcimg>grill</Srcimg>
+    </Item>
+    <Item>
+        <ID>4</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Yummy</TuVung>
+        <PhienAm>/ˈjʌmi/</PhienAm>
+        <Nghia>ngon</Nghia>
+        <YNghia>Vì mẹ làm thịt bò xào rau RĂM, MY ăn rất ngon </YNghia>
+        <TiengAnh>very good to eat</TiengAnh>
+        <Eg>people often dont believe me when I say mamtom is yummy</Eg>
+        <Dich>mọi người thường không tin tôi khi tôi nói mamtom ngon</Dich>
+        <Srcimg>yummy</Srcimg>
+    </Item>
+    <Item>
+        <ID>5</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Hotpot</TuVung>
+        <PhienAm>/ˈhɑːtpɑːt/</PhienAm>
+        <Nghia>lẩu</Nghia>
+        <YNghia>Hot+ pot = nóng + nồi=  nồi lẩu</YNghia>
+        <TiengAnh>a hot dish of meat, potato, onion, etc. cooked slowly in liquid in the oven</TiengAnh>
+        <Eg>Hotpot is a great meal for parties, wspecially during winter.</Eg>
+        <Dich>Lẩu là một món ăn tuyệt vời cho các bữa tiệc, đặc biệt là trong mùa đông.</Dich>
+        <Srcimg>hotpot</Srcimg>
+    </Item>
+    <Item>
+        <ID>6</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Crispy</TuVung>
+        <PhienAm>/ˈkrɪspi/</PhienAm>
+        <Nghia>giòn</Nghia>
+        <YNghia>Ăn được miếng bánh giòn mà Tí Cứ LI BÌ cười tít mít thế kia</YNghia>
+        <TiengAnh>pleasantly hard and dry</TiengAnh>
+        <Eg>Rice crackers are typically very crispy</Eg>
+        <Dich>Bánh quy giòn RIce thường rất giòn</Dich>
+        <Srcimg>crispy</Srcimg>
+    </Item>
+    <Item>
+        <ID>7</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Sauce</TuVung>
+        <PhienAm>/sɔːs/</PhienAm>
+        <Nghia>sốt</Nghia>
+        <YNghia>Món sốt vang này vẫn còn nhiều thiết SÓT</YNghia>
+        <TiengAnh>a thick liquid that is eaten with food to add taste to it</TiengAnh>
+        <Eg>Tomato sauce is often used in tofu dishes in VN</Eg>
+        <Dich>Nước sốt cà chua thường được dùng trong các món đậu phụ ở Việt Nam</Dich>
+        <Srcimg>sauce</Srcimg>
+    </Item>
+    <Item>
+        <ID>8</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Sweet</TuVung>
+        <PhienAm>/swiːt/</PhienAm>
+        <Nghia>ngọt</Nghia>
+        <YNghia>Rượu Sữa UÝT-ki có vị ngọt và thơm</YNghia>
+        <TiengAnh>containing, or tasting as if it contains, a lot of sugar</TiengAnh>
+        <Eg>Food in the South is rather sweet compared to the North</Eg>
+        <Dich>Thức ăn ở miền Nam khá ngọt so với miền Bắc</Dich>
+        <Srcimg>sweet</Srcimg>
+    </Item>
+    <Item>
+        <ID>9</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Savoury</TuVung>
+        <PhienAm>/ˈseɪvəri/</PhienAm>
+        <Nghia>mặn</Nghia>
+        <YNghia>Ăn thử mít SẤY, VỢ RI thấy có vị mặn</YNghia>
+        <TiengAnh>tasting of salt; not sweet</TiengAnh>
+        <Eg>I prefer savouty snacks to sweet ones</Eg>
+        <Dich>Tôi thích đồ ăn nhẹ mặn hơn đồ ngọt</Dich>
+        <Srcimg>savoury</Srcimg>
+    </Item>
+    <Item>
+        <ID>10</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Vegetarian</TuVung>
+        <PhienAm>/ˌvedʒəˈteriən/</PhienAm>
+        <Nghia>chay</Nghia>
+        <YNghia>"VẼ GÌ THẾ?" DÌ ÂN cần hỏi và mời Vy ăn đồ chay</YNghia>
+        <TiengAnh>a person who does not eat meat or fish</TiengAnh>
+        <Eg>Vegetarian food dont have any meat, sometimes not even egg</Eg>
+        <Dich>Đồ ăn chay không có thịt, thậm chí có khi không có trứng</Dich>
+        <Srcimg>vegetarian</Srcimg>
+    </Item>
+    <Item>
+        <ID>11</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Prepare</TuVung>
+        <PhienAm>/prɪˈper/</PhienAm>
+        <Nghia>chuẩn bị</Nghia>
+        <YNghia>Sau khi vào BỜ, DÌ BÉ chuẩn bị đồ ăn nhẹ</YNghia>
+        <TiengAnh>to make something or somebody ready to be used or to do something</TiengAnh>
+        <Eg>Vietnamese food often take a long time to Prepare</Eg>
+        <Dich>Món ăn Việt Nam thường mất nhiều thời gian để chuẩn bị</Dich>
+        <Srcimg>prepare</Srcimg>
+    </Item>
+    <Item>
+        <ID>12</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Beef</TuVung>
+        <PhienAm>/biːf/</PhienAm>
+        <Nghia>thịt bò</Nghia>
+        <YNghia>Còi xe ô tô chở thịt bò kêu BÍP bíp</YNghia>
+        <TiengAnh>meat that comes from a cow</TiengAnh>
+        <Eg>In India, people often dont eat beef</Eg>
+        <Dich>Ở Ấn Độ, mọi người thường không ăn thịt bò</Dich>
+        <Srcimg>beef</Srcimg>
+    </Item>
+    <Item>
+        <ID>13</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Pork</TuVung>
+        <PhienAm>/pɔːrk/</PhienAm>
+        <Nghia>thịt heo</Nghia>
+        <YNghia>Bé BÓC dán chữ cái thành phiên âm của từ thịt heo</YNghia>
+        <TiengAnh>meat from a pig that has not been cured </TiengAnh>
+        <Eg>Pork is often used in buncha</Eg>
+        <Dich>Thịt lợn thường được sử dụng trong món bún</Dich>
+        <Srcimg>pork</Srcimg>
+    </Item>
+    <Item>
+        <ID>14</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Stir-fry</TuVung>
+        <PhienAm>/ˈstɜːr fraɪ/</PhienAm>
+        <Nghia>xào</Nghia>
+        <YNghia>Stir+fry= đảo + chiên= xào</YNghia>
+        <TiengAnh>a hot dish made by stir-frying small pieces of meat, fish and/or vegetables</TiengAnh>
+        <Eg>If you stir-fry meat and vegetables with rice, it's called comrang</Eg>
+        <Dich>Nếu bạn xào thịt và rau với cơm thì gọi là cơm rang.</Dich>
+        <Srcimg>stirfry</Srcimg>
+    </Item>
+    <Item>
+        <ID>15</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>stomach</TuVung>
+        <PhienAm>/ˈstʌmək/</PhienAm>
+        <Nghia>dạ dày</Nghia>
+        <YNghia>Miếng sườn Siêu TO MẮC trong dạ dày của mai</YNghia>
+        <TiengAnh>the organ inside the body where food goes when you eat it</TiengAnh>
+        <Eg>My stomach hurts because I ate too much</Eg>
+        <Dich>Tôi đau bụng vì tôi ăn quá nhiều</Dich>
+        <Srcimg>stomach</Srcimg>
+    </Item>
+    <Item>
+        <ID>16</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Soup</TuVung>
+        <PhienAm>/suːp/</PhienAm>
+        <Nghia>canh</Nghia>
+        <YNghia>Tuấn thích ăn canh hơn súp</YNghia>
+        <TiengAnh>a liquid food made by boiling meat, vegetables, etc. in water, often eaten as the first course of a meal</TiengAnh>
+        <Eg>She likes all kinds of soup, especially tomato soup</Eg>
+        <Dich>Cô ấy thích tất cả các loại súp, đặc biệt là súp cà chua</Dich>
+        <Srcimg>soup</Srcimg>
+    </Item>
+    <Item>
+        <ID>17</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Chilli</TuVung>
+        <PhienAm>/ˈtʃɪli/</PhienAm>
+        <Nghia>ớt</Nghia>
+        <YNghia>Vườn ớt nằm ở vị TRÍ LÝ tưởng để phát triển</YNghia>
+        <TiengAnh>the small green or red fruit of a type of pepper plant that is used in cooking to give a hot taste to food, often dried or made into powder, also called chilli or chilli powder</TiengAnh>
+        <Eg>fish sauce is often served with a few pieces of chilli in it</Eg>
+        <Dich>nước mắm thường ăn kèm với vài miếng ớt.</Dich>
+        <Srcimg>chilli</Srcimg>
+    </Item>
+    <Item>
+        <ID>18</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Oily</TuVung>
+        <PhienAm>/ˈɔɪli/</PhienAm>
+        <Nghia>nhiều dầu</Nghia>
+        <YNghia>đồ ăn nhiều dầu mỡ nên ăn đừng ÓI LY nhé.</YNghia>
+        <TiengAnh>containing or covered with oil</TiengAnh>
+        <Eg>Fried chicken and pizza are often oily</Eg>
+        <Dich>Gà rán và bánh pizza thường nhiều dầu</Dich>
+        <Srcimg>oily</Srcimg>
+    </Item>
+    <Item>
+        <ID>19</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Dry</TuVung>
+        <PhienAm>/draɪ/</PhienAm>
+        <Nghia>khô</Nghia>
+        <YNghia>Đức RẢI thóc ra phơi cho khô.</YNghia>
+        <TiengAnh>not wet or sticky;</TiengAnh>
+        <Eg>Nobody likes dry, overcooked chicken</Eg>
+        <Dich>Không ai thích thịt gà khô, quá chín</Dich>
+        <Srcimg>dry</Srcimg>
+    </Item>
+    <Item>
+        <ID>20</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Serve</TuVung>
+        <PhienAm>/sɜːrv/</PhienAm>
+        <Nghia>phục vụ</Nghia>
+        <YNghia>Vy hỏi người phục vụ Hàn Quốc từ "Seob" đọc là "SỚP" hay " sóp".</YNghia>
+        <TiengAnh>to give somebody food or drink, for example at a restaurant or during a meal</TiengAnh>
+        <Eg>In most restaurants, people sit and wait for someone to serve them</Eg>
+        <Dich>Ở hầu hết các nhà hàng, mọi người ngồi và đợi ai đó phục vụ họ</Dich>
+        <Srcimg>serve</Srcimg>
+    </Item>
+    <Item>
+        <ID>21</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Groceries</TuVung>
+        <PhienAm>/ˈɡrəʊsəri/</PhienAm>
+        <Nghia>thực phẩm</Nghia>
+        <YNghia>Theo Gu-GỒ, DÂU, SƠ RI là thực phẩm giàu dinh dưỡng.</YNghia>
+        <TiengAnh>a shop that sells food and other things used in the home. I</TiengAnh>
+        <Eg>people should use paper bag instead of plastic bag for groceries</Eg>
+        <Dich>mọi người nên sử dụng túi giấy thay vì túi ni lông cho hàng tạp hóa</Dich>
+        <Srcimg>groceries</Srcimg>
+    </Item>
+    <Item>
+        <ID>22</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>stove</TuVung>
+        <PhienAm>/stəʊv/</PhienAm>
+        <Nghia>cái bếp</Nghia>
+        <YNghia>SỚ TÂU lên Ngọc Hoàng dài hơn cả cái bếp.</YNghia>
+        <TiengAnh>a piece of equipment that burns fuel or uses electricity in order to heat a place</TiengAnh>
+        <Eg>in my kitchen, I have an electric stove that I use every day.</Eg>
+        <Dich>trong nhà bếp của tôi, tôi có một bếp điện mà tôi sử dụng hàng ngày.</Dich>
+        <Srcimg>stove</Srcimg>
+    </Item>
+    <Item>
+        <ID>23</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Hangry</TuVung>
+        <PhienAm>/ˈhæŋɡri/</PhienAm>
+        <Nghia>cáu vì đói</Nghia>
+        <YNghia>Hungry+ angry= đói + quạo= quạo vì đói.</YNghia>
+        <TiengAnh>angry or in a bad mood because you are hungry</TiengAnh>
+        <Eg>I easily get Hangry if I skip breakfast</Eg>
+        <Dich>Tôi dễ dàng lấy được Hangry nếu tôi bỏ bữa sáng</Dich>
+        <Srcimg>hangry</Srcimg>
+    </Item>
+    <Item>
+        <ID>24</ID>
+        <ChuDe>Food and Drink 1</ChuDe>
+        <TuVung>Spicy</TuVung>
+        <PhienAm>/ˈspaɪsi/</PhienAm>
+        <Nghia>cay</Nghia>
+        <YNghia>SƠN BÁI SI làm sư phụ về khoản ăn cay.</YNghia>
+        <TiengAnh>having a strong taste because spices have been added to it</TiengAnh>
+        <Eg>I dont like to eat spicy food, because it burns my tongue.</Eg>
+        <Dich>Tôi không thích ăn đồ cay, vì nó làm bỏng lưỡi.</Dich>
+        <Srcimg>spicy</Srcimg>
+    </Item>
+</Word>
+
